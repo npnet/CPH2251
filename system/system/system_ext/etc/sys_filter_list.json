@@ -1,0 +1,52 @@
+{
+  "comment"       : "editable description",
+  "version"       : 20210625,
+  "filter_content": [
+    {
+      "name": "gl_oom",
+      "tag" : ["com.tencent.tmgp.sgame", "com.instagram.android", "com.facebook.katana", "com.facebook.orca", "com.facebook.pages.app", "com.excean.gspace"],
+      "value" : ["128", null, null, null, null, null]
+    },
+    {
+      "name": "brk_s2w",
+      "tag" : [
+        "com.autonavi.minimap", "com.autonavi.amapauto", "cn.bus365.wyc.drivergd", "cn.hznetroute.AAdriver",
+        "com.eamobile.nbajam_na_wf", "com.tuotuo.driver", "com.keubano.zhdz", "com.jsyc.driver", "net.untrip.app.lczcd",
+        "com.CharmingAgencys.nearme.gamecenter", "com.frontline.DesertEscape.nearme.gamecenter", "com.zsfz.zsjmnjs.nearme.gamecenter",
+        "com.yx", "com.smile.gifmaker"
+      ]
+    },
+    {
+      "name": "ui_first_black",
+      "tag" : [
+        "com.icbc.im", "com.bill99.kuaiyishua", "com.andromeda.androbench2", "com.tencent.tmgp.sgame", "com.tencent.tmgp.pubgmhd"
+      ]
+    },
+    {
+      "name": "gl_thread_ux",
+      "tag" : [
+        "com.coloros.gallery3d", "com.oppo.camera", "com.tencent.mobileqq", "com.android.chrome",
+        "com.MobileTicket", "com.UCMobile", "com.UCMobile.intl", "com.baidu.BaiduMap", "com.smile.gifmaker", "com.tencent.qqlive","com.tencent.mm"
+      ],
+      "value" : [
+        null, null, null, null,
+        "{\"op\":\"ps\", \"pattern\":\"(^Chrome_InProcRe)|(^Chrome_InProcGp)|(^Compositor$)\", \"delay\":\"5000\"}",
+        "{\"op\":\"ps\", \"pattern\":\"(^CrRendererMain)|(^CompositorVizRe)|(^Compositor$)\", \"delay\":\"2000\"}",
+        "{\"op\":\"ps\", \"pattern\":\"(^Chrome_InProcRe)|(^Chrome_InProcGp)|(^Compositor$)|(^CompositorVizRe)\", \"delay\":\"3000\", \"mode\":\"repeat\"}",
+        "{\"op\":\"ps\", \"pattern\":\"(^map-runloop$)\"}",
+        "{\"op\":\"ps\", \"pattern\":\"(^GLThread \\\\d+$)\", \"act_event\":\"resume com.yxcorp.gifshow.v3.EditorActivity\", \"delay\":\"2500\"}",
+        "{\"op\":\"ps\", \"pattern\":\"(^Chrome_InProcRe)|(^Chrome_InProcGp)|(^Compositor$)\", \"act_event\":\"start com.tencent.qqlive.ona.browser.H5Activity\"}",
+        "{\"op\":\"ps\", \"pattern\":\"(^Chrome_InProcRe)|(^Chrome_InProcGp)|(^Chrome_ChildIOT)|(^Chrome_IOThread)|(^VizCompositorTh)|(^Compositor$)\", \"delay\":\"2000\"}"
+      ]
+    },
+    {
+      "name": "scroll_opt",
+      "tag" : [
+        "com.tencent.mm", "com.taobao.taobao"
+      ],
+      "value": [
+        "[com.tencent.mm.plugin.sns.ui.SnsTimeLineUI, com.tencent.mm.ui.LauncherUI]", "[com.taobao.tao.TBMainActivity]"
+      ]
+    }
+  ]
+}
