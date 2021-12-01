@@ -1,0 +1,34 @@
+# build prop start
+ro.sys.manifest.test_version=x
+ro.vendor.manifest.test_version=x
+
+ro.oplus.image.my_manifest.type=x
+ro.oplus.version.my_stock=20355.1.0.202107160400072366299.dcd37c83
+ro.oplus.image.my_stock.type=export_OPPO
+ro.oplus.version.my_heytap=20355.1.0.202107150400072358128.dcd37c83
+ro.oplus.image.my_heytap.type=export
+ro.oplus.version.my_preload=0.0.1.202107171239462375750.dcd37c83
+ro.oplus.image.my_preload.type=export_20355_OPPO
+ro.oplus.version.my_carrier=version_stub.dcd37c83
+ro.oplus.image.my_carrier.type=empty
+ro.oplus.version.my_region=20355.1.0.202107170400072374259.dcd37c83
+ro.oplus.image.my_region.type=IN_OPPO
+ro.oplus.version.my_company=version_stub
+ro.oplus.image.my_company.type=empty
+ro.oplus.components.list=base,my_stock,my_heytap,my_carrier,my_region
+ro.oplus.version.base=20355.4.1.202107171239462375740
+ro.vendor.build.security_patch=2021-07-05
+ro.build.version.security_patch=2021-07-05
+ro.build.oplus_nv_id=00011011
+ro.mediatek.version.release=CPH2251export_11_A.11_2021071714340000
+ro.vendor.mediatek.version.release=CPH2251export_11_A.11_2021071714340000
+ro.build.version.ota=CPH2251_11.A.11_0110_202107171434
+ro.build.display.id=CPH2251_11_A.11
+ro.build.display.ota=CPH2251_11_A.11
+ro.oppo.market.name=OPPO Reno6 5G
+ro.vendor.oplus.market.name=OPPO Reno6 5G
+ro.oplus.pipeline_key=IN
+ro.oplus.image.my_manifest.version=CPH2251_11.A.11_0110_202107171434.1B.dcd37c83
+ro.build.oplus_ext_partitions=my_product my_engineering my_stock my_heytap my_region my_carrier my_preload my_company
+ro.build.display.id_ims=CPH2251_11_A.11_210717
+ro.build.version.svn=02

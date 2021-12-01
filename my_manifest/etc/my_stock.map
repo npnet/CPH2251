@@ -1,0 +1,244 @@
+/my_stock/apkcerts.txt 12-14
+/my_stock/app/AfterSalesService/AfterSalesService.apk 17-1488
+/my_stock/app/Aod/Aod.apk 1490-12166 0 0 0 0 0 0 12167 0 12168-12214 0 0 0 0 0 12215 0 0 12216 12218-12263 0 0 0 0 0 12264 0 0 12265-20549
+/my_stock/app/Aod/lib/arm64/libAncSegBaseJni.so 20552-20614
+/my_stock/app/Aod/lib/arm64/libAncSegBaseSdk.so 20615-21675
+/my_stock/app/Aod/lib/arm64/libCaptureBokeh.so 21676-21884
+/my_stock/app/Aod/lib/arm64/libMNN.so 21885-22346
+/my_stock/app/Aod/lib/arm64/libNvEffectSdkCore.so 22347-23951
+/my_stock/app/Aod/lib/arm64/libVFX.so 23952-24210 24210 24210 24210 24210 24212-25032 0 25033-25035 0 25036-25045 0 0 25046-25056 25056 25056 25056-25057 0 0 25058
+/my_stock/app/Aod/lib/arm64/libadd.so 25059-25060
+/my_stock/app/Aod/lib/arm64/libancbase_segbase.so 25061-25766 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25767-28250 0 0 0 0 0 0 0 0 0 0 0 0 28251 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28252-28254 0 0 28255 28257-28275 0 28276-28277 0 28278-28287 0 0 28288-28291
+/my_stock/app/Aod/lib/arm64/libc++_shared.so 28292-28529 0 28530-28533
+/my_stock/app/Aod/lib/arm64/libcharging.so 28534-28635
+/my_stock/app/Aod/lib/arm64/libcvface_api.so 28636-32548 0 0 32549 0 32550-32556 0 0 32557 0 0 0 0 0 0 0 0 0 0 32558 32560-32767 32775-32955
+/my_stock/app/Aod/lib/arm64/libhandpaintedeffects.so 32956-33062 0 33063-33067
+/my_stock/app/Aod/lib/arm64/libimageProcessing.so 33068-33183
+/my_stock/app/Aod/lib/arm64/libjni_cvface_api.so 33184-33247
+/my_stock/app/Aod/lib/arm64/libomp.so 33248-33406
+/my_stock/app/Aod/lib/arm64/libop-aod-bokeh-jni.qti.so 33407-33455 0 33456-33459
+/my_stock/app/Aod/lib/arm64/libopencv_java4.so 33460-37098 37095 37099-37109 37102-37103 37110 37112-37188 37188-37197 37197 37197 37197-37199 37188 37188 37200-37208 0 0 0 0 37209-37225 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 37226-37758 37758 37758-37772
+/my_stock/app/Aod/lib/arm64/liboplus_gifdecoder.so 37773-37828
+/my_stock/app/Aod/lib/arm64/liboplus_image_process.so 37829-37832
+/my_stock/app/Aod/lib/arm64/liboplusos_lunar.so 37833-37839
+/my_stock/app/Aod/lib/arm64/libyuv2.so 37840-37920
+/my_stock/app/AssistantScreen/AssistantScreen.apk 37922-39553 0 39554-39598 39597 39599-39600 39597 39602-39609 39597 39610-39617 39597 39618-42699
+/my_stock/app/BackupAndRestore/BackupAndRestore.apk 42701-44585 0 44586-47204
+/my_stock/app/COSA/COSA.apk 47206-47207 28293-28529 0 28530-28531 47208-48032 48032 48034-49651 24210 24210 49652-50441 50441 50441 50441 50441-50442 0 50443-55272
+/my_stock/app/Calculator2/Calculator2.apk 55274-55673 39597 55674-56758
+/my_stock/app/ChildrenSpace/ChildrenSpace.apk 56760-58127
+/my_stock/app/Clock/Clock.apk 58129-59637 0 59638-59666 39597 59667-59669 39597 59671-61185
+/my_stock/app/FileEncryption/FileEncryption.apk 61187-61834 39597 61835-62931
+/my_stock/app/FileManager/FileManager.apk 62933-63724 39597 63725-65263
+/my_stock/app/FloatAssistant/FloatAssistant.apk 65265-65535 65541-70548 70541 70549-70553 70547 70555-70627 37188 37188 70628-70636 37197 37197 37197 70637-70638 37188 37188 70639-70647 0 0 0 0 70648-70664 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 70665-71194 71194-71349 58198 71350-71678 0 71679-72638
+/my_stock/app/FocusMode/FocusMode.apk 72640-74526 0 74527-75419
+/my_stock/app/HealthCheck/HealthCheck.apk 75421-77152
+/my_stock/app/Karaoke/Karaoke.apk 56760-56764 77154-77340 0 77341-78286
+/my_stock/app/KeKePay/KeKePay.apk 78288-80612
+/my_stock/app/KeKePay/lib/arm/libocstool.so 80615-80620
+/my_stock/app/LocationProxy/LocationProxy.apk 56760-56764 77154-77156 80622-81550
+/my_stock/app/MCS/MCS.apk 81552-81997 0 81998-83769
+/my_stock/app/Music/Music.apk 83771-85199 0 85200-85302 0 85303-85555 39597 85556 85558-85567 39597 85568-87428
+/my_stock/app/NewSoundRecorder/NewSoundRecorder.apk 56760-56764 77154-77156 87430-89370
+/my_stock/app/NewSoundRecorder/lib/arm/libuninstall.so 89373-89376
+/my_stock/app/OpenCapabilityService/OpenCapabilityService.apk 89378-89856
+/my_stock/app/OplusQualityProtect/OplusQualityProtect.apk 89858-89895
+/my_stock/app/OppoCamera/OppoCamera.apk 89897-91953 91186-91440 91954-93172 0 0 0 0 93173-93899 0 0 0 0 93900 93902-96416 0 96417-96648 39597 39597 96649-96674 0 0 0 0 0 0 96675-96700 39597 39597 39597 96701-98303 98311-101430 0 0 101431 0 101432-101434 0 0 0 0 0 0 0 0 101435-102879 0 0 0 0 102880-108247 0 0 0 0 0 0 0 0 0 108248 0 108249-109656 0 109657-109691 39597 39597 109692-109696 39597 109697 39597 109698-109702 39597 109703 39597 109704-109730 39597 109731-109804 39597 109805-112194
+/my_stock/app/OppoCompass2/OppoCompass2.apk 112196-112237 77160-77163 112238-113400
+/my_stock/app/OppoOperationManualExp/OppoOperationManualExp.apk 17-18 113402-116654
+/my_stock/app/OppoPhoneActivation/OppoPhoneActivation.apk 116656-116918 0 116919-117807
+/my_stock/app/OppoSecurityKeyboard/OppoSecurityKeyboard.apk 78288-78292 117809-118098 0 118099-118678 80534 118679 118681-118720
+/my_stock/app/OppoWeather2/OppoWeather2.apk 118722-120166 39597 120167-121415
+/my_stock/app/OppoWeatherService/OppoWeatherService.apk 56760-56764 77154-77155 121417-121702 0 121703-122697
+/my_stock/app/PhoneNOAreaInquireProvider/PhoneNOAreaInquireProvider.apk 78288-78292 122699-123793 80534 123794-123851
+/my_stock/app/Pictorial/Pictorial.apk 123853-124827 122702-122704 124828-127806 39597 127807 39597 127809 39597 127810-127815 39597 127816-127828 39597 127829 39597 127830-127831 39597 127832-127834 39597 127835-127837 39597 127838-127842 39597 127843-127847 39597 127848 39597 127849 39597 127850 39597 127851-130119
+/my_stock/app/RomUpdate/RomUpdate.apk 130121-130590 81780-81783 130591-130700
+/my_stock/app/SceneMode/SceneMode.apk 130702-131071 131077-132623
+/my_stock/app/SecurePay/SecurePay.apk 132625-134645
+/my_stock/app/SmartSideBar/SmartSideBar.apk 134647-134698 75436 134699-134715 73538-73544 134716 134718-134997 0 134998-136035
+/my_stock/app/TZUpdate/TZUpdate.apk 136037-136136
+/my_stock/app/VariUIEngine/VariUIEngine.apk 136138 37833-37838 136139-136279
+/my_stock/app/Wallpapers/Wallpapers.apk 136281-140200 24210 24210 24210 24210 24210 24210 140202-141385 0 141386-141390 0 141391 0 0 141392-141403 0 141404-141420 141420 141420 141420 141420 141420-141421 0 0 141422-141429 0 0 0 141430-141431 37829-37831 141432-141510 0 141511-141576 43317-43318 141577-142889
+/my_stock/applist/applist.txt 142891
+/my_stock/build.prop 142892
+/my_stock/del-app/Games/Games.apk 78288-78291 142895-145920 80534 145921-145962
+/my_stock/del-app/OppoPods/OppoPods.apk 145964-151255
+/my_stock/del-app/OppoRelax/OppoRelax.apk 151257-163839 163847-166844 0 166845-166878 39597 166879 166881-168180
+/my_stock/del-app/OppoVideoEditor/OppoVideoEditor.apk 168182-170052 84662-84663 170053-170890 0 0 0 0 0 0 170891 0 0 170892 170894-177239 0 177240-177272 0 177273-177293 39597 39597 177294 39597 39597 39597 177295 39597 177296-177297 39597 177298 39597 177299 39597 39597 177300-177301 39597 39597 177302 39597 39597 177303-177304 39597 177305-177306 39597 177307 39597 177308 39597 177309 39597 177310 39597 177311-177312 39597 177313 39597 177314 39597 177315 39597 177316 39597 177317-177318 39597 39597 177319-177320 39597 39597 39597 177321 39597 177322-177323 39597 177324-177326 39597 177327-177328 39597 39597 177329-177337 39597 177338-177356 39597 177357-177367 39597 177368-177387 0 177388-177469 39597 177470-177594 177459 177595-177675 177569 177676-177887 39597 177888-192612
+/my_stock/etc/NOTICE.xml.gz 192614-192621
+/my_stock/etc/extension/AE/appfeature.country.dynamic_features.xml 192624
+/my_stock/etc/extension/AE/oplus.country.dynamic_features.xml 192625
+/my_stock/etc/extension/AR/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/AR/oplus.country.dynamic_features.xml 192625
+/my_stock/etc/extension/AU/appfeature.country.dynamic_features.xml 192629
+/my_stock/etc/extension/AU/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/AZ/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/AZ/oplus.country.dynamic_features.xml 192625
+/my_stock/etc/extension/BD/appfeature.country.dynamic_features.xml 192633
+/my_stock/etc/extension/BD/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/BE/appfeature.country.dynamic_features.xml 192635
+/my_stock/etc/extension/BE/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/BH/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/BH/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/BR/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/BR/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/CN/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/CN/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/CO/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/CO/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/CZ/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/CZ/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/DE/appfeature.country.dynamic_features.xml 192635
+/my_stock/etc/extension/DE/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/DK/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/DK/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/DZ/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/DZ/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/EG/appfeature.country.dynamic_features.xml 192645
+/my_stock/etc/extension/EG/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/ES/appfeature.country.dynamic_features.xml 192647
+/my_stock/etc/extension/ES/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/FR/appfeature.country.dynamic_features.xml 192649
+/my_stock/etc/extension/FR/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/GB/appfeature.country.dynamic_features.xml 192651
+/my_stock/etc/extension/GB/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/GR/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/GR/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/HK/appfeature.country.dynamic_features.xml 192654
+/my_stock/etc/extension/HK/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/HU/appfeature.country.dynamic_features.xml 192635
+/my_stock/etc/extension/HU/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/ID/appfeature.country.dynamic_features.xml 192633
+/my_stock/etc/extension/ID/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/IL/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/IL/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/IN/appfeature.country.dynamic_features.xml 192659
+/my_stock/etc/extension/IN/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/IR/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/IR/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/IT/appfeature.country.dynamic_features.xml 192662
+/my_stock/etc/extension/IT/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/JP/appfeature.country.dynamic_features.xml 192664
+/my_stock/etc/extension/JP/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/KE/appfeature.country.dynamic_features.xml 192645
+/my_stock/etc/extension/KE/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/KH/appfeature.country.dynamic_features.xml 192633
+/my_stock/etc/extension/KH/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/KR/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/KR/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/KW/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/KW/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/KZ/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/KZ/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/LA/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/LA/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/LK/appfeature.country.dynamic_features.xml 192672
+/my_stock/etc/extension/LK/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/MA/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/MA/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/MM/appfeature.country.dynamic_features.xml 192633
+/my_stock/etc/extension/MM/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/MX/appfeature.country.dynamic_features.xml 192635
+/my_stock/etc/extension/MX/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/MY/appfeature.country.dynamic_features.xml 192633
+/my_stock/etc/extension/MY/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/NG/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/NG/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/NL/appfeature.country.dynamic_features.xml 192679
+/my_stock/etc/extension/NL/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/NO/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/NO/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/NP/appfeature.country.dynamic_features.xml 192633
+/my_stock/etc/extension/NP/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/NZ/appfeature.country.dynamic_features.xml 192683
+/my_stock/etc/extension/NZ/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/OC/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/OC/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/OM/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/OM/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/PH/appfeature.country.dynamic_features.xml 192672
+/my_stock/etc/extension/PH/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/PK/appfeature.country.dynamic_features.xml 192672
+/my_stock/etc/extension/PK/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/PL/appfeature.country.dynamic_features.xml 192689
+/my_stock/etc/extension/PL/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/PT/appfeature.country.dynamic_features.xml 192635
+/my_stock/etc/extension/PT/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/QA/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/QA/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/RO/appfeature.country.dynamic_features.xml 192662
+/my_stock/etc/extension/RO/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/RU/appfeature.country.dynamic_features.xml 192645
+/my_stock/etc/extension/RU/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/SA/appfeature.country.dynamic_features.xml 192694
+/my_stock/etc/extension/SA/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/SE/appfeature.country.dynamic_features.xml 192627
+/my_stock/etc/extension/SE/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/SG/appfeature.country.dynamic_features.xml 192695
+/my_stock/etc/extension/SG/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/TH/appfeature.country.dynamic_features.xml 192696
+/my_stock/etc/extension/TH/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/TN/appfeature.country.dynamic_features.xml 192697
+/my_stock/etc/extension/TN/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/TR/appfeature.country.dynamic_features.xml 192662
+/my_stock/etc/extension/TR/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/TW/appfeature.country.dynamic_features.xml 192698
+/my_stock/etc/extension/TW/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/UA/appfeature.country.dynamic_features.xml 192635
+/my_stock/etc/extension/UA/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/US/appfeature.country.dynamic_features.xml 192699
+/my_stock/etc/extension/US/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/UZ/appfeature.country.dynamic_features.xml 192635
+/my_stock/etc/extension/UZ/oplus.country.dynamic_features.xml 192625
+/my_stock/etc/extension/VN/appfeature.country.dynamic_features.xml 192672
+/my_stock/etc/extension/VN/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/ZA/appfeature.country.dynamic_features.xml 192635
+/my_stock/etc/extension/ZA/oplus.country.dynamic_features.xml 192630
+/my_stock/etc/extension/feature_deepthinker.xml 192700
+/my_stock/etc/extension/feature_ota.xml 192701
+/my_stock/etc/extension/feature_resolver.xml 192702
+/my_stock/etc/extension/feature_sau.xml 192703
+/my_stock/etc/extension/feature_uxdesign.xml 192704
+/my_stock/etc/extension/trigger_manifest.xml 192705
+/my_stock/etc/permissions/com.oplus.features_export.xml 192706
+/my_stock/etc/permissions/com.oppo.android.feature.PAI.xml 192707
+/my_stock/etc/permissions/default_grant_permissions_list.xml 192708
+/my_stock/etc/permissions/privapp-permissions-oplus.xml 192709-192712
+/my_stock/etc/sysconfig/my_stock_common_sysconfig.xml 192713
+/my_stock/overlay/OplusDocumentsUIOverlay/OplusDocumentsUIOverlay.apk 192714-192716
+/my_stock/overlay/OplusGmsConfigOverlayCommon/OplusGmsConfigOverlayCommon.apk 192717-192719
+/my_stock/overlay/framework_res_overlay_ZERO_TOUCH/framework_res_overlay_ZERO_TOUCH.apk 192720-192722
+/my_stock/plugin/GamePerformanceOpt/GamePerformanceOpt.apk 192723-192774
+/my_stock/plugin/TeleServiceBackupAndRestore/TeleServiceBackupAndRestore.apk 78288-78289 192775-192987
+/my_stock/plugin/TeleServiceCarrierConfig/TeleServiceCarrierConfig.apk 192988-193014
+/my_stock/priv-app/AccessoryFramework/AccessoryFramework.apk 193015-195307 58187-58191 195308-195972
+/my_stock/priv-app/BlackListApp/BlackListApp.apk 195973-196607 196627-197434 117905 197435-198699
+/my_stock/priv-app/ColorScreenRecorder/ColorScreenRecorder.apk 198700-200379 115352-115354 200380-200848
+/my_stock/priv-app/ColorfulEngine/ColorfulEngine.apk 200849-201178
+/my_stock/priv-app/Contacts/Contacts.apk 201179-203904 24210 24210 203905-204836 204836 204838-204854 24210 204855-207566 0 207567-207620 50836 207621-207741 207724 207742-211372 122559-122570 211373-211703
+/my_stock/priv-app/Cota/Cota.apk 211704-213609
+/my_stock/priv-app/GlobalSearch/GlobalSearch.apk 213610-215577
+/my_stock/priv-app/HeyCast/HeyCast.apk 215578-216175 199347 216176-216868 66579-66806 216869 216871-216956 24210 216957-217998 81437 217999-218151
+/my_stock/priv-app/HeySynergy/HeySynergy.apk 218152-219787 117845-117848 219788-221183 133639-133643 221184 221186-221749
+/my_stock/priv-app/InCallUI/InCallUI.apk 221750-223989 0 223990-224023 39597 224024-224728
+/my_stock/priv-app/KeKeUserCenter/KeKeUserCenter.apk 224729-229375 229403-231400 231398 231401-233659 39597 233661-233685 39597 233686-233692 0 233693-233727 39597 233728-234349 39597 234350-234925
+/my_stock/priv-app/KeKeUserCenter/lib/arm/libcrypter-lib.so 234928-234952
+/my_stock/priv-app/KeKeUserCenter/lib/arm/libindoor.so 234953-234996
+/my_stock/priv-app/KeKeUserCenter/lib/arm/libmarsxlog.so 234997-235019
+/my_stock/priv-app/KeKeUserCenter/lib/arm/libstlport_shared.so 235020-235118
+/my_stock/priv-app/LockAssistant/LockAssistant.apk 235120-237076
+/my_stock/priv-app/MDSService/MDSService.apk 237078-238131 89379 238132-238269 113670-113672 238270 238272-238506 0 238507-238964
+/my_stock/priv-app/Mms/Mms.apk 238965-246830 0 246831-246832 246832 246832-248192 248191 248194-248231 0 248232 0 248233 0 248234 0 248235 0 248236 0 248237 0 248238 0 248239 0 248240 0 248241-248813 38081-38181 248814-249083 0 249084-249085 0 0 0 0 249086-250906 39597 250907-250909 39597 250910-250956 0 250957-251121 251101 251122-252688
+/my_stock/priv-app/NumberRecognition/NumberRecognition.apk 252689-253954 248806-248812 253955-254087 133313-133319 254088 254090-254223
+/my_stock/priv-app/OShare/OShare.apk 254224-256868 109712 256869-257103
+/my_stock/priv-app/Omacp/Omacp.apk 257104-259922
+/my_stock/priv-app/OppoBootReg/OppoBootReg.apk 259923-261637 0 0 0 0 0 0 0 261638 0 0 261639-262143 262154-269922
+/my_stock/priv-app/OppoDCS/OppoDCS.apk 269924-270834
+/my_stock/priv-app/OppoGallery2/OppoGallery2.apk 270836-273780 168210 273781-274258 273985-273986 274259 274261-274305 273653-273654 274306-277199 168199-168200 277200-281027 279216 281028-286523 96294-96301 286524-286638 0 286639-286819 24210 286820-290372 0 290373-290433 290371-290372 0 290373-290432 290434-292417 0 0 0 0 0 292418-292724 0 0 0 0 0 0 0 0 0 292725-294047 0 0 294048-294055 0 0 294056 0 0 0 0 0 0 0 0 0 294057-294911 294919-295296 24210 295297-297308 297308-297309 0 0 0 297310-297941 37826 297942-297943 37829-37831 297944-298234 99871 298235 99873 298236 99875 298237-299639 0 299640-299645 0 0 0 0 0 0 0 299646-300969 0 300970-300977 0 300978 0 0 0 0 0 0 300979-306243 0 306244-306245 0 0 306246 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 306247 0 306248 0 306249 0 0 0 0 306250 0 306251 0 306252 0 306253 0 0 306254 0 306255-306367 248873-248897 306368-308180 0 308181-308224 39597 308225-308229 39597 308230 39597 308231-308232 39597 39597 308233 39597 39597 308234-308235 39597 308236 39597 308237-308238 39597 308239-308243 39597 308244-308245 39597 308246-308248 39597 308249-308250 39597 308251-308252 39597 308253-308254 39597 308255-308256 39597 308257-308269 39597 308270-308387 308370 308388-308393 308377 308394 308379 308395-308407 308399 308408-308471 308445 308472-308479 308445 308480-308487 308445 308488-308538 308521 308539-308546 308530 308547 308532 308548-308553 308530 308554-308585 308577 308586-308593 308577 308594-313472
+/my_stock/priv-app/PlayAutoInstallConfig/PlayAutoInstallConfig.apk 313474-313475
+/my_stock/priv-app/SOSHelper/SOSHelper.apk 313477-315036 113706 315037-316244 0 316245-316831
+/my_stock/priv-app/SceneService/SceneService.apk 316833-318507
+/my_stock/priv-app/Screenshot/Screenshot.apk 318509-320237 58131-58132 320238-320284 112291 320285 320287-320671 0 320672-320706 39597 320707-321179
+/my_stock/priv-app/SmartDrive/SmartDrive.apk 321181-322378 117902 322379-322428 262696 322429 322431-323236
+/my_stock/priv-app/SystemClone/SystemClone.apk 323238-326337
+/my_stock/priv-app/VideoGallery/VideoGallery.apk 326339-327538 89373-89375 327539-327628 199993-199995 327629 327631-327679 327685-328449

@@ -1,0 +1,2533 @@
+/vendor/app/EmCamera/EmCamera.apk 41-386
+/vendor/app/GoogleNetworkStackResOverlay/GoogleNetworkStackResOverlay.apk 388-390
+/vendor/app/GoogleTetheringResOverlay/GoogleTetheringResOverlay.apk 392-394
+/vendor/app/InProcessTetheringResOverlay/InProcessTetheringResOverlay.apk 396-398
+/vendor/app/NetworkStackInProcessResOverlay/NetworkStackInProcessResOverlay.apk 400-402
+/vendor/app/NetworkStackResOverlay/NetworkStackResOverlay.apk 404-406
+/vendor/app/TetheringResOverlay/TetheringResOverlay.apk 408-410
+/vendor/app/mcRegistry/020b0000000000000000000000000000.drbin 412-420
+/vendor/app/mcRegistry/020b0000000000000000000000000000.tlbin 412-420
+/vendor/app/mcRegistry/020f0000000000000000000000000000.drbin 421-428
+/vendor/app/mcRegistry/020f0000000000000000000000000000.tlbin 421-428
+/vendor/app/mcRegistry/030c0000000000000000000000000000.drbin 429-431
+/vendor/app/mcRegistry/030c0000000000000000000000000000.tlbin 429-431
+/vendor/app/mcRegistry/05120000000000000000000000000000.drbin 432-435
+/vendor/app/mcRegistry/05120000000000000000000000000000.tlbin 432-435
+/vendor/app/mcRegistry/05120000000000000000000000000001.drbin 436-439
+/vendor/app/mcRegistry/05120000000000000000000000000001.tlbin 436-439
+/vendor/app/mcRegistry/06090000000000000000000000000000.drbin 440-443
+/vendor/app/mcRegistry/06090000000000000000000000000000.tlbin 440-443
+/vendor/app/mcRegistry/0706000000000000000000000000004d.tlbin 444-485
+/vendor/app/mcRegistry/07060000000000000000000000007169.drbin 486-500
+/vendor/app/mcRegistry/07060000000000000000000000007169.tlbin 486-500
+/vendor/app/mcRegistry/07061000000000000000000000000000.tlbin 501-504
+/vendor/app/mcRegistry/07070000000000000000000000000000.drbin 505-508
+/vendor/app/mcRegistry/07070000000000000000000000000000.tlbin 505-508
+/vendor/app/mcRegistry/07150000000000000000000000000000.drbin 509-512
+/vendor/app/mcRegistry/07150000000000000000000000000000.tlbin 509-512
+/vendor/app/mcRegistry/07170000000000000000000000000000.drbin 513-514
+/vendor/app/mcRegistry/07170000000000000000000000000000.tlbin 513-514
+/vendor/app/mcRegistry/08020000000000000000000000007169.tabin 515-522
+/vendor/app/mcRegistry/08030000000000000000000000000000.tabin 523-526
+/vendor/app/mcRegistry/08040000000000000000000000003419.tabin 527-530
+/vendor/app/mcRegistry/08050000000000000000000000003419.drbin 531-534
+/vendor/app/mcRegistry/08050000000000000000000000003419.tlbin 531-534
+/vendor/app/mcRegistry/08070000000000000000000000008270.drbin 535-548
+/vendor/app/mcRegistry/08070000000000000000000000008270.tlbin 535-548
+/vendor/app/mcRegistry/08090000000000000000000000000000.tabin 549-552
+/vendor/app/mcRegistry/08110000000000000000000000000000.tabin 553-566
+/vendor/app/mcRegistry/09010000000000000000000000000000.tabin 567-575
+/vendor/app/mcRegistry/09030000000000000000000000008270.tabin 576-582
+/vendor/app/mcRegistry/09190000000000000000000000000000.tabin 583-584
+/vendor/app/mcRegistry/40188311faf343488db888ad39496f9a.drbin 585-588
+/vendor/app/mcRegistry/40188311faf343488db888ad39496f9a.tlbin 585-588
+/vendor/app/mcRegistry/4be4f7dc1f2c11e5b5f7727283247c7f.drbin 589-607
+/vendor/app/mcRegistry/4be4f7dc1f2c11e5b5f7727283247c7f.tlbin 589-607
+/vendor/app/mcRegistry/4be4fd221f2c11e5b5f7727283247c7f.tabin 608-615
+/vendor/app/mcRegistry/5020170115e016302017012521300000.drbin 616-619
+/vendor/app/mcRegistry/5020170115e016302017012521300000.tlbin 616-619
+/vendor/app/mcRegistry/9073f03a9618383bb1856eb3f990babd.drbin 620-627
+/vendor/app/mcRegistry/9073f03a9618383bb1856eb3f990babd.tlbin 620-627
+/vendor/app/mcRegistry/98fb95bcb4bf42d26473eae48690d7ea.tabin 628-635
+/vendor/app/mcRegistry/e97c270ea5c44c58bcd3384a2fa2539e.tabin 636-674
+/vendor/bin/aee_aedv 676-728
+/vendor/bin/aee_aedv64 729-762
+/vendor/bin/aee_dumpstatev 763-778
+/vendor/bin/aeev 779-782
+/vendor/bin/applypatch 783-850
+/vendor/bin/atcid 851-869
+/vendor/bin/audiocmdservice_atci 870-880
+/vendor/bin/autobt 881-888
+/vendor/bin/awk 889-922
+/vendor/bin/bip_ap 923-949
+/vendor/bin/boringssl_self_test32 950
+/vendor/bin/boringssl_self_test64 951-953
+/vendor/bin/bt_dump 954-962
+/vendor/bin/ccci_fsd 963-994
+/vendor/bin/ccci_mdinit 995-1014
+/vendor/bin/ccci_rpcd 1015-1022
+/vendor/bin/conninfra_loader 1023-1025
+/vendor/bin/dconfig 1026-1062
+/vendor/bin/dexecutor 1063-1072
+/vendor/bin/doeapp-memtester 1073-1079
+/vendor/bin/doeapp-sat 1080-1120
+/vendor/bin/dtc_vendor 1121-1142
+/vendor/bin/dumpsys 1143-1153
+/vendor/bin/eara_io_service 1154-1156
+/vendor/bin/em_hidl 1157-1176
+/vendor/bin/factory 1177-1401
+/vendor/bin/fuelgauged 1402-1403
+/vendor/bin/fuelgauged_nvram 1404-1406
+/vendor/bin/gbe 1407-1409
+/vendor/bin/gsm0710muxd 1410-1426
+/vendor/bin/hostapd_cli 1427-1448
+/vendor/bin/hw/android.hardware.audio.service.mediatek 1450-1452
+/vendor/bin/hw/android.hardware.bluetooth@1.0-service-mediatek 1453-1455
+/vendor/bin/hw/android.hardware.cas@1.2-service 1456-1464
+/vendor/bin/hw/android.hardware.drm@1.3-service.clearkey 1465-1503
+/vendor/bin/hw/android.hardware.drm@1.3-service.widevine 1504-1506
+/vendor/bin/hw/android.hardware.gatekeeper@1.0-service 1507-1509
+/vendor/bin/hw/android.hardware.gnss@2.1-service-mediatek 1510-1512
+/vendor/bin/hw/android.hardware.graphics.allocator@4.0-service-mediatek 1513-1515
+/vendor/bin/hw/android.hardware.graphics.composer@2.1-service 1516-1518
+/vendor/bin/hw/android.hardware.health@2.1-service 1519-1534
+/vendor/bin/hw/android.hardware.keymaster@4.0-service.trustonic 1535-1559
+/vendor/bin/hw/android.hardware.lights-service.mediatek 1560-1567
+/vendor/bin/hw/android.hardware.media.omx@1.0-service 1568-1570
+/vendor/bin/hw/android.hardware.memtrack@1.0-service 1571-1573
+/vendor/bin/hw/android.hardware.neuralnetworks@1.3-service-mtk-neuron 1574-2678
+/vendor/bin/hw/android.hardware.secure_element@1.2-service-mediatek 2679-2698
+/vendor/bin/hw/android.hardware.sensors@2.0-service.multihal-mediatek 2699-2723
+/vendor/bin/hw/android.hardware.thermal@2.0-service.mtk 2724-2726
+/vendor/bin/hw/android.hardware.usb@1.1-service-mediatek 2727-2739
+/vendor/bin/hw/android.hardware.wifi@1.0-service-lazy 2740-2848
+/vendor/bin/hw/camerahalserver 2849-2852
+/vendor/bin/hw/hostapd 2853-3116
+/vendor/bin/hw/mtkfusionrild 3117-3120
+/vendor/bin/hw/power_native_test_v_1_0 3121-3126
+/vendor/bin/hw/power_native_test_v_1_1 3127-3132
+/vendor/bin/hw/vendor.mediatek.hardware.aee@1.0-service 3133-3137
+/vendor/bin/hw/vendor.mediatek.hardware.dplanner@2.0-service 3138-3177
+/vendor/bin/hw/vendor.mediatek.hardware.gpu@1.0-service 3178-3185
+/vendor/bin/hw/vendor.mediatek.hardware.keyinstall@1.0-service 3186 1572 3187
+/vendor/bin/hw/vendor.mediatek.hardware.keymaster_attestation@1.1-service 3188 1572 3189
+/vendor/bin/hw/vendor.mediatek.hardware.mms@1.5-service 3190-3192
+/vendor/bin/hw/vendor.mediatek.hardware.mtkcodecservice@1.1-service 3193-3194
+/vendor/bin/hw/vendor.mediatek.hardware.mtkpower@1.0-service 3195-3199
+/vendor/bin/hw/vendor.mediatek.hardware.nvram@1.1-service 3200-3202
+/vendor/bin/hw/vendor.mediatek.hardware.nwk_opt@1.0-service 3203-3205
+/vendor/bin/hw/vendor.mediatek.hardware.pq@2.2-service 3206-3208
+/vendor/bin/hw/vendor.mediatek.hardware.vpu@1.0-service 3209-3222
+/vendor/bin/hw/vendor.trustonic.soter@1.0-service 3223-3230
+/vendor/bin/hw/vendor.trustonic.tee@1.1-service 3231-3249
+/vendor/bin/hw/vtservice_hidl 3250-3251
+/vendor/bin/hw/wpa_supplicant 3252-3952 0 3953-3980
+/vendor/bin/install-recovery.sh 3981
+/vendor/bin/ipsec_mon 3982-3993
+/vendor/bin/jpegtool 3994-3998
+/vendor/bin/lbs_hidl_service 3999-4001
+/vendor/bin/loghidlvendorservice 4002-4008
+/vendor/bin/logwrapper 4009-4014
+/vendor/bin/mcDriverDaemon 4015-4195
+/vendor/bin/md_monitor 4196-4285
+/vendor/bin/md_monitor_ctrl 4286-4333
+/vendor/bin/meta_tst 4334-4398
+/vendor/bin/mnld 4399-4467
+/vendor/bin/mrdump_tool 4468-4481
+/vendor/bin/mtk_agpsd 4482-5024
+/vendor/bin/muxreport 5025-5031
+/vendor/bin/netdagent 5032-5045
+/vendor/bin/netdc 5046-5048
+/vendor/bin/nvram_daemon 5049-5056
+/vendor/bin/ppl_agent 5057-5078
+/vendor/bin/recordevent 5079-5083
+/vendor/bin/replayevent 5084-5086
+/vendor/bin/rttv 5087-5088
+/vendor/bin/sh 5089-5164
+/vendor/bin/swap_enable.sh 5165
+/vendor/bin/thermal 5166-5171
+/vendor/bin/thermal_manager 5172-5173
+/vendor/bin/thermalloadalgod 5174-5175
+/vendor/bin/toolbox 5176-5204
+/vendor/bin/toybox_vendor 5205-5246 0 5247-5323
+/vendor/bin/vndservice 5324-5333
+/vendor/bin/vndservicemanager 5334-5347
+/vendor/bin/vpud 5348-5351
+/vendor/bin/wifi_dump 5352-5360
+/vendor/bin/wlan_assistant 5361-5365
+/vendor/bin/wpa_cli 5366-5406
+/vendor/build.prop 5407-5410
+/vendor/data/misc/ProjectConfig.mk 5413-5419
+/vendor/default.prop 5420
+/vendor/etc/.tp/.ht120.mtc 5423
+/vendor/etc/.tp/.thermal_policy_08 5424-5425
+/vendor/etc/.tp/thermal.conf 5426 5425
+/vendor/etc/.tp/thermal.off.conf 5427
+/vendor/etc/DRIVER.ISO 0 0 0 0 0 0 0 0 5428-11229
+/vendor/etc/FV-SAM-MTK2.dat 11230-11232
+/vendor/etc/MNL_Config.xml 11233
+/vendor/etc/NOTICE.xml.gz 11234-11257
+/vendor/etc/a2dp_audio_policy_configuration.xml 11258
+/vendor/etc/a2dp_in_audio_policy_configuration.xml 11259
+/vendor/etc/aee-config 11260
+/vendor/etc/apdb/APDB_MT6853_S01__W2118 11262-11323
+/vendor/etc/apdb/APDB_MT6853_S01__W2118_ENUM 11324-11329
+/vendor/etc/armnn_app.config 11330-11346
+/vendor/etc/audio_device.xml 11347-11369
+/vendor/etc/audio_effects.xml 11370-11371
+/vendor/etc/audio_em.xml 11372
+/vendor/etc/audio_param/AudioParamOptions.xml 11374-11375
+/vendor/etc/audio_param/BtInfo_AudioParam.xml 11376
+/vendor/etc/audio_param/BtInfo_ParamUnitDesc.xml 11377
+/vendor/etc/audio_param/HpImpedance_AudioParam.xml 11378
+/vendor/etc/audio_param/HpImpedance_ParamUnitDesc.xml 11379
+/vendor/etc/audio_param/MicInfo_AudioParam.xml 11380
+/vendor/etc/audio_param/MicInfo_ParamUnitDesc.xml 11381
+/vendor/etc/audio_param/PlaybackACF_AudioParam.xml 11382-11383
+/vendor/etc/audio_param/PlaybackACF_ParamUnitDesc.xml 11384
+/vendor/etc/audio_param/PlaybackDRC_AudioParam.xml 11385-11387
+/vendor/etc/audio_param/PlaybackDRC_ParamUnitDesc.xml 11388
+/vendor/etc/audio_param/PlaybackHCF_AudioParam.xml 11389-11390
+/vendor/etc/audio_param/PlaybackHCF_ParamUnitDesc.xml 11391
+/vendor/etc/audio_param/PlaybackVolAna_AudioParam.xml 11392
+/vendor/etc/audio_param/PlaybackVolAna_ParamUnitDesc.xml 11393
+/vendor/etc/audio_param/PlaybackVolDigi_AudioParam.xml 11394-11395
+/vendor/etc/audio_param/PlaybackVolDigi_ParamUnitDesc.xml 11396
+/vendor/etc/audio_param/PlaybackVolUI_AudioParam.xml 11397-11398
+/vendor/etc/audio_param/PlaybackVolUI_ParamUnitDesc.xml 11399
+/vendor/etc/audio_param/Playback_AudioParam.xml 11400
+/vendor/etc/audio_param/Playback_ParamTreeView.xml 11401
+/vendor/etc/audio_param/Playback_ParamUnitDesc.xml 11402
+/vendor/etc/audio_param/RecordDMNR_AudioParam.xml 11403
+/vendor/etc/audio_param/RecordDMNR_ParamUnitDesc.xml 11404
+/vendor/etc/audio_param/RecordFIR_AudioParam.xml 11405
+/vendor/etc/audio_param/RecordFIR_ParamUnitDesc.xml 11406
+/vendor/etc/audio_param/RecordUI_AudioParam.xml 11407-11408
+/vendor/etc/audio_param/RecordUI_ParamUnitDesc.xml 11409
+/vendor/etc/audio_param/RecordVolUI_AudioParam.xml 11410
+/vendor/etc/audio_param/RecordVolUI_ParamUnitDesc.xml 11411
+/vendor/etc/audio_param/RecordVol_AudioParam.xml 11412
+/vendor/etc/audio_param/RecordVol_ParamUnitDesc.xml 11413
+/vendor/etc/audio_param/Record_AudioParam.xml 11414-11420
+/vendor/etc/audio_param/Record_ParamTreeView.xml 11421
+/vendor/etc/audio_param/Record_ParamUnitDesc.xml 11422-11425
+/vendor/etc/audio_param/RingbackVolUI_AudioParam.xml 11426
+/vendor/etc/audio_param/RingbackVolUI_ParamUnitDesc.xml 11427
+/vendor/etc/audio_param/RingbackVol_AudioParam.xml 11428
+/vendor/etc/audio_param/RingbackVol_ParamUnitDesc.xml 11429
+/vendor/etc/audio_param/SmartPa_AudioParam.xml 11430-11431
+/vendor/etc/audio_param/SmartPa_ParamUnitDesc.xml 11432
+/vendor/etc/audio_param/SoundEnhancement_AudioParam.xml 11433
+/vendor/etc/audio_param/SoundEnhancement_ParamUnitDesc.xml 11434
+/vendor/etc/audio_param/SpeechDMNR_AudioParam.xml 11435-11438
+/vendor/etc/audio_param/SpeechDMNR_ParamUnitDesc.xml 11439-11445
+/vendor/etc/audio_param/SpeechEchoRef_AudioParam.xml 11446
+/vendor/etc/audio_param/SpeechEchoRef_ParamUnitDesc.xml 11447
+/vendor/etc/audio_param/SpeechGeneral_AudioParam.xml 11448
+/vendor/etc/audio_param/SpeechGeneral_ParamUnitDesc.xml 11449
+/vendor/etc/audio_param/SpeechMagiClarity_AudioParam.xml 11450
+/vendor/etc/audio_param/SpeechMagiClarity_ParamUnitDesc.xml 11451
+/vendor/etc/audio_param/SpeechNetwork_AudioParam.xml 11452
+/vendor/etc/audio_param/SpeechNetwork_ParamUnitDesc.xml 11453
+/vendor/etc/audio_param/SpeechUI_AudioParam.xml 11454-11455
+/vendor/etc/audio_param/SpeechUI_ParamUnitDesc.xml 11456-11457
+/vendor/etc/audio_param/SpeechVolUI_AudioParam.xml 11458
+/vendor/etc/audio_param/SpeechVolUI_ParamUnitDesc.xml 11459
+/vendor/etc/audio_param/SpeechVol_AudioParam.xml 11460
+/vendor/etc/audio_param/SpeechVol_ParamUnitDesc.xml 11461
+/vendor/etc/audio_param/Speech_AudioParam.xml 11462-11591
+/vendor/etc/audio_param/Speech_ParamTreeView.xml 11592-11600
+/vendor/etc/audio_param/Speech_ParamUnitDesc.xml 11601-11613
+/vendor/etc/audio_param/USBCall_AudioParam.xml 11614
+/vendor/etc/audio_param/USBCall_ParamUnitDesc.xml 11615
+/vendor/etc/audio_param/USBDevice_AudioParam.xml 11616
+/vendor/etc/audio_param/USBDevice_ParamUnitDesc.xml 11617
+/vendor/etc/audio_param/UplinkConfiguration_AudioParam.xml 11618
+/vendor/etc/audio_param/UplinkConfiguration_ParamUnitDesc.xml 11619
+/vendor/etc/audio_param/VoIPDMNR_AudioParam.xml 11620
+/vendor/etc/audio_param/VoIPDMNR_ParamUnitDesc.xml 11621
+/vendor/etc/audio_param/VoIPGeneral_AudioParam.xml 11622
+/vendor/etc/audio_param/VoIPGeneral_ParamUnitDesc.xml 11623
+/vendor/etc/audio_param/VoIPUI_AudioParam.xml 11624
+/vendor/etc/audio_param/VoIPUI_ParamUnitDesc.xml 11625
+/vendor/etc/audio_param/VoIPVolUI_AudioParam.xml 11626
+/vendor/etc/audio_param/VoIPVolUI_ParamUnitDesc.xml 11627
+/vendor/etc/audio_param/VoIPVol_AudioParam.xml 11628
+/vendor/etc/audio_param/VoIPVol_ParamUnitDesc.xml 11629
+/vendor/etc/audio_param/VoIP_AudioParam.xml 11630-11631
+/vendor/etc/audio_param/VoIP_ParamTreeView.xml 11632-11633
+/vendor/etc/audio_param/VoIP_ParamUnitDesc.xml 11634-11637
+/vendor/etc/audio_param/VoIPv2DMNR_AudioParam.xml 11638
+/vendor/etc/audio_param/VoIPv2DMNR_ParamUnitDesc.xml 11639-11678
+/vendor/etc/audio_param/VoIPv2General_AudioParam.xml 11679
+/vendor/etc/audio_param/VoIPv2General_ParamUnitDesc.xml 11680
+/vendor/etc/audio_param/VoIPv2UI_AudioParam.xml 11681
+/vendor/etc/audio_param/VoIPv2UI_ParamUnitDesc.xml 11682
+/vendor/etc/audio_param/VoIPv2_AudioParam.xml 11683-11689
+/vendor/etc/audio_param/VoIPv2_ParamTreeView.xml 11690-11699
+/vendor/etc/audio_param/VoIPv2_ParamUnitDesc.xml 11700-11711
+/vendor/etc/audio_param/VoWDspAec_AudioParam.xml 11712-11714
+/vendor/etc/audio_param/VoWDspAec_ParamUnitDesc.xml 11715
+/vendor/etc/audio_param/VoWHwVad_AudioParam.xml 11716
+/vendor/etc/audio_param/VoWHwVad_ParamUnitDesc.xml 11717
+/vendor/etc/audio_param/VolumeGainMapUL_AudioParam.xml 11718
+/vendor/etc/audio_param/VolumeGainMapUL_ParamUnitDesc.xml 11719
+/vendor/etc/audio_param/VolumeGainMap_AudioParam.xml 11720-11722
+/vendor/etc/audio_param/VolumeGainMap_ParamUnitDesc.xml 11723-11724
+/vendor/etc/audio_param/Volume_AudioParam.xml 11725-11729
+/vendor/etc/audio_param/Volume_ParamUnitDesc.xml 11730
+/vendor/etc/audio_policy.conf 11731-11732
+/vendor/etc/audio_policy_configuration.xml 11733-11738
+/vendor/etc/audio_policy_configuration_a2dp_offload_disabled.xml 11733 11739-11743
+/vendor/etc/audio_policy_configuration_bluetooth_legacy_hal.xml 11744-11747
+/vendor/etc/audio_policy_volumes.xml 11748-11751
+/vendor/etc/aurisys_config.xml 11752-11757
+/vendor/etc/aurisys_config_hifi3.xml 11758-11765
+/vendor/etc/aurisys_param/Speech_AudioParam.xml 11462-11591
+/vendor/etc/bluetooth_audio_policy_configuration.xml 11766
+/vendor/etc/bluetooth_offload_audio_policy_configuration.xml 11767
+/vendor/etc/default_volume_tables.xml 11768-11769
+/vendor/etc/ecc_list.xml 11770-11775
+/vendor/etc/ecc_list_OP01.xml 11776
+/vendor/etc/ecc_list_OP02.xml 11777
+/vendor/etc/ecc_list_OP09.xml 11778
+/vendor/etc/ecc_list_OP12.xml 11779
+/vendor/etc/ecc_list_OP17.xml 11780
+/vendor/etc/ecc_list_OP18.xml 11781
+/vendor/etc/ecc_list_OP20.xml 11782
+/vendor/etc/ecc_list_preference.xml 11783
+/vendor/etc/factory.ini 11784
+/vendor/etc/file112.wav 11785-12711
+/vendor/etc/fs_config_files 12712
+/vendor/etc/fstab.emmc 12713-12714
+/vendor/etc/fstab.enableswap 12715
+/vendor/etc/fstab.mt6877 12716-12717
+/vendor/etc/fstb.cfg 12718
+/vendor/etc/gbe.cfg 12719
+/vendor/etc/gnss/agps_profiles_conf2.xml 12720-12728
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_ATnT_Mexico.xml 12729
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_ATnT_US.xml 12730
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_CT.xml 12731
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_Claro_Peru.xml 12732
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_Entel_Peru.xml 12733
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_KDDI.xml 12734
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_QXWZ.xml 12735
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_SK_Telecom.xml 12736
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_SoftBank.xml 12737
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_Sprint.xml 12738
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_T-Mobile_US.xml 12739
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_Test_SIM1.xml 12740
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_Test_SIM2.xml 12741
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_Verizon_Wireless.xml 12742
+/vendor/etc/gnss/carrier/agps_profiles_conf2_carrier_Vodafone.xml 12743
+/vendor/etc/init/aee_aedv.rc 12744
+/vendor/etc/init/aee_aedv64.rc 12745
+/vendor/etc/init/android.hardware.audio.service.mediatek.rc 12746
+/vendor/etc/init/android.hardware.bluetooth@1.0-service-mediatek.rc 12747
+/vendor/etc/init/android.hardware.cas@1.2-service.rc 12748
+/vendor/etc/init/android.hardware.drm@1.3-service.clearkey.rc 12749
+/vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc 12750
+/vendor/etc/init/android.hardware.gatekeeper@1.0-service.rc 12751
+/vendor/etc/init/android.hardware.gnss@2.1-service-mediatek.rc 12752
+/vendor/etc/init/android.hardware.graphics.allocator@4.0-service-mediatek.rc 12753
+/vendor/etc/init/android.hardware.graphics.composer@2.1-service.rc 12754
+/vendor/etc/init/android.hardware.health@2.1-service.rc 12755
+/vendor/etc/init/android.hardware.keymaster@4.0-service.trustonic.rc 12756
+/vendor/etc/init/android.hardware.media.omx@1.0-service.rc 12757
+/vendor/etc/init/android.hardware.memtrack@1.0-service.rc 12758
+/vendor/etc/init/android.hardware.neuralnetworks@1.3-service-mtk-neuron.rc 12759
+/vendor/etc/init/android.hardware.secure_element@1.2-service-mediatek.rc 12760
+/vendor/etc/init/android.hardware.sensors@2.0-service.multihal-mediatek.rc 12761
+/vendor/etc/init/android.hardware.thermal@2.0-service.mtk.rc 12762
+/vendor/etc/init/android.hardware.usb@1.1-service-mediatek.rc 12763
+/vendor/etc/init/android.hardware.wifi.supplicant-service.rc 12764
+/vendor/etc/init/android.hardware.wifi@1.0-service-lazy.rc 12765
+/vendor/etc/init/atcid.rc 12766
+/vendor/etc/init/audiocmdservice_atci.rc 12767
+/vendor/etc/init/bootperf.rc 12768
+/vendor/etc/init/boringssl_self_test.rc 12769
+/vendor/etc/init/camerahalserver.rc 12770
+/vendor/etc/init/eara-io-service.rc 12771
+/vendor/etc/init/em_hidl_user.rc 12772
+/vendor/etc/init/fuelgauged_init.rc 12773
+/vendor/etc/init/fuelgauged_nvram_init.rc 12774
+/vendor/etc/init/gbe.rc 12775
+/vendor/etc/init/gsm0710muxd.rc 12776
+/vendor/etc/init/hostapd.android.rc 12777
+/vendor/etc/init/hw/factory_init.connectivity.rc 12778
+/vendor/etc/init/hw/factory_init.project.rc 12779
+/vendor/etc/init/hw/factory_init.rc 12780-12787
+/vendor/etc/init/hw/init.aee.rc 12788
+/vendor/etc/init/hw/init.ago.rc 12789
+/vendor/etc/init/hw/init.connectivity.rc 12790
+/vendor/etc/init/hw/init.modem.rc 12791
+/vendor/etc/init/hw/init.mt6877.rc 12792-12801
+/vendor/etc/init/hw/init.mt6877.usb.rc 12802-12814
+/vendor/etc/init/hw/init.project.rc 12815
+/vendor/etc/init/hw/init.sensor_2_0.rc 12816
+/vendor/etc/init/hw/meta_init.connectivity.rc 12817
+/vendor/etc/init/hw/meta_init.modem.rc 12818
+/vendor/etc/init/hw/meta_init.project.rc 12819
+/vendor/etc/init/hw/meta_init.rc 12820-12825
+/vendor/etc/init/hw/multi_init.rc 12826
+/vendor/etc/init/init.bip_ap.rc 12827
+/vendor/etc/init/init.bt_drv.rc 12828
+/vendor/etc/init/init.cccifsd.rc 12829
+/vendor/etc/init/init.cccimdinit.rc 12830
+/vendor/etc/init/init.cccirpcd.rc 12831
+/vendor/etc/init/init.conninfra.rc 12832
+/vendor/etc/init/init.fmradio_drv.rc 12833
+/vendor/etc/init/init.gps_drv.rc 12834
+/vendor/etc/init/init.thermal.rc 12835
+/vendor/etc/init/init.thermal_manager.rc 12836
+/vendor/etc/init/init.thermalloadalgod.rc 12837
+/vendor/etc/init/init.vtservice_hidl.rc 12838
+/vendor/etc/init/init.wlan_drv.rc 12839
+/vendor/etc/init/init_connectivity.rc 12840
+/vendor/etc/init/init_conninfra.rc 12841
+/vendor/etc/init/ipsec_mon.rc 12842
+/vendor/etc/init/lbs_hidl_service.rc 12843
+/vendor/etc/init/lights-mtk-default.rc 12844
+/vendor/etc/init/loghidlvendorservice.rc 12845
+/vendor/etc/init/md_monitor.rc 12846
+/vendor/etc/init/mtk_agpsd_p.rc 12847
+/vendor/etc/init/mtkrild.rc 12848
+/vendor/etc/init/muxreport.rc 12849
+/vendor/etc/init/netdagent.rc 12850
+/vendor/etc/init/networksetting.rc 12851
+/vendor/etc/init/nvram_daemon.rc 12852
+/vendor/etc/init/ppl_agent.rc 12853
+/vendor/etc/init/tee.rc 12854
+/vendor/etc/init/trustonic.rc 12855
+/vendor/etc/init/vendor.mediatek.hardware.aee@1.0-service.rc 12856
+/vendor/etc/init/vendor.mediatek.hardware.dplanner@2.0-service.rc 12857
+/vendor/etc/init/vendor.mediatek.hardware.gpu@1.0-service.rc 12858
+/vendor/etc/init/vendor.mediatek.hardware.keyinstall@1.0-service.rc 12859
+/vendor/etc/init/vendor.mediatek.hardware.keymaster_attestation@1.1-service.rc 12860
+/vendor/etc/init/vendor.mediatek.hardware.mms@1.5-service.rc 12861
+/vendor/etc/init/vendor.mediatek.hardware.mtkcodecservice@1.1-service.rc 12862
+/vendor/etc/init/vendor.mediatek.hardware.mtkpower@1.0-init.rc 12863-12868
+/vendor/etc/init/vendor.mediatek.hardware.mtkpower@1.0-service.rc 12869
+/vendor/etc/init/vendor.mediatek.hardware.nvram@1.1-sevice.rc 12870
+/vendor/etc/init/vendor.mediatek.hardware.nwk_opt@1.0-service.rc 12871
+/vendor/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc 12872
+/vendor/etc/init/vendor.mediatek.hardware.vpu@1.0-service.rc 12873
+/vendor/etc/init/vendor.trustonic.soter@1.0-service.rc 12874
+/vendor/etc/init/vendor.trustonic.tee@1.1-service.rc 12875
+/vendor/etc/init/vendor_flash_recovery.rc 12876
+/vendor/etc/init/vndservicemanager.rc 12877
+/vendor/etc/init/vpud.rc 12878
+/vendor/etc/init/wlan_assistant.rc 12879
+/vendor/etc/md/cacerts/ikev2/DigiCertGlobalRootCA.crt 12880
+/vendor/etc/md/cacerts/ikev2/DigiCertGlobalRootG2.crt 12881
+/vendor/etc/md/cacerts/ikev2/DigiCertGlobalRootG3.crt 12882
+/vendor/etc/md/cacerts/ikev2/Entrust.net_Certification_Authority_2048.cer 12883
+/vendor/etc/md/cacerts/ikev2/GeoTrust_PCA_G3_Root.der 12884
+/vendor/etc/md/cacerts/ikev2/GeoTrust_Primary_CA.der 12885
+/vendor/etc/md/cacerts/ikev2/GeoTrust_Primary_CA_G2_ECC.der 12886
+/vendor/etc/md/cacerts/ikev2/GlobalSign_root_CA.crt 12887
+/vendor/etc/md/cacerts/ikev2/Root-R3.cer 12888
+/vendor/etc/md/cacerts/ikev2/Root_CA_1003.crt 12889
+/vendor/etc/md/cacerts/ikev2/VeriSignClass3G4.der 12890
+/vendor/etc/md/cacerts/ikev2/VeriSignClass3G5.der 12891
+/vendor/etc/md/cacerts/ikev2/VeriSignUniversalRootCertification.der 12892
+/vendor/etc/md/cacerts/ikev2/thawte.der 12893
+/vendor/etc/md/cacerts/tls/Certificates3.crt 12894
+/vendor/etc/md/cacerts/tls/CertumCA.crt 12895
+/vendor/etc/md/cacerts/tls/CertumOrganizationValidationCASHA2.crt 12896
+/vendor/etc/md/cacerts/tls/CertumTrustedNetworkCA.crt 12897
+/vendor/etc/md/cacerts/tls/CyberTrustJapanPublicCAG3.crt 12898
+/vendor/etc/md/cacerts/tls/DigiCertGlobalRootCA.crt 12880
+/vendor/etc/md/cacerts/tls/DigiCertSHA2SecureServerCA.crt 12899
+/vendor/etc/md/cacerts/tls/DomenySslDvCertificationAuthority.crt 12900
+/vendor/etc/md/cacerts/tls/EntrustCertificationAuthorityL1K.cer 12901
+/vendor/etc/md/cacerts/tls/EntrustRootCertificationAuthority.crt 12902
+/vendor/etc/md/cacerts/tls/EntrustRootCertificationAuthorityG2.crt 12903
+/vendor/etc/md/cacerts/tls/GoDaddyClass2CA.crt 12904
+/vendor/etc/md/cacerts/tls/GoDaddyRootCAG2.crt 12905
+/vendor/etc/md/cacerts/tls/GoDaddyRootCertificateAuthorityG2.crt 12906
+/vendor/etc/md/cacerts/tls/GoDaddySecureCAG2.crt 12907
+/vendor/etc/md/cacerts/tls/GoDaddySecureCertificateAuthorityG2.crt 12907
+/vendor/etc/md/cacerts/tls/KPNPKIoverheidServerCA2020_KPN.crt 12908
+/vendor/etc/md/cacerts/tls/KPN_BV_PKIoverheid_Organisatie_Server_CA-G3_2019.cer 12909
+/vendor/etc/md/cacerts/tls/StaatderNederlandenOrganisatieServicesCA-G3.cer 12910
+/vendor/etc/md/cacerts/tls/StaatderNederlandenRootCA-G3.cer 12911
+/vendor/etc/md/cacerts/tls/USERTrustRSACertificationAuthority.crt 12912
+/vendor/etc/md/cacerts/tls/staatderNederlandenDomeinServerCA2020_KPN.crt 12913
+/vendor/etc/md/cacerts/tls/staatderNederlandenEVRootCA_KPN.crt 12914
+/vendor/etc/md/cacerts/tls/xcap.crt 12915
+/vendor/etc/md/cacerts/tls/xcap_KPN.crt 12916
+/vendor/etc/mdota/MTK_MD_OTA_CONFIG.ini 12917
+/vendor/etc/mdota/MTK_OPOTA_GENERAL.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_1.mcfopota 12919
+/vendor/etc/mdota/MTK_OPOTA_SBPID_10.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_100.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_1001.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_1002.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_1003.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_1004.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_101.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_102.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_103.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_104.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_105.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_106.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_107.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_108.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_109.mcfopota 12920
+/vendor/etc/mdota/MTK_OPOTA_SBPID_11.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_110.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_111.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_112.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_113.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_114.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_115.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_116.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_117.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_118.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_119.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_12.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_120.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_121.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_122.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_123.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_124.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_125.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_126.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_127.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_128.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_129.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_130.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_131.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_132.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_133.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_134.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_135.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_136.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_137.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_138.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_139.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_140.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_141.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_143.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_144.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_145.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_146.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_147.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_148.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_149.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_15.mcfopota 12921
+/vendor/etc/mdota/MTK_OPOTA_SBPID_150.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_151.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_152.mcfopota 12922
+/vendor/etc/mdota/MTK_OPOTA_SBPID_153.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_154.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_155.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_156.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_157.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_158.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_159.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_15_234_10.mcfopota 12923
+/vendor/etc/mdota/MTK_OPOTA_SBPID_16.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_160.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_161.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_162.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_163.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_164.mcfopota 12924
+/vendor/etc/mdota/MTK_OPOTA_SBPID_165.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_166.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_167.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_168.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_169.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_17.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_170.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_171.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_172.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_173.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_174.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_175.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_176.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_177.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_178.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_179.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_18.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_180.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_181.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_182.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_183.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_184.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_185.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_186.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_187.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_188.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_189.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_19.mcfopota 12925
+/vendor/etc/mdota/MTK_OPOTA_SBPID_190.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_191.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_192.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_193.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_194.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_195.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_196.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_197.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_198.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_199.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_19_505_01.mcfopota 12926
+/vendor/etc/mdota/MTK_OPOTA_SBPID_19_505_71.mcfopota 12927
+/vendor/etc/mdota/MTK_OPOTA_SBPID_19_505_72.mcfopota 12928
+/vendor/etc/mdota/MTK_OPOTA_SBPID_2.mcfopota 12929
+/vendor/etc/mdota/MTK_OPOTA_SBPID_20.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_200.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_201.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_202.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_203.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_204.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_205.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_206.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_207.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_208.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_209.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_210.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_211.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_212.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_213.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_222.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_223.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_224.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_225.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_3.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_5.mcfopota 12930
+/vendor/etc/mdota/MTK_OPOTA_SBPID_50.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_6.mcfopota 12931
+/vendor/etc/mdota/MTK_OPOTA_SBPID_6_202_05.mcfopota 12932
+/vendor/etc/mdota/MTK_OPOTA_SBPID_6_214_01.mcfopota 12933
+/vendor/etc/mdota/MTK_OPOTA_SBPID_6_214_06.mcfopota 12934
+/vendor/etc/mdota/MTK_OPOTA_SBPID_6_226_01.mcfopota 12935
+/vendor/etc/mdota/MTK_OPOTA_SBPID_6_655_01.mcfopota 12936
+/vendor/etc/mdota/MTK_OPOTA_SBPID_7.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_8.mcfopota 12918
+/vendor/etc/mdota/MTK_OPOTA_SBPID_9.mcfopota 12937
+/vendor/etc/mdota/MTK_OTA.mcfota 12938
+/vendor/etc/mdota/MTK_OTA_CERT_COMMON.mcfota 12939
+/vendor/etc/mdota/MTK_OTA_CMCC.mcfota 12940
+/vendor/etc/mdota/MTK_OTA_CT.mcfota 12941
+/vendor/etc/mdota/MTK_OTA_CU.mcfota 12942
+/vendor/etc/mdota/MTK_OTA_REL10.mcfota 12943
+/vendor/etc/mdota/MTK_OTA_REL11.mcfota 12944
+/vendor/etc/media_codecs.xml 12945
+/vendor/etc/media_codecs_c2.xml 12946-12949
+/vendor/etc/media_codecs_google_audio.xml 12950-12951
+/vendor/etc/media_codecs_google_video_le.xml 12952-12953
+/vendor/etc/media_codecs_mediatek_audio.xml 12954
+/vendor/etc/media_codecs_mediatek_video.xml 12955-12957
+/vendor/etc/media_codecs_performance.xml 12958-12961
+/vendor/etc/media_profiles_V1_0.xml 12962-12977
+/vendor/etc/mkshrc 12978
+/vendor/etc/mpe.conf 12979
+/vendor/etc/mtk_omx_core.cfg 12980
+/vendor/etc/nhw 12981
+/vendor/etc/oplus_avb.pubkey 12982
+/vendor/etc/partition_permission.sh 12983
+/vendor/etc/permissions/android.hardware.audio.low_latency.xml 12984
+/vendor/etc/permissions/android.hardware.bluetooth.xml 12985
+/vendor/etc/permissions/android.hardware.bluetooth_le.xml 12986
+/vendor/etc/permissions/android.hardware.camera.xml 12987
+/vendor/etc/permissions/android.hardware.faketouch.xml 12988
+/vendor/etc/permissions/android.hardware.location.gps.xml 12989
+/vendor/etc/permissions/android.hardware.microphone.xml 12990
+/vendor/etc/permissions/android.hardware.opengles.aep.xml 12991
+/vendor/etc/permissions/android.hardware.se.omapi.uicc.xml 12992
+/vendor/etc/permissions/android.hardware.sensor.accelerometer.xml 12993
+/vendor/etc/permissions/android.hardware.sensor.compass.xml 12995
+/vendor/etc/permissions/android.hardware.sensor.gyroscope.xml 12996
+/vendor/etc/permissions/android.hardware.sensor.light.xml 12997
+/vendor/etc/permissions/android.hardware.sensor.proximity.xml 12998
+/vendor/etc/permissions/android.hardware.sensor.stepcounter.xml 12999
+/vendor/etc/permissions/android.hardware.sensor.stepdetector.xml 13000
+/vendor/etc/permissions/android.hardware.telephony.cdma.xml 13001
+/vendor/etc/permissions/android.hardware.telephony.gsm.xml 13002
+/vendor/etc/permissions/android.hardware.telephony.ims.xml 13003
+/vendor/etc/permissions/android.hardware.touchscreen.multitouch.distinct.xml 13004
+/vendor/etc/permissions/android.hardware.touchscreen.multitouch.jazzhand.xml 13005
+/vendor/etc/permissions/android.hardware.touchscreen.multitouch.xml 13006
+/vendor/etc/permissions/android.hardware.touchscreen.xml 13007
+/vendor/etc/permissions/android.hardware.usb.accessory.xml 13008
+/vendor/etc/permissions/android.hardware.usb.host.xml 13009
+/vendor/etc/permissions/android.hardware.vulkan.compute.xml 13010
+/vendor/etc/permissions/android.hardware.vulkan.level.xml 13011
+/vendor/etc/permissions/android.hardware.vulkan.version.xml 13012
+/vendor/etc/permissions/android.hardware.wifi.direct.xml 13013
+/vendor/etc/permissions/android.hardware.wifi.passpoint.xml 13014
+/vendor/etc/permissions/android.hardware.wifi.xml 13015
+/vendor/etc/permissions/android.software.ipsec_tunnels.xml 13016
+/vendor/etc/permissions/android.software.midi.xml 13017
+/vendor/etc/permissions/android.software.verified_boot.xml 13018
+/vendor/etc/permissions/android.software.vulkan.deqp.level.xml 13019
+/vendor/etc/permissions/com.mediatek.hardware.vow.xml 13020
+/vendor/etc/permissions/com.mediatek.hardware.vow_dsp.xml 13021
+/vendor/etc/permissions/handheld_core_hardware.xml 13022-13023
+/vendor/etc/power_app_cfg.xml 13024-13034
+/vendor/etc/powercontable.xml 13035-13043
+/vendor/etc/powerscntbl.xml 13044-13045
+/vendor/etc/public.libraries.txt 13046
+/vendor/etc/qt.cfg 13047
+/vendor/etc/r_submix_audio_policy_configuration.xml 13048
+/vendor/etc/seccomp_policy/mediacodec.policy 13049
+/vendor/etc/seccomp_policy/mediaextractor.policy 13050
+/vendor/etc/seccomp_policy/mediaswcodec.policy 13051
+/vendor/etc/security/cacerts/00673b5b.0 13052-13053
+/vendor/etc/security/cacerts/04f60c28.0 13054
+/vendor/etc/security/cacerts/0d69c7e1.0 13055
+/vendor/etc/security/cacerts/10531352.0 13056-13057
+/vendor/etc/security/cacerts/111e6273.0 13058-13059
+/vendor/etc/security/cacerts/12d55845.0 13060-13061
+/vendor/etc/security/cacerts/1dcd6f4c.0 13062-13063
+/vendor/etc/security/cacerts/1df5a75f.0 13064-13065
+/vendor/etc/security/cacerts/1e1eab7c.0 13066-13067
+/vendor/etc/security/cacerts/1e8e7201.0 13068-13069
+/vendor/etc/security/cacerts/1eb37bdf.0 13070-13072
+/vendor/etc/security/cacerts/1f58a078.0 13073-13074
+/vendor/etc/security/cacerts/219d9499.0 13075-13076
+/vendor/etc/security/cacerts/23f4c490.0 13077-13078
+/vendor/etc/security/cacerts/27af790d.0 13079
+/vendor/etc/security/cacerts/2add47b6.0 13080
+/vendor/etc/security/cacerts/2d9dafe4.0 13081-13082
+/vendor/etc/security/cacerts/2fa87019.0 13083-13084
+/vendor/etc/security/cacerts/302904dd.0 13085-13086
+/vendor/etc/security/cacerts/304d27c3.0 13087-13088
+/vendor/etc/security/cacerts/31188b5e.0 13089-13090
+/vendor/etc/security/cacerts/33ee480d.0 13091-13092
+/vendor/etc/security/cacerts/343eb6cb.0 13093-13094
+/vendor/etc/security/cacerts/35105088.0 13095-13096
+/vendor/etc/security/cacerts/399e7759.0 13097-13098
+/vendor/etc/security/cacerts/3a3b02ce.0 13099-13100
+/vendor/etc/security/cacerts/3ad48a91.0 13101-13102
+/vendor/etc/security/cacerts/3c58f906.0 13103-13104
+/vendor/etc/security/cacerts/3c6676aa.0 13105-13106
+/vendor/etc/security/cacerts/3c860d51.0 13107-13108
+/vendor/etc/security/cacerts/3c899c73.0 13109
+/vendor/etc/security/cacerts/3c9a4d3b.0 13110-13112
+/vendor/etc/security/cacerts/3d441de8.0 13113-13114
+/vendor/etc/security/cacerts/3e7271e8.0 13115-13116
+/vendor/etc/security/cacerts/40dc992e.0 13117-13118
+/vendor/etc/security/cacerts/455f1b52.0 13119-13120
+/vendor/etc/security/cacerts/48a195d8.0 13121-13122
+/vendor/etc/security/cacerts/4be590e0.0 13123-13124
+/vendor/etc/security/cacerts/5046c355.0 13125-13126
+/vendor/etc/security/cacerts/524d9b43.0 13127-13128
+/vendor/etc/security/cacerts/52b525c7.0 13129-13130
+/vendor/etc/security/cacerts/583d0756.0 13131-13132
+/vendor/etc/security/cacerts/5a250ea7.0 13133-13134
+/vendor/etc/security/cacerts/5a3f0ff8.0 13135-13136
+/vendor/etc/security/cacerts/5acf816d.0 13137
+/vendor/etc/security/cacerts/5cf9d536.0 13138-13139
+/vendor/etc/security/cacerts/5e4e69e7.0 13140
+/vendor/etc/security/cacerts/5f47b495.0 13141-13142
+/vendor/etc/security/cacerts/60afe812.0 13143-13144
+/vendor/etc/security/cacerts/6187b673.0 13145-13146
+/vendor/etc/security/cacerts/63a2c897.0 13147-13148
+/vendor/etc/security/cacerts/67495436.0 13149-13150
+/vendor/etc/security/cacerts/69105f4f.0 13151-13152
+/vendor/etc/security/cacerts/6b03dec0.0 13153
+/vendor/etc/security/cacerts/75680d2e.0 13154-13155
+/vendor/etc/security/cacerts/76579174.0 13156-13157
+/vendor/etc/security/cacerts/7892ad52.0 13158
+/vendor/etc/security/cacerts/7999be0d.0 13159-13160
+/vendor/etc/security/cacerts/7a7c655d.0 13161
+/vendor/etc/security/cacerts/7a819ef2.0 13162-13163
+/vendor/etc/security/cacerts/7c302982.0 13164-13165
+/vendor/etc/security/cacerts/7d453d8f.0 13166-13167
+/vendor/etc/security/cacerts/81b9768f.0 13168-13169
+/vendor/etc/security/cacerts/82223c44.0 13170-13171
+/vendor/etc/security/cacerts/85cde254.0 13172-13173
+/vendor/etc/security/cacerts/86212b19.0 13174-13175
+/vendor/etc/security/cacerts/869fbf79.0 13176
+/vendor/etc/security/cacerts/87753b0d.0 13177-13178
+/vendor/etc/security/cacerts/882de061.0 13179-13180
+/vendor/etc/security/cacerts/88950faa.0 13181
+/vendor/etc/security/cacerts/89c02a45.0 13182
+/vendor/etc/security/cacerts/8d6437c3.0 13183-13184
+/vendor/etc/security/cacerts/91739615.0 13185-13186
+/vendor/etc/security/cacerts/9282e51c.0 13187-13188
+/vendor/etc/security/cacerts/9339512a.0 13189-13190
+/vendor/etc/security/cacerts/9479c8c3.0 13191
+/vendor/etc/security/cacerts/9576d26b.0 13192-13193
+/vendor/etc/security/cacerts/95aff9e3.0 13194-13195
+/vendor/etc/security/cacerts/9685a493.0 13196-13197
+/vendor/etc/security/cacerts/9772ca32.0 13198-13199
+/vendor/etc/security/cacerts/985c1f52.0 13200-13201
+/vendor/etc/security/cacerts/9d6523ce.0 13202-13203
+/vendor/etc/security/cacerts/9f533518.0 13204-13206
+/vendor/etc/security/cacerts/a2c66da8.0 13207-13208
+/vendor/etc/security/cacerts/a3896b44.0 13209-13210
+/vendor/etc/security/cacerts/a7605362.0 13211-13212
+/vendor/etc/security/cacerts/a7d2cf64.0 13213
+/vendor/etc/security/cacerts/a81e292b.0 13214-13215
+/vendor/etc/security/cacerts/ab5346f4.0 13216-13217
+/vendor/etc/security/cacerts/ab59055e.0 13218-13219
+/vendor/etc/security/cacerts/aeb67534.0 13220-13221
+/vendor/etc/security/cacerts/b0ed035a.0 13222-13223
+/vendor/etc/security/cacerts/b0f3e76e.0 13224-13225
+/vendor/etc/security/cacerts/b3fb433b.0 13226
+/vendor/etc/security/cacerts/b74d2bd5.0 13227
+/vendor/etc/security/cacerts/b7db1890.0 13228-13229
+/vendor/etc/security/cacerts/b872f2b4.0 13230-13231
+/vendor/etc/security/cacerts/b936d1c6.0 13232-13233
+/vendor/etc/security/cacerts/bc3f2570.0 13234-13235
+/vendor/etc/security/cacerts/bd43e1dd.0 13236-13237
+/vendor/etc/security/cacerts/bdacca6f.0 13238-13239
+/vendor/etc/security/cacerts/bf64f35b.0 13240-13241
+/vendor/etc/security/cacerts/c2c1704e.0 13242-13243
+/vendor/etc/security/cacerts/c491639e.0 13244
+/vendor/etc/security/cacerts/c51c224c.0 13245-13246
+/vendor/etc/security/cacerts/c559d742.0 13247-13248
+/vendor/etc/security/cacerts/c7e2a638.0 13249-13250
+/vendor/etc/security/cacerts/c907e29b.0 13251-13252
+/vendor/etc/security/cacerts/c90bc37d.0 13253-13254
+/vendor/etc/security/cacerts/cb156124.0 13255-13256
+/vendor/etc/security/cacerts/cb1c3204.0 13257-13258
+/vendor/etc/security/cacerts/ccc52f49.0 13259
+/vendor/etc/security/cacerts/cf701eeb.0 13260-13261
+/vendor/etc/security/cacerts/d06393bb.0 13262-13263
+/vendor/etc/security/cacerts/d0cddf45.0 13264-13265
+/vendor/etc/security/cacerts/d16a5865.0 13266-13267
+/vendor/etc/security/cacerts/d18e9066.0 13268-13269
+/vendor/etc/security/cacerts/d41b5e2a.0 13270
+/vendor/etc/security/cacerts/d4c339cb.0 13271-13272
+/vendor/etc/security/cacerts/d59297b8.0 13273-13274
+/vendor/etc/security/cacerts/d7746a63.0 13275-13276
+/vendor/etc/security/cacerts/da7377f6.0 13277-13278
+/vendor/etc/security/cacerts/dbc54cab.0 13279-13280
+/vendor/etc/security/cacerts/dbff3a01.0 13281-13282
+/vendor/etc/security/cacerts/dc99f41e.0 13283-13284
+/vendor/etc/security/cacerts/dfc0fe80.0 13285-13286
+/vendor/etc/security/cacerts/e442e424.0 13287-13288
+/vendor/etc/security/cacerts/e48193cf.0 13289-13290
+/vendor/etc/security/cacerts/e775ed2d.0 13291-13292
+/vendor/etc/security/cacerts/e8651083.0 13293-13294
+/vendor/etc/security/cacerts/ed39abd0.0 13295
+/vendor/etc/security/cacerts/f013ecaf.0 13296-13297
+/vendor/etc/security/cacerts/f0cd152c.0 13298-13299
+/vendor/etc/security/cacerts/f459871d.0 13300-13301
+/vendor/etc/security/cacerts/facacbc6.0 13302-13303
+/vendor/etc/security/cacerts/fb5fa911.0 13304-13305
+/vendor/etc/security/cacerts/fd08c599.0 13306-13307
+/vendor/etc/security/cacerts/fde84897.0 13308-13309
+/vendor/etc/security/cacerts_supl/111e6273.0 13310-13311
+/vendor/etc/security/cacerts_supl/3ad48a91.0 13312-13313
+/vendor/etc/security/cacerts_supl/7651b327.0 13314
+/vendor/etc/security/cacerts_supl/c542733d.0 13315
+/vendor/etc/security/cacerts_supl/f336e3d1.0 13316
+/vendor/etc/security/cacerts_supl/lab/18dc3a8d.0 13317-13318
+/vendor/etc/security/cacerts_supl/lab/1bc5ca0c.0 13319
+/vendor/etc/security/cacerts_supl/lab/1bc5ca0c.1 13320
+/vendor/etc/security/cacerts_supl/lab/2cbfcc3a.0 13321
+/vendor/etc/security/cacerts_supl/lab/35ef1c14.0 13322-13323
+/vendor/etc/security/cacerts_supl/lab/586933d9.0 13324
+/vendor/etc/security/cacerts_supl/lab/66272d0d.0 13325
+/vendor/etc/security/cacerts_supl/lab/6f1dbe5e.0 13326-13327
+/vendor/etc/security/cacerts_supl/lab/b5805141.0 13328
+/vendor/etc/security/cacerts_supl/lab/b805b58a.0 13329-13330
+/vendor/etc/security/cacerts_supl/lab/ed7b215e.0 13331
+/vendor/etc/security/cacerts_supl/lab/ef4b31e6.0 13332
+/vendor/etc/selinux/plat_pub_versioned.cil 13333-13577
+/vendor/etc/selinux/plat_pub_versioned_debug.cil 13333-13349 13578-13813
+/vendor/etc/selinux/plat_sepolicy_vers.txt 13814
+/vendor/etc/selinux/precompiled_sepolicy 13815-14067
+/vendor/etc/selinux/precompiled_sepolicy.plat_sepolicy_and_mapping.sha256 14068
+/vendor/etc/selinux/precompiled_sepolicy.product_sepolicy_and_mapping.sha256 14069
+/vendor/etc/selinux/precompiled_sepolicy.system_ext_sepolicy_and_mapping.sha256 14070
+/vendor/etc/selinux/precompiled_sepolicy_debug 14071-14324
+/vendor/etc/selinux/precompiled_sepolicy_debug.plat_sepolicy_and_mapping.sha256 14325
+/vendor/etc/selinux/precompiled_sepolicy_debug.product_sepolicy_and_mapping.sha256 14069
+/vendor/etc/selinux/precompiled_sepolicy_debug.system_ext_sepolicy_and_mapping.sha256 14326
+/vendor/etc/selinux/selinux_denial_metadata 14327
+/vendor/etc/selinux/vendor_file_contexts 14328-14351
+/vendor/etc/selinux/vendor_hwservice_contexts 14352-14354
+/vendor/etc/selinux/vendor_mac_permissions.xml 14355
+/vendor/etc/selinux/vendor_property_contexts 14356-14366
+/vendor/etc/selinux/vendor_seapp_contexts 14367
+/vendor/etc/selinux/vendor_sepolicy.cil 14368-14659
+/vendor/etc/selinux/vendor_sepolicy_debug.cil 14368-14400 14660-14919
+/vendor/etc/selinux/vendor_service_contexts 14920
+/vendor/etc/selinux/vndservice_contexts 14921
+/vendor/etc/sensors/hals.conf 14922
+/vendor/etc/slp_conf 14923
+/vendor/etc/smartpa_param/tfa98xx_device.bin 14924
+/vendor/etc/smartpa_param/tfa98xx_music.bin 14925
+/vendor/etc/smartpa_param/tfa98xx_ringtone.bin 14925
+/vendor/etc/smartpa_param/tfa98xx_voice.bin 14925
+/vendor/etc/smsdbvisitor.xml 14926
+/vendor/etc/special_pws_channel.xml 14927
+/vendor/etc/spk.wav 14928-14982
+/vendor/etc/spn-conf-op09.xml 14983-14997
+/vendor/etc/task_profiles.json 14998-15000
+/vendor/etc/test_path/common/mixer_paths.xml 15001-15006
+/vendor/etc/test_path/oppo6779_19537/mixer_paths.xml 15001-15002 15007-15010
+/vendor/etc/throttle.sh 15011
+/vendor/etc/usb_audio_accessory_only_policy_configuration.xml 15012
+/vendor/etc/usb_audio_policy_configuration.xml 15013
+/vendor/etc/vintf/compatibility_matrix.xml 15014
+/vendor/etc/vintf/manifest/android.hardware.cas@1.2-service.xml 15015
+/vendor/etc/vintf/manifest/android.hardware.gpu@1.0-service.xml 15016
+/vendor/etc/vintf/manifest/android.hardware.health@2.1.xml 15017
+/vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-mtk-mdla-dsp-gpu.xml 15018
+/vendor/etc/vintf/manifest/android.hardware.wifi.hostapd.xml 15019
+/vendor/etc/vintf/manifest/android.hardware.wifi@1.0-service.xml 15020
+/vendor/etc/vintf/manifest/lights-mtk-default.xml 15021
+/vendor/etc/vintf/manifest/manifest.xml 15022
+/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.clearkey.xml 15023
+/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml 15024
+/vendor/etc/vintf/manifest/manifest_soter.xml 15025
+/vendor/etc/vintf/manifest/oplus_appradio_device_manifest.xml 15026
+/vendor/etc/vintf/manifest/oplus_radio_device_manifest.xml 15027
+/vendor/etc/vintf/manifest/oplus_wifi_supplicant_device.xml 15028
+/vendor/etc/vintf/manifest/power-default.xml 15029
+/vendor/etc/vintf/manifest/vendor.mediatek.hardware.dplanner@2.0-service.xml 15030
+/vendor/etc/vintf/manifest.xml 15031-15037
+/vendor/etc/virtual-spn-conf-by-efgid1.xml 15038
+/vendor/etc/virtual-spn-conf-by-efpnn.xml 15039
+/vendor/etc/virtual-spn-conf-by-efspn.xml 15040
+/vendor/etc/virtual-spn-conf-by-imsi.xml 15041
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2/nl 15042
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2/p0 15043
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2/ubmModel0.bin 15044-15054
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2/ubmModel10.bin 15044-15054
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2/ubmModel3.bin 15044-15054
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2/ubmModel4.bin 15044-15054
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.3/nl 15042
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.3/p0 15055
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.3/ubmModel0.bin 15056-15091
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.3/ubmModel10.bin 15056-15091
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.3/ubmModel3.bin 15056-15091
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.3/ubmModel4.bin 15056-15091
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/n0 15092-15483
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/n1 15484-15488
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/nl 15489
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/p0 15490
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/p1 15491
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/pn1 15492
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/ubmModel0.bin 15493-15773
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/ubmModel10.bin 15774-15928
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/ubmModel3.bin 15493-15773
+/vendor/etc/voicecommand/training/ubmfile/keyword05/p2.5/ubmModel4.bin 15774-15928
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/1 15929-16163
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/10 16164-16398
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/11 16399-16498
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/12 16499-16733
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/13 16734-16996
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/2 16997-17231
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/3 17232-17466
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/4 17467-17701
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/5 17702-17936
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/6 17937-18171
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/7 18172-18406
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/8 18407-18641
+/vendor/etc/voicecommand/training/ubmfile/keyword05/supplement/9 18642-18876
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2/nl 15042
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2/p0 18877
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2/ubmModel0.bin 15044-15053 18878
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2/ubmModel10.bin 15044-15053 18878
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2/ubmModel3.bin 15044-15053 18878
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2/ubmModel4.bin 15044-15053 18878
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.3/nl 15042
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.3/p0 18879
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.3/ubmModel0.bin 15056-15091
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.3/ubmModel10.bin 15056-15091
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.3/ubmModel3.bin 15056-15091
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.3/ubmModel4.bin 15056-15091
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/n0 18880-19274
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/n1 19275-19279
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/nl 19280
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/p0 19281
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/p1 19282
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/pn1 15492
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/ubmModel0.bin 19283-19459
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/ubmModel10.bin 19460-19618
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/ubmModel3.bin 19283-19459
+/vendor/etc/voicecommand/training/ubmfile/keyword06/p2.5/ubmModel4.bin 19460-19618
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/1 15929-16163
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/10 16164-16398
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/11 16399-16498
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/12 16499-16733
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/13 16734-16996
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/2 16997-17231
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/3 17232-17466
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/4 17467-17701
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/5 17702-17936
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/6 17937-18171
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/7 18172-18406
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/8 18407-18641
+/vendor/etc/voicecommand/training/ubmfile/keyword06/supplement/9 18642-18876
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2/nl 15042
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2/p0 19619
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2/ubmModel0.bin 19620-19630
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2/ubmModel10.bin 19620-19630
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2/ubmModel3.bin 19620-19630
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2/ubmModel4.bin 19620-19630
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.3/nl 15042
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.3/p0 19631
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.3/ubmModel0.bin 19632-19742
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.3/ubmModel10.bin 19632-19742
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.3/ubmModel3.bin 19632-19742
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.3/ubmModel4.bin 19632-19742
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/n0 19743-20134
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/n1 20135-20139
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/nl 19280
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/p0 20140
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/p1 20141
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/pn1 15492
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/ubmModel0.bin 20142-20378
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/ubmModel10.bin 20379-20525
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/ubmModel3.bin 20142-20378
+/vendor/etc/voicecommand/training/ubmfile/keyword07/p2.5/ubmModel4.bin 20379-20525
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/1 20526-20760
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/10 16164-16398
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/11 16399-16498
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/12 16499-16733
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/13 20761-20995
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/2 16997-17231
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/3 17232-17466
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/4 17467-17701
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/5 17702-17936
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/6 17937-18171
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/7 18172-18406
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/8 20996-21230
+/vendor/etc/voicecommand/training/ubmfile/keyword07/supplement/9 18642-18876
+/vendor/etc/wifi/p2p_supplicant_overlay.conf 21231
+/vendor/etc/wifi/wpa_supplicant.conf 21232
+/vendor/etc/wifi/wpa_supplicant_overlay.conf 21233
+/vendor/etc/xgf.cfg 21234
+/vendor/euclid_build.prop 21235
+/vendor/firmware/BT_FW.cfg 21236
+/vendor/firmware/WIFI_RAM_CODE_soc5_0_1_1.bin 21237-21430 0 21431
+/vendor/firmware/conninfra.cfg 21432
+/vendor/firmware/fm_cust.cfg 21433
+/vendor/firmware/gt1151_default_firmware2.img 21434-21456
+/vendor/firmware/gt9886_cfg_6785v96.bin 21457
+/vendor/firmware/gt9886_cfg_6785v99.bin 21458
+/vendor/firmware/gt9886_cfg_6853v01.bin 21459
+/vendor/firmware/gt9886_cfg_6873v01.bin 21459
+/vendor/firmware/gt9886_cfg_6877v01.bin 21459
+/vendor/firmware/gt9886_cfg_6885v01.bin 21459
+/vendor/firmware/gt9886_cfg_6885v1.bin 21460
+/vendor/firmware/gt9886_cfg_6885v9c.bin 21461
+/vendor/firmware/gt9886_cfg_6893v01.bin 21459
+/vendor/firmware/gt9886_cfg_90hz6877.bin 21462
+/vendor/firmware/gt9886_cfg_90hz6885.bin 21462
+/vendor/firmware/gt9886_cfg_gt9885v1.bin 21463
+/vendor/firmware/gt9886_firmware_6785a4.bin 21464-21485
+/vendor/firmware/gt9886_firmware_6785ae.bin 21486-21496 21475 21497-21506
+/vendor/firmware/gt9886_firmware_6853v01.bin 21507-21517 21475 21518-21527
+/vendor/firmware/gt9886_firmware_6873v01.bin 21507-21517 21475 21518-21527
+/vendor/firmware/gt9886_firmware_6877af.bin 21528-21538 21475 21539-21548
+/vendor/firmware/gt9886_firmware_6877v01.bin 21507-21517 21475 21518-21527
+/vendor/firmware/gt9886_firmware_6885a1.bin 21549-21557 21495 21558 21475 21497-21499 21560-21566
+/vendor/firmware/gt9886_firmware_6885af.bin 21528-21538 21475 21539-21548
+/vendor/firmware/gt9886_firmware_6885b0.bin 21567-21588
+/vendor/firmware/gt9886_firmware_6885b1.bin 21589-21599 21475 21539-21541 21600-21606
+/vendor/firmware/gt9886_firmware_6885v01.bin 21507-21517 21475 21518-21527
+/vendor/firmware/gt9886_firmware_6893v01.bin 21507-21517 21475 21518-21527
+/vendor/firmware/gt9896s_cfg_6833v01.bin 21607
+/vendor/firmware/gt9896s_cfg_6853v01.bin 21608
+/vendor/firmware/gt9896s_cfg_6873v01.bin 21608
+/vendor/firmware/gt9896s_cfg_6877v01_1080x2280.bin 21608
+/vendor/firmware/gt9896s_cfg_6877v01_1080x2300.bin 21609
+/vendor/firmware/gt9896s_cfg_6893v01.bin 21610
+/vendor/firmware/gt9896s_cfg_6893v02.bin 21611
+/vendor/firmware/gt9896s_firmware_6833v01.bin 21612-21633
+/vendor/firmware/gt9896s_firmware_6853v01.bin 21612-21633
+/vendor/firmware/gt9896s_firmware_6873v00.bin 21612-21633
+/vendor/firmware/gt9896s_firmware_6877v01_1080x2280.bin 21612-21633
+/vendor/firmware/gt9896s_firmware_6877v01_1080x2300.bin 21612-21633
+/vendor/firmware/gt9896s_firmware_6893v01.bin 21612-21633
+/vendor/firmware/gt9896s_firmware_6893v02.bin 21612-21633
+/vendor/firmware/lib3a.ccu 21634-21659 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 21660 0 0 0 0 0 0 0 0 0 0 0 0 21661-22133
+/vendor/firmware/mt6635_fm_v1_coeff.bin 22134
+/vendor/firmware/mt6635_fm_v1_patch.bin 22135
+/vendor/firmware/soc5_0_ram_bt_1_1_hdr.bin 22136-22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22216 22219-22282
+/vendor/firmware/soc5_0_ram_mcu_1_1_hdr.bin 22283-22295 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 22296-22297
+/vendor/firmware/soc5_0_ram_wmmcu_1_1_hdr.bin 22298-22347 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 22348-22361
+/vendor/firmware/tfa98xx.cnt 22362
+/vendor/firmware/txpowerctrl_20181.cfg 22363
+/vendor/firmware/txpowerctrl_20182.cfg 22363
+/vendor/firmware/txpowerctrl_20355.cfg 22364
+/vendor/firmware/wifi_20181.cfg 22365
+/vendor/firmware/wifi_20182.cfg 22365
+/vendor/firmware/wifi_20355.cfg 22366
+/vendor/firmware/wifisar_20355.map 22367
+/vendor/lib/AVCSecureVdecCA.so 22368-22372
+/vendor/lib/AVCSecureVencCA.so 22373-22375
+/vendor/lib/HEVCSecureVdecCA.so 22376-22380
+/vendor/lib/VP9SecureVdecCA.so 22381-22385
+/vendor/lib/android.hardware.audio.common-util.so 22386-22387
+/vendor/lib/android.hardware.audio.common@6.0-util.so 22388-22390
+/vendor/lib/android.hardware.graphics.composer@2.1-resources.so 22391-22397
+/vendor/lib/arm.graphics-V1-ndk_platform.so 22398
+/vendor/lib/egl/egl.cfg 22399
+/vendor/lib/egl/libGLES_mali.so 22400-31731
+/vendor/lib/egl/libGLES_meow.so 31732-32091
+/vendor/lib/egl/libMEOW_qt.so 32092-32106
+/vendor/lib/egl/libMEOW_trace.so 32107-32183
+/vendor/lib/hw/android.hardware.audio.effect@6.0-impl.so 32184-32235
+/vendor/lib/hw/android.hardware.audio@6.0-impl-mediatek.so 32236-32277
+/vendor/lib/hw/android.hardware.bluetooth.audio@2.0-impl.so 32278-32292
+/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so 32293-32305
+/vendor/lib/hw/android.hardware.gatekeeper@1.0-impl.so 32306-32308
+/vendor/lib/hw/android.hardware.graphics.allocator@4.0-impl-mediatek.so 32309-32322
+/vendor/lib/hw/android.hardware.graphics.composer@2.1-impl.so 32323-32336
+/vendor/lib/hw/android.hardware.graphics.mapper@4.0-impl-mediatek.so 32337-32363
+/vendor/lib/hw/android.hardware.health@2.0-impl-2.1.so 32364-32377
+/vendor/lib/hw/android.hardware.memtrack@1.0-impl.so 32378-32380
+/vendor/lib/hw/android.hardware.renderscript@1.0-impl.so 32381-32391
+/vendor/lib/hw/android.hardware.soundtrigger@2.3-impl.so 32392-32402
+/vendor/lib/hw/android.hardware.thermal@1.0-impl.so 32403-32406
+/vendor/lib/hw/android.hardware.thermal@2.0-impl.so 32407-32423
+/vendor/lib/hw/audio.bluetooth.default.so 32424-32440
+/vendor/lib/hw/audio.primary.default.so 32441-32443
+/vendor/lib/hw/audio.primary.mt6877.so 32444-32767 32817-33129
+/vendor/lib/hw/audio.r_submix.default.so 33130-33135
+/vendor/lib/hw/audio.r_submix.mt6877.so 33136-33142
+/vendor/lib/hw/audio.usb.default.so 33143-33146
+/vendor/lib/hw/audio.usb.mt6877.so 33147-33160
+/vendor/lib/hw/audio_policy.stub.so 33161-33162
+/vendor/lib/hw/gps.default.so 33163-33173
+/vendor/lib/hw/gralloc.default.so 33174-33177
+/vendor/lib/hw/kmsetkey.trustonic.so 33178-33180
+/vendor/lib/hw/libMcGatekeeper.so 33181-33184
+/vendor/lib/hw/libSoftGatekeeper.so 33185-33189
+/vendor/lib/hw/lights.mt6877.so 33190
+/vendor/lib/hw/local_time.default.so 33191-33192
+/vendor/lib/hw/memtrack.mt6877.so 33193-33194
+/vendor/lib/hw/power.default.so 33195
+/vendor/lib/hw/power.mt6877.so 33196-33197
+/vendor/lib/hw/sound_trigger.primary.mt6877.so 33198-33209
+/vendor/lib/hw/thermal.mt6877.so 33210-33211
+/vendor/lib/hw/vendor.mediatek.hardware.bluetooth.audio@2.1-impl.so 33212-33228
+/vendor/lib/hw/vendor.mediatek.hardware.camera.atms@1.0-impl.so 33229-33231
+/vendor/lib/hw/vendor.mediatek.hardware.camera.isphal@1.0-impl.so 33232-33281
+/vendor/lib/hw/vendor.mediatek.hardware.keyinstall@1.0-impl.so 33282-33284
+/vendor/lib/hw/vendor.mediatek.hardware.keymaster_attestation@1.1-impl.so 33285-33288
+/vendor/lib/hw/vendor.mediatek.hardware.mms@1.5-impl.so 33289-33297
+/vendor/lib/hw/vendor.mediatek.hardware.mtkcodecservice@1.1-impl.so 33298-33314
+/vendor/lib/hw/vendor.mediatek.hardware.mtkpower@1.1-impl.so 33315-33320
+/vendor/lib/hw/vendor.mediatek.hardware.nvram@1.1-impl.so 33321-33326
+/vendor/lib/hw/vendor.mediatek.hardware.pq@2.6-impl.so 33327-33367
+/vendor/lib/hw/vendor.mediatek.hardware.videotelephony@1.0-impl.so 33368-33374
+/vendor/lib/hw/vibrator.default.so 33375-33376
+/vendor/lib/imx355_mipi_raw_IdxMgr.so 33377-33414
+/vendor/lib/imx355_mipi_raw_tuning.so 33415-33431 0 33432-33436 0 0 0 0 0 33437-33456 0 33457-33460 0 0 0 0 0 0 33461 33463-33479 0 33480-33484 0 0 0 0 0 33485-33502 0 0 33503-33506 0 0 0 0 0 0 33507-33681 33681 33681-33724 0 33725-33728 0 0 0 0 0 0 33729-33742 0 33743-33746 0 0 0 0 0 0 33747-33753 0 33754-33781 33681 33681 33782-33798 0 33799-33802 0 0 0 0 0 0 33803-33821 0 0 33822-33825 0 0 0 0 0 0 33826-33831 0 33832 0 33833-33903 0 33904-33908 0 0 0 0 0 33909-33951 0 0 33952-33955 0 0 0 0 0 0 33956-34031 0 34032-34035 0 0 0 0 0 0 34036-34080 0 34081-34084 0 0 0 0 0 0 34085-34090 0 34091-34102 0 34103-34106 0 0 0 0 0 0 34107-34156 0 0 0 0 0 34157-34158 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 34159-34233 0 34234-34237 0 0 0 0 0 0 34238-34270 0 34271-34274 0 0 0 0 0 0 34275-34401
+/vendor/lib/imx615_mipi_raw_IdxMgr.so 34402-34447
+/vendor/lib/imx615_mipi_raw_tuning.so 34448-34469 0 34470-34473 0 0 0 0 0 0 34474-34481 33969-33973 34482 34484-34520 0 0 34521-34524 0 0 0 0 0 0 34525-34571 0 0 34572-34575 0 0 0 0 0 0 34576-34597 33681 34598-34604 0 34605-34608 0 0 0 0 0 0 34609-34648 0 0 34649-34652 0 0 0 0 0 0 34653-34698 0 34699-34702 0 0 0 0 0 0 34703-34782 0 34783-34786 0 0 0 0 0 0 34787-34826 0 34827-34831 0 0 0 0 0 34832-34883 0 34884-34887 0 0 0 0 0 0 34888-34898 33766-33769 34899-34922 33681 33681 34923-34932 0 34933-34937 0 0 0 0 0 34938-34944 0 34945-34974 33681 33681 34975-35055 0 35056-35059 0 0 0 0 0 0 35060-35098 0 35099-35102 0 0 0 0 0 0 35103-35142 0 0 35143-35146 0 0 0 0 0 0 35147-35186 0 35187-35190 0 0 0 0 0 0 35191-35231 0 35232-35235 0 0 0 0 0 0 35236-35275 0 0 35276-35279 0 0 0 0 0 0 35280-35322 0 35323-35326 0 0 0 0 0 0 35327-35328 34087-34088 35329-35397 0 0 0 0 0 35398-35399 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 35400-35587
+/vendor/lib/lib3a.ae.core.so 35588-35711
+/vendor/lib/lib3a.ae.so 35712-35912
+/vendor/lib/lib3a.ae.stat.so 35913-35927
+/vendor/lib/lib3a.af.assist.models.so 35928-45845
+/vendor/lib/lib3a.af.assist.so 45846-46008
+/vendor/lib/lib3a.af.core.so 46009-46128
+/vendor/lib/lib3a.af.so 46129-46130
+/vendor/lib/lib3a.aishutter.models.so 46131
+/vendor/lib/lib3a.alsflicker.so 46132-46159
+/vendor/lib/lib3a.awb.core.so 46160-46253
+/vendor/lib/lib3a.ccudrv.so 46254-46266
+/vendor/lib/lib3a.ccuif.so 46267-46281
+/vendor/lib/lib3a.custom.ae.so 46282-46283
+/vendor/lib/lib3a.dce.so 46284-46294
+/vendor/lib/lib3a.flash.so 46295-46327
+/vendor/lib/lib3a.flicker.so 46328-46346
+/vendor/lib/lib3a.gma.so 46347-46356
+/vendor/lib/lib3a.lce.so 46357-46396
+/vendor/lib/lib3a.log.so 46397-46398
+/vendor/lib/lib3a.n3d3a.so 46399-46427
+/vendor/lib/lib3a.sensors.color.so 46428-46432
+/vendor/lib/lib3a.sensors.flicker.so 46433-46439
+/vendor/lib/libCamera_imx355mipiraw_3rd_Capture_720P.so 46440
+/vendor/lib/libCamera_imx355mipiraw_3rd_Preview_1080P.so 46441
+/vendor/lib/libCamera_imx355mipiraw_3rd_Preview_480P.so 46442
+/vendor/lib/libCamera_imx355mipiraw_3rd_Preview_720P.so 46443
+/vendor/lib/libCamera_imx355mipiraw_Capture_Preview.so 46444
+/vendor/lib/libCamera_imx355mipiraw_Capture_Preview_Zoom_2x.so 46445
+/vendor/lib/libCamera_imx355mipiraw_FaceBeauty_Capture.so 46446
+/vendor/lib/libCamera_imx355mipiraw_FaceBeauty_Capture_Scene.so 46447
+/vendor/lib/libCamera_imx355mipiraw_Face_Capture.so 46448
+/vendor/lib/libCamera_imx355mipiraw_Face_SuperNight_Hand_Capture.so 46449
+/vendor/lib/libCamera_imx355mipiraw_Face_SuperNight_Hand_Capture_Zoom.so 46450
+/vendor/lib/libCamera_imx355mipiraw_Face_Zoom_Capture.so 46451
+/vendor/lib/libCamera_imx355mipiraw_LHDR_Face_Capture.so 46452
+/vendor/lib/libCamera_imx355mipiraw_LHDR_Scene_Capture.so 46453
+/vendor/lib/libCamera_imx355mipiraw_P1_YUV.so 46454
+/vendor/lib/libCamera_imx355mipiraw_Production_Capture.so 46455
+/vendor/lib/libCamera_imx355mipiraw_RHDR_Face_Capture.so 46456
+/vendor/lib/libCamera_imx355mipiraw_RHDR_Scene_Capture.so 46457
+/vendor/lib/libCamera_imx355mipiraw_Scene_Capture.so 46458
+/vendor/lib/libCamera_imx355mipiraw_SuperNight_Hand_Capture.so 46459
+/vendor/lib/libCamera_imx355mipiraw_SuperNight_Hand_Capture_Zoom.so 46460
+/vendor/lib/libCamera_imx355mipiraw_SuperNight_Hand_Preview.so 46461
+/vendor/lib/libCamera_imx355mipiraw_SuperNight_Tripod_Capture.so 46462
+/vendor/lib/libCamera_imx355mipiraw_SuperNight_Tripod_Capture_Zoom.so 46463
+/vendor/lib/libCamera_imx355mipiraw_Video_1080p_30fps.so 46464
+/vendor/lib/libCamera_imx355mipiraw_Video_1080p_30fps_zoom_2x.so 46465
+/vendor/lib/libCamera_imx355mipiraw_Video_1080p_60fps.so 46466
+/vendor/lib/libCamera_imx355mipiraw_Video_720p_30fps.so 46467
+/vendor/lib/libCamera_imx355mipiraw_Video_720p_30fps_zoom_2x.so 46468
+/vendor/lib/libCamera_imx355mipiraw_Video_Capture.so 46469
+/vendor/lib/libCamera_imx355mipiraw_Video_movie.so 46470
+/vendor/lib/libCamera_imx355mipiraw_Zoom_Capture.so 46471
+/vendor/lib/libCamera_imx355mipiraw_portrait_capture_full.so 46472
+/vendor/lib/libCamera_imx355mipiraw_portrait_capture_hdr.so 46473
+/vendor/lib/libCamera_imx355mipiraw_portrait_preview_full.so 46474
+/vendor/lib/libCamera_imx355mipiraw_zHDR_Face_Capture.so 46475
+/vendor/lib/libCamera_imx355mipiraw_zHDR_Scene_Capture.so 46476
+/vendor/lib/libCamera_imx615mipiraw_3HDR_Preivew.so 46477
+/vendor/lib/libCamera_imx615mipiraw_3rd_Capture_1080P.so 46478
+/vendor/lib/libCamera_imx615mipiraw_3rd_Capture_480P.so 46479
+/vendor/lib/libCamera_imx615mipiraw_3rd_Capture_720P.so 46480
+/vendor/lib/libCamera_imx615mipiraw_3rd_Preview_1080P.so 46481
+/vendor/lib/libCamera_imx615mipiraw_3rd_Preview_480P.so 46482
+/vendor/lib/libCamera_imx615mipiraw_3rd_Preview_720P.so 46483
+/vendor/lib/libCamera_imx615mipiraw_3rd_Preview_Other.so 46484
+/vendor/lib/libCamera_imx615mipiraw_AIShutter.so 46485
+/vendor/lib/libCamera_imx615mipiraw_AI_Video_Enhance_1080P.so 46486
+/vendor/lib/libCamera_imx615mipiraw_AI_Video_Enhance_1080P_reconfig.so 46487
+/vendor/lib/libCamera_imx615mipiraw_Default_Capture.so 46488
+/vendor/lib/libCamera_imx615mipiraw_FaceBeauty_Capture.so 46489
+/vendor/lib/libCamera_imx615mipiraw_FaceBeauty_Capture_Bining.so 46490
+/vendor/lib/libCamera_imx615mipiraw_FaceBeauty_Capture_NoFace.so 46491
+/vendor/lib/libCamera_imx615mipiraw_FaceBeauty_Scene_Preview.so 46492
+/vendor/lib/libCamera_imx615mipiraw_FaceUnlock.so 46493
+/vendor/lib/libCamera_imx615mipiraw_Face_Capture.so 46494
+/vendor/lib/libDR.so 46632-46805
+/vendor/lib/libCamera_imx615mipiraw_Face_Capture_Binning.so 46495
+/vendor/lib/libCamera_imx615mipiraw_Flash_Capture.so 46496
+/vendor/lib/libCamera_imx615mipiraw_ITS.so 46497
+/vendor/lib/libCamera_imx615mipiraw_Panorama.so 46498
+/vendor/lib/libCamera_imx615mipiraw_Production_Capture.so 46499
+/vendor/lib/libCamera_imx615mipiraw_Scene_Capture.so 46500
+/vendor/lib/libCamera_imx615mipiraw_Scene_Capture_Bining.so 46501
+/vendor/lib/libCamera_imx615mipiraw_Scene_Preview.so 46502
+/vendor/lib/libCamera_imx615mipiraw_SlowMotion_1080P.so 46503
+/vendor/lib/libCamera_imx615mipiraw_SlowMotion_720P.so 46504
+/vendor/lib/libCamera_imx615mipiraw_SuperEis_1080P.so 46505
+/vendor/lib/libCamera_imx615mipiraw_SuperEis_720P.so 46506
+/vendor/lib/libCamera_imx615mipiraw_SuperNight_Hand_Capture.so 46507
+/vendor/lib/libCamera_imx615mipiraw_SuperNight_Hand_Capture_Flash.so 46508
+/vendor/lib/libCamera_imx615mipiraw_Video_Enhance_1080P.so 46509
+/vendor/lib/libCamera_imx615mipiraw_Video_Enhance_1080P_reconfig.so 46510
+/vendor/lib/libCamera_imx615mipiraw_Video_Enhance_720P.so 46511
+/vendor/lib/libCamera_imx615mipiraw_Video_Enhance_720P_reconfig.so 46512
+/vendor/lib/libCamera_imx615mipiraw_Video_Recording_1080P.so 46513
+/vendor/lib/libCamera_imx615mipiraw_Video_Recording_720P.so 46514
+/vendor/lib/libCamera_imx615mipiraw_WeChatQQ_Capture_1080P.so 46515
+/vendor/lib/libCamera_imx615mipiraw_WeChatQQ_Capture_480P.so 46516
+/vendor/lib/libCamera_imx615mipiraw_WeChatQQ_Capture_720P.so 46517
+/vendor/lib/libCamera_imx615mipiraw_WeChatQQ_Preview_1080P.so 46518
+/vendor/lib/libCamera_imx615mipiraw_WeChatQQ_Preview_480P.so 46519
+/vendor/lib/libCamera_imx615mipiraw_WeChatQQ_Preview_720P.so 46520
+/vendor/lib/libCamera_imx615mipiraw_YUVHDR_Capture_Binning.so 46521
+/vendor/lib/libCamera_imx615mipiraw_YUVHDR_FaceBeauty_Capture_Binning_NoFace.so 46522
+/vendor/lib/libCamera_imx615mipiraw_zHDR_Capture_Binning.so 46523
+/vendor/lib/libCamera_ov02b10mipiraw_E2EHDR_Preview.so 46524
+/vendor/lib/libCamera_ov02b10mipiraw_E2EHDR_Video.so 46525
+/vendor/lib/libCamera_ov02b10mipiraw_Face_Capture.so 46526
+/vendor/lib/libCamera_ov02b10mipiraw_Flash_Capture.so 46527
+/vendor/lib/libCamera_ov02b10mipiraw_HDR_Capture.so 46528
+/vendor/lib/libCamera_ov02b10mipiraw_HDR_Preview.so 46529
+/vendor/lib/libCamera_ov02b10mipiraw_HDR_Video.so 46530
+/vendor/lib/libCamera_ov02b10mipiraw_N3D_Capture.so 46531
+/vendor/lib/libCamera_ov02b10mipiraw_N3D_Preview.so 46532
+/vendor/lib/libCamera_ov02b10mipiraw_N3D_Video.so 46533
+/vendor/lib/libCamera_ov02b10mipiraw_P1_YUV.so 46534
+/vendor/lib/libCamera_ov02b10mipiraw_Scene_Capture.so 46535
+/vendor/lib/libCamera_ov02b10mipiraw_Scene_Capture_4cell.so 46536
+/vendor/lib/libCamera_ov02b10mipiraw_Scene_Preview.so 46537
+/vendor/lib/libCamera_ov02b10mipiraw_Scene_Preview_4k.so 46538
+/vendor/lib/libCamera_ov02b10mipiraw_Scene_Preview_ZSD_Flash.so 46539
+/vendor/lib/libCamera_ov02b10mipiraw_Video_1080.so 46540
+/vendor/lib/libCamera_ov02b10mipiraw_Video_4k.so 46541
+/vendor/lib/libCamera_ov64bmipiraw_3rd_Capture_1080P.so 46542
+/vendor/lib/libCamera_ov64bmipiraw_3rd_Capture_480P.so 46543
+/vendor/lib/libCamera_ov64bmipiraw_3rd_Capture_720P.so 46544
+/vendor/lib/libCamera_ov64bmipiraw_3rd_Preview_1080P.so 46545
+/vendor/lib/libCamera_ov64bmipiraw_3rd_Preview_480P.so 46546
+/vendor/lib/libCamera_ov64bmipiraw_3rd_Preview_720P.so 46547
+/vendor/lib/libCamera_ov64bmipiraw_3rd_Video_1080P.so 46548
+/vendor/lib/libCamera_ov64bmipiraw_AIHDR.so 46549
+/vendor/lib/libCamera_ov64bmipiraw_AIHDR_Face.so 46550
+/vendor/lib/libCamera_ov64bmipiraw_AIHDR_Face_Zoom.so 46551
+/vendor/lib/libCamera_ov64bmipiraw_AIHDR_Zoom.so 46552
+/vendor/lib/libCamera_ov64bmipiraw_AINR_Main_LLS.so 46553
+/vendor/lib/libCamera_ov64bmipiraw_AINR_Main_LLS_Face.so 46554
+/vendor/lib/libCamera_ov64bmipiraw_AIShutter.so 46555
+/vendor/lib/libCamera_ov64bmipiraw_AIShutter_Face.so 46556
+/vendor/lib/libCamera_ov64bmipiraw_Capture_Preview.so 46557
+/vendor/lib/libCamera_ov64bmipiraw_Capture_Preview_64M.so 46558
+/vendor/lib/libCamera_ov64bmipiraw_Capture_Preview_64M_2x.so 46559
+/vendor/lib/libCamera_ov64bmipiraw_Capture_Preview_64M_4x.so 46560
+/vendor/lib/libCamera_ov64bmipiraw_Capture_Preview_MF.so 46561
+/vendor/lib/libCamera_ov64bmipiraw_Capture_Preview_PF.so 46562
+/vendor/lib/libCamera_ov64bmipiraw_Capture_Preview_Zoom_2x.so 46563
+/vendor/lib/libCamera_ov64bmipiraw_Capture_Preview_Zoom_4x.so 46564
+/vendor/lib/libCamera_ov64bmipiraw_FaceBeauty_Capture.so 46565
+/vendor/lib/libCamera_ov64bmipiraw_Face_Capture.so 46566
+/vendor/lib/libCamera_ov64bmipiraw_Face_Capture_64M_MFNR.so 46567
+/vendor/lib/libCamera_ov64bmipiraw_Face_Capture_64M_Single.so 46568
+/vendor/lib/libCamera_ov64bmipiraw_Face_SuperNight_Hand_Capture.so 46569
+/vendor/lib/libCamera_ov64bmipiraw_Face_SuperNight_Hand_Capture_Zoom.so 46570
+/vendor/lib/libCamera_ov64bmipiraw_Flash_Capture.so 46571
+/vendor/lib/vndk/libstagefright_omx.so 83214-83263
+/vendor/lib/libCamera_ov64bmipiraw_HDR_Capture.so 46572
+/vendor/lib/libCamera_ov64bmipiraw_ITS.so 46573
+/vendor/lib/libCamera_ov64bmipiraw_LHDR_Face_Capture.so 46574
+/vendor/lib/libCamera_ov64bmipiraw_LHDR_Scene_Capture.so 46575
+/vendor/lib/libCamera_ov64bmipiraw_P1_YUV.so 46576
+/vendor/lib/libCamera_ov64bmipiraw_Panorama_Capture.so 46577
+/vendor/lib/libCamera_ov64bmipiraw_Production_Capture.so 46578
+/vendor/lib/libCamera_ov64bmipiraw_Professional_Capture.so 46579
+/vendor/lib/libCamera_ov64bmipiraw_Professional_Preview.so 46580
+/vendor/lib/libCamera_ov64bmipiraw_RHDR_Face_Capture.so 46581
+/vendor/lib/libCamera_ov64bmipiraw_RHDR_Scene_Capture.so 46582
+/vendor/lib/libCamera_ov64bmipiraw_Scene_Capture.so 46583
+/vendor/lib/libCamera_ov64bmipiraw_Scene_Capture_64M_MFNR.so 46584
+/vendor/lib/libCamera_ov64bmipiraw_Scene_Capture_64M_Single.so 46585
+/vendor/lib/libCamera_ov64bmipiraw_SuperNight_Hand_Capture.so 46586
+/vendor/lib/libCamera_ov64bmipiraw_SuperNight_Hand_Capture_Zoom.so 46587
+/vendor/lib/libCamera_ov64bmipiraw_SuperNight_Hand_Preview.so 46588
+/vendor/lib/libCamera_ov64bmipiraw_SuperNight_Tripod_Capture.so 46589
+/vendor/lib/libCamera_ov64bmipiraw_SuperNight_Tripod_Capture_Zoom.so 46590
+/vendor/lib/libCamera_ov64bmipiraw_Ultra_High_Resolution_Capture.so 46591
+/vendor/lib/libCamera_ov64bmipiraw_Ultra_High_Resolution_Face_Capture.so 46592
+/vendor/lib/libCamera_ov64bmipiraw_Video_1080p_120fps.so 46593
+/vendor/lib/libCamera_ov64bmipiraw_Video_1080p_30fps.so 46594
+/vendor/lib/libCamera_ov64bmipiraw_Video_1080p_30fps_zoom_2x.so 46595
+/vendor/lib/libCamera_ov64bmipiraw_Video_1080p_30fps_zoom_4x.so 46596
+/vendor/lib/libCamera_ov64bmipiraw_Video_1080p_60fps.so 46597
+/vendor/lib/libCamera_ov64bmipiraw_Video_1080p_60fps_pro.so 46598
+/vendor/lib/libCamera_ov64bmipiraw_Video_1080p_60fps_zoom_2x.so 46599
+/vendor/lib/libCamera_ov64bmipiraw_Video_1080p_60fps_zoom_4x.so 46600
+/vendor/lib/libCamera_ov64bmipiraw_Video_480p.so 46601
+/vendor/lib/libCamera_ov64bmipiraw_Video_4k_30fps.so 46602
+/vendor/lib/libCamera_ov64bmipiraw_Video_4k_30fps_zoom_2x.so 46603
+/vendor/lib/libCamera_ov64bmipiraw_Video_4k_30fps_zoom_4x.so 46604
+/vendor/lib/libCamera_ov64bmipiraw_Video_720p_240fps.so 46605
+/vendor/lib/libCamera_ov64bmipiraw_Video_720p_30fps.so 46606
+/vendor/lib/libCamera_ov64bmipiraw_Video_720p_30fps_zoom_2x.so 46607
+/vendor/lib/libCamera_ov64bmipiraw_Video_720p_30fps_zoom_4x.so 46608
+/vendor/lib/libCamera_ov64bmipiraw_Video_720p_60fps.so 46609
+/vendor/lib/libCamera_ov64bmipiraw_Video_720p_60fps_zoom_2x.so 46610
+/vendor/lib/libCamera_ov64bmipiraw_Video_720p_60fps_zoom_4x.so 46611
+/vendor/lib/libCamera_ov64bmipiraw_Video_Capture.so 46612
+/vendor/lib/libCamera_ov64bmipiraw_Video_Enhance_1080P.so 46613
+/vendor/lib/libCamera_ov64bmipiraw_Video_Enhance_1080P_Face.so 46614
+/vendor/lib/libCamera_ov64bmipiraw_Video_Enhance_1080P_Face_Reconfig.so 46615
+/vendor/lib/libCamera_ov64bmipiraw_Video_Enhance_1080P_Reconfig.so 46616
+/vendor/lib/libCamera_ov64bmipiraw_Video_Movie.so 46617
+/vendor/lib/libCamera_ov64bmipiraw_WeChatQQ_Capture.so 46618
+/vendor/lib/libCamera_ov64bmipiraw_WeChatQQ_Preview.so 46619
+/vendor/lib/libCamera_ov64bmipiraw_WeChatQQ_Preview_zoom.so 46620
+/vendor/lib/libCamera_ov64bmipiraw_WeChatQQ_Video.so 46621
+/vendor/lib/libCamera_ov64bmipiraw_WeChatQQ_VideoCall.so 46622
+/vendor/lib/libCamera_ov64bmipiraw_Zoom_Capture.so 46623
+/vendor/lib/libCamera_ov64bmipiraw_Zoom_Capture_4x.so 46624
+/vendor/lib/libCamera_ov64bmipiraw_portrait_capture_Blurless.so 46625
+/vendor/lib/libCamera_ov64bmipiraw_portrait_capture_Blurless_After.so 46626
+/vendor/lib/libCamera_ov64bmipiraw_portrait_capture_full.so 46627
+/vendor/lib/libCamera_ov64bmipiraw_portrait_capture_hdr.so 46628
+/vendor/lib/libCamera_ov64bmipiraw_portrait_preview_full.so 46629
+/vendor/lib/libCamera_ov64bmipiraw_zHDR_Face_Capture.so 46630
+/vendor/lib/libCamera_ov64bmipiraw_zHDR_Scene_Capture.so 46631
+/vendor/lib/libHEVCdec_sa.ca7.android.so 46806-46911
+/vendor/lib/libJpgEncPipe.so 46912-46918
+/vendor/lib/libMcClient.so 46919-46928
+/vendor/lib/libMtkOmxAdpcmDec.so 46929-46939
+/vendor/lib/libMtkOmxAlacDec.so 46940-46951
+/vendor/lib/libMtkOmxApeDec.so 46952-46964
+/vendor/lib/libMtkOmxCore.so 46965-46968
+/vendor/lib/libMtkOmxGsmDec.so 46969-46983
+/vendor/lib/libMtkOmxMp3Dec.so 46984-47006
+/vendor/lib/libMtkOmxVdecEx.so 47007-47082
+/vendor/lib/libMtkOmxVenc.so 47083-47155
+/vendor/lib/libMtkOmxWmaDec.so 47156-47196
+/vendor/lib/libMtkSpeechEnh.so 47197-47334
+/vendor/lib/libOpenCL.so 47335-47346
+/vendor/lib/libSensorSave.so 47347-47353
+/vendor/lib/libSonyIMX230PdafLibrary.so 47354
+/vendor/lib/libSonyIMX230PdafLibraryWrapper.so 47355-47359
+/vendor/lib/libSonyIMX338PdafLibrary.so 47360
+/vendor/lib/libSonyIMX338PdafLibraryWrapper.so 47361-47365
+/vendor/lib/libSonyIMX386PdafLibrary.so 47366
+/vendor/lib/libSonyIMX386PdafLibraryWrapper.so 47367-47371
+/vendor/lib/libSonyIMX519PdafLibrary.so 47372
+/vendor/lib/libSonyIMX519PdafLibraryWrapper.so 47373-47379
+/vendor/lib/libSoterProvision.so 47380-47392
+/vendor/lib/libTEECommon.so 47393-47402
+/vendor/lib/lib_aurisys_lvimfs.so 47403-47406
+/vendor/lib/lib_bsscore.so 47407-47457
+/vendor/lib/lib_iir.so 47458-47467
+/vendor/lib/lib_speech_enh.so 47468-47473
+/vendor/lib/libaal_cust.so 47474-47475
+/vendor/lib/libaal_key.so 47476-47479
+/vendor/lib/libaal_mtk.so 47480-47523
+/vendor/lib/libaalservice.so 47524-47538
+/vendor/lib/libaedv.so 47539-47556
+/vendor/lib/libaiawb_moon.so 47557-47558
+/vendor/lib/libaiawb_moon_model.so 47559-48585
+/vendor/lib/libaiawb_p1ggm.so 48586-48588
+/vendor/lib/libaiawb_sun.so 48589-48593
+/vendor/lib/libaiawb_sun_model.so 48594-50981
+/vendor/lib/libainrcore.so 50982-51043
+/vendor/lib/libalsautils.so 51044-51047
+/vendor/lib/libapusys.so 51048-51062
+/vendor/lib/libapusys_edma.so 51063-51072
+/vendor/lib/libapuwareutils.mtk.so 51073-51074
+/vendor/lib/libarmnn_ndk.mtk.so 51075-51346 32464 32464 32464 32464 51348-53011 52801-52805 53012-53033 52323-52327 53034-53206 52261-52266 53207-53281 52710-52714 53282-53303 53014-53018 53304-53699 53295-53299 53700-53701 53254-53258 53702-53947 53947 53947 53947 53947 53947-53948
+/vendor/lib/libaudio_engineer_test.so 53949-53956
+/vendor/lib/libaudio_param_parser-vnd.so 53957-53997
+/vendor/lib/libaudiocompensationfilter_vendor.so 53998-54000
+/vendor/lib/libaudiocompensationfilterc.so 54001-54003
+/vendor/lib/libaudiocomponentengine_vendor.so 54004-54007
+/vendor/lib/libaudiocomponentenginec.so 54008-54010
+/vendor/lib/libaudiocustparam_vendor.so 54011-54016
+/vendor/lib/libaudiodcrflt_vendor.so 54017-54024
+/vendor/lib/libaudiofmtconv.so 54025-54027
+/vendor/lib/libaudiofoundation.so 54028-54041
+/vendor/lib/libaudioloudc.so 54042-54045
+/vendor/lib/libaudioprimarydevicehalifclient.so 54046-54053
+/vendor/lib/libaudiotoolkit_vendor.so 54054-54056
+/vendor/lib/libaurisysdemo.so 54057-54060
+/vendor/lib/libavservices_minijail.so 54061-54063
+/vendor/lib/libbessound_hd_mtk_vendor.so 54064-54084
+/vendor/lib/libblisrc32_vendor.so 54085-54111
+/vendor/lib/libbluetooth_audio_session.so 54112-54126
+/vendor/lib/libbluetooth_audio_session_mediatek.so 54127-54142
+/vendor/lib/libbluetooth_hw_test.so 54143-54147
+/vendor/lib/libbluetooth_mtk.so 54148-54156
+/vendor/lib/libbluetooth_mtk_pure.so 54157-54163
+/vendor/lib/libbluetooth_relayer.so 54164-54166
+/vendor/lib/libbluetoothem_mtk.so 54167-54169
+/vendor/lib/libbt-vendor.so 54170-54171
+/vendor/lib/libbwc.so 54172-54176
+/vendor/lib/libcam.afhal.so 54177-54235
+/vendor/lib/libcam.feature_utils.so 54236-54304
+/vendor/lib/libcam.hal3a.log.so 54305
+/vendor/lib/libcam.hal3a.v3.ae.so 54306-54413
+/vendor/lib/libcam.hal3a.v3.ai3a.so 54414-54425
+/vendor/lib/libcam.hal3a.v3.awb.so 54426-54472
+/vendor/lib/libcam.hal3a.v3.fsmgr.so 54473-54474
+/vendor/lib/libcam.hal3a.v3.lscMgr.so 54475-54522
+/vendor/lib/libcam.hal3a.v3.lsctbl.50.so 54523-54532
+/vendor/lib/libcam.hal3a.v3.nvram.50.so 54533-54544
+/vendor/lib/libcam.hal3a.v3.platform.so 54545-54717
+/vendor/lib/libcam.hal3a.v3.resultpool.so 54718-54735
+/vendor/lib/libcam.hal3a.v3.so 54736-54787
+/vendor/lib/libcam.halisp.buf.so 54788-54791
+/vendor/lib/libcam.halsensor.hwintegration.so 54792-54793
+/vendor/lib/libcam.halsensor.so 54794-54972
+/vendor/lib/libcam.iopipe.so 54973-55142
+/vendor/lib/libcam.p1mt6853.inc_headers.so 55143
+/vendor/lib/libcam.pdtblgen.so 55144-55150
+/vendor/lib/libcam.tuning.cache.so 55151-55154
+/vendor/lib/libcam.utils.sensorprovider.so 55155-55174
+/vendor/lib/libcam.vhdr.so 55175-55184
+/vendor/lib/libcam3a_imem.so 55185-55187
+/vendor/lib/libcamalgo.3dnr.so 55188-55201
+/vendor/lib/libcamalgo.aibc.so 55202-55266
+/vendor/lib/libcamalgo.aihdr.so 55267-55451
+/vendor/lib/libcamalgo.ainr.so 55452-55502
+/vendor/lib/libcamalgo.asd.so 55503-55573
+/vendor/lib/libcamalgo.dngop.so 55574-55581
+/vendor/lib/libcamalgo.eis.so 55582-55655
+/vendor/lib/libcamalgo.fdft.so 55656-57865 0 0 0 57866-57867 0 57868-57887 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 57888-57947 0 0 57948 57950-57974 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 57975-58090
+/vendor/lib/libcamalgo.fsc.so 58091-58094
+/vendor/lib/libcamalgo.gyro.so 58095-58113
+/vendor/lib/libcamalgo.ispfeature.so 58114-58117
+/vendor/lib/libcamalgo.lmv.so 58118-58126
+/vendor/lib/libcamalgo.lsc.so 58127-58189
+/vendor/lib/libcamalgo.mfnr.so 58190-58226
+/vendor/lib/libcamalgo.n3d.so 58227-58312
+/vendor/lib/libcamalgo.nr.so 58313-58388
+/vendor/lib/libcamalgo.utility.so 58389-58409
+/vendor/lib/libcamalgo.vsf.so 58410-58501
+/vendor/lib/libcamalgo.warp.so 58502-58512
+/vendor/lib/libcamdrv_imem.so 58513-58521
+/vendor/lib/libcamdrv_isp.so 58522-58555
+/vendor/lib/libcamdrv_tuning_mgr.so 58556-58564
+/vendor/lib/libcamdrv_twin.so 58565-58732
+/vendor/lib/libcamera.custom.pd_buf_mgr.so 58733-58753
+/vendor/lib/libcamera.customae.so 58754-58757
+/vendor/lib/libcamera.customaf.so 58758-58759
+/vendor/lib/libcamera.customawb.so 58760-58764 0 58765-58774 0 58775-58776
+/vendor/lib/libcamera.customflk.so 58777-58778
+/vendor/lib/libcameracustom.camera.3a.so 58779-58782
+/vendor/lib/libcameracustom.camera.isp.so 58783-58799
+/vendor/lib/libcameracustom.camera.sensors.so 58800-58801
+/vendor/lib/libcameracustom.eis.so 58802-58804
+/vendor/lib/libcameracustom.flashlight.so 58805-58808
+/vendor/lib/libcameracustom.lens.so 58809-58810
+/vendor/lib/libcameracustom.so 58811-58846
+/vendor/lib/libcapctrl.so 58847-58851
+/vendor/lib/libcares_naptr.so 58852-58861
+/vendor/lib/libcarrierconfig.so 58862-58871
+/vendor/lib/libccci_util.so 58872-58880
+/vendor/lib/libcmdl_ndk.mtk.so 58881-58991 32464 32464 58992-59221 59221 59223
+/vendor/lib/libcustom_nvram.so 59224-59245
+/vendor/lib/libcvsd_mtk.so 59246-59255
+/vendor/lib/libdip_drv.so 59256-59273
+/vendor/lib/libdip_imem.so 59274-59281
+/vendor/lib/libdip_postproc.so 59282-59394
+/vendor/lib/libdpframework.so 59395-59693
+/vendor/lib/libdrm.so 59694-59707
+/vendor/lib/libeffecthal.base.so 59708-59718
+/vendor/lib/libeffects.so 59719-59723
+/vendor/lib/libeffectsconfig.so 59724-59728
+/vendor/lib/libfeature.face.so 59729-59745
+/vendor/lib/libfeature.stereo.provider.so 59746-59913
+/vendor/lib/libfeature.vsdof.hal.so 59914-59983
+/vendor/lib/libfeature_3dnr.so 59984-60000
+/vendor/lib/libfeature_eis.so 60001-60063
+/vendor/lib/libfeature_fsc.so 60064-60071
+/vendor/lib/libfeature_lmv.so 60072-60096
+/vendor/lib/libfeature_rss.so 60097-60099
+/vendor/lib/libfeatureiodrv_mem.so 60100-60104
+/vendor/lib/libfgauge_gm30.so 60105-60151
+/vendor/lib/libfile_op.so 60152-60168
+/vendor/lib/libged.so 60169-60181
+/vendor/lib/libgpu_aux.so 60182-60201
+/vendor/lib/libgpud.so 60202-60222
+/vendor/lib/libgralloc_extra.so 60223-60227
+/vendor/lib/libgralloc_metadata.so 60228-60229
+/vendor/lib/libgralloctypes_mtk.so 60230-60232
+/vendor/lib/libhwm.so 60714-60727
+/vendor/lib/libgz_gp_client.so 60233-60234
+/vendor/lib/libgz_uree.so 60235-60238
+/vendor/lib/libh264dec_customize.so 60239-60240
+/vendor/lib/libh264dec_sa.ca7.so 60241-60342
+/vendor/lib/libh264dec_sd.ca7.so 60343-60436
+/vendor/lib/libh264dec_se.ca7.so 60437-60552
+/vendor/lib/libh264enc_sa.ca7.so 60553-60616
+/vendor/lib/libhdrvideo.so 60617
+/vendor/lib/libhevce_sb.ca7.android.so 60618-60673
+/vendor/lib/libhfmanager.so 60674-60678
+/vendor/lib/libhidltransport.so 60679
+/vendor/lib/libhwbinder.so 60680
+/vendor/lib/libhwc2on1adapter.so 60681-60707
+/vendor/lib/libhwc2onfbadapter.so 60708-60713
+/vendor/lib/libimageio.so 60728
+/vendor/lib/libimageio_plat_drv.so 60729-61044
+/vendor/lib/libimageio_plat_pipe.so 61045-61125
+/vendor/lib/libimgsensorca.so 61126-61127
+/vendor/lib/libion_mtk.so 61128-61129
+/vendor/lib/libion_ulit.so 61130
+/vendor/lib/libipsec_ims_shr.so 61131-61135
+/vendor/lib/libispcameraca.so 61136-61142
+/vendor/lib/libjpeg-alpha-oal_vendor.so 61143-61149
+/vendor/lib/libjpeg-alpha_vendor.so 61150-61247
+/vendor/lib/libkeystore-wifi-hidl.so 61248-61249
+/vendor/lib/libktvdrc.so 61250-61254
+/vendor/lib/libktveffect.so 61255-61277
+/vendor/lib/libktveffect_rec.so 61278-61336
+/vendor/lib/libktveq.so 61337-61341
+/vendor/lib/libktvns.so 61342-61350
+/vendor/lib/libktvreverb.so 61351-61355
+/vendor/lib/libktvsoundtouch.so 61356-61387
+/vendor/lib/libktvvolume.so 61388-61391
+/vendor/lib/libladder.so 61392-61395
+/vendor/lib/liblpcnr.so 61396
+/vendor/lib/liblvimfs.so 61397-61489
+/vendor/lib/liblvimfs_wrapper.so 61490-61496
+/vendor/lib/libm4u.so 61497-61499
+/vendor/lib/libmfllcore.so 61500-61628
+/vendor/lib/libminiui.so 61629-61776
+/vendor/lib/libmmprofile.so 61777-61778
+/vendor/lib/libmnetlink_v104.so 61779-61781
+/vendor/lib/libmnl.so 61782-62635 0 62636-62716 62646 62717-62726 62646 62728-62969 0 62970-63001
+/vendor/lib/libmp4enc_sa.ca7.so 63002-63036
+/vendor/lib/libmp4enc_xa.ca7.so 63037-63081
+/vendor/lib/libmsbc_mtk.so 63082-63089
+/vendor/lib/libmsnr.so 63090-63128
+/vendor/lib/libmtcloader.so 63129-63132
+/vendor/lib/libmtk_drvb.so 63133-63135
+/vendor/lib/libmtkares.so 63136
+/vendor/lib/libmtkcam.atmseventmgr.so 63137-63139
+/vendor/lib/libmtkcam.eventcallback.so 63140-63142
+/vendor/lib/libmtkcam.featurepipe.capture.so 63143-63429
+/vendor/lib/libmtkcam.featurepipe.depthmap.so 63430-63690
+/vendor/lib/libmtkcam.featurepipe.streaming.so 63691-63713 32464 32464 63714-64132 64132 64134-64147
+/vendor/lib/libmtkcam.featurepipe.vsdof_util.so 64148-64164
+/vendor/lib/libmtkcam.logicalmodule.so 64165-64346
+/vendor/lib/libmtkcam_3rdparty.core.so 64347-64420
+/vendor/lib/libmtkcam_3rdparty.customer.so 64421-64532
+/vendor/lib/libmtkcam_3rdparty.mtk.so 64533-64669
+/vendor/lib/libmtkcam_3rdparty.so 64670-64671
+/vendor/lib/libmtkcam_calibration_convertor.so 64672-64676
+/vendor/lib/libmtkcam_calibration_provider.so 64677-64707
+/vendor/lib/libmtkcam_debugutils.so 64708-64718
+/vendor/lib/libmtkcam_diputils.so 64719
+/vendor/lib/libmtkcam_exif.so 64720-64733
+/vendor/lib/libmtkcam_fdvt.so 64734-64774 0 0 0 64775-64810 0 0 0 0 64811-64845 0 0 0 0 64846-64918
+/vendor/lib/libmtkcam_grallocutils.so 64919-64931
+/vendor/lib/libmtkcam_hwnode.so 64932-64945 32464 64946-65456
+/vendor/lib/libmtkcam_hwutils.so 65457-65532
+/vendor/lib/libmtkcam_imgbuf.so 65533-65535 65605-65656
+/vendor/lib/libmtkcam_mapping_mgr.so 65657-65673
+/vendor/lib/libmtkcam_metadata.so 65674-65714
+/vendor/lib/libmtkcam_metastore.so 65715-65841
+/vendor/lib/libmtkcam_mfb.so 65842-65866
+/vendor/lib/libmtkcam_modulehelper.so 65867-65869
+/vendor/lib/libmtkcam_owe.so 65870-65879
+/vendor/lib/libmtkcam_pipeline.so 65880-65985
+/vendor/lib/libmtkcam_pipeline_fbm.so 65986-66018
+/vendor/lib/libmtkcam_pipelinemodel_isp.so 66019-66084
+/vendor/lib/libmtkcam_prerelease.so 66085-66097
+/vendor/lib/libmtkcam_rsc.so 66098-66107
+/vendor/lib/libmtkcam_scenariorecorder.so 66108-66125
+/vendor/lib/libmtkcam_stdutils.so 66126-66153
+/vendor/lib/libmtkcam_streamutils.so 66154-66201
+/vendor/lib/libmtkcam_synchelper.so 66202-66226
+/vendor/lib/libmtkcam_sysutils.so 66227-66244
+/vendor/lib/libmtkcam_tuning_utils.so 66245-66267
+/vendor/lib/libmtkcam_ulog.so 66268-66311
+/vendor/lib/libmtkcutils.so 66312-66315
+/vendor/lib/libmtkhardware_legacy.so 66316
+/vendor/lib/libmtkisp_metadata.so 66317-66318
+/vendor/lib/libmtklimiter_vendor.so 66319-66328
+/vendor/lib/libmtknetutils.so 66329-66331
+/vendor/lib/libmtkperf_client_vendor.so 66332-66334
+/vendor/lib/libmtkproperty.so 66335-66336
+/vendor/lib/libmtkrillog.so 66337-66338
+/vendor/lib/libmtkshifter_vendor.so 66339-66345
+/vendor/lib/libmtkspparser.so 66346-66348
+/vendor/lib/libmtksysutils.so 66349-66355
+/vendor/lib/libnbaio_mono.so 66356-66359
+/vendor/lib/libneuroeara.so 66360-66369
+/vendor/lib/libneuron_wrapper.so 66370-66372
+/vendor/lib/libneuropilot_hal_utils.so 66373
+/vendor/lib/libneuropilot_jni_R.so 66374-66393 32464 66394-66989
+/vendor/lib/libnir_neon_driver.so 66990-67030 32464 32464 32464 32464 67032-68493 0 68494-68495 68495-68527
+/vendor/lib/libnir_neon_driver_ndk.mtk.so 68528-68922 32464 32464 32464 32464 32464 32464 68924-70311 70311 70311 70311 70311 70311 70311 70311 70311-70312
+/vendor/lib/libnvram.so 70313-70358
+/vendor/lib/libnvram_daemon_callback.so 70359-70365
+/vendor/lib/libnvram_platform.so 70366
+/vendor/lib/libnvram_sec.so 70367-70368
+/vendor/lib/libnwk_opt_halwrap_vendor.so 70369-70371
+/vendor/lib/libnxp_extamp_intf.so 70372
+/vendor/lib/libnxprecord.so 70373-70374
+/vendor/lib/libnxpsmartpaparser.so 70375-70376
+/vendor/lib/libnxpspeech.so 70377-70379
+/vendor/lib/liboplus_audio_config.so 70380-70381
+/vendor/lib/liboplus_mtkcam_configutils.so 70382-70405
+/vendor/lib/liboplusbtnvutils.so 70406-70407
+/vendor/lib/libopus.so 70408-70490
+/vendor/lib/libperfctl_vendor.so 70491-70492
+/vendor/lib/libpixelflinger.so 70493-70527
+/vendor/lib/libpowerhal.so 70528-70561
+/vendor/lib/libpowerhalwrap_vendor.so 70562-70565
+/vendor/lib/libpq_cust_base.so 70566-70583 70583-70585 70580 70586-70600 70597 70602-70603 70594 70604-70611
+/vendor/lib/libpq_prot.so 70612-70796
+/vendor/lib/libprotobuf-cpp-full-3.9.1.so 70797-70816 32464 70817-71189
+/vendor/lib/libprotobuf-cpp-lite-3.9.1.so 71190-71275
+/vendor/lib/libreference-ril.so 71276-71294
+/vendor/lib/librgbwlightsensor.so 71295-71296
+/vendor/lib/libril.so 71297-71350
+/vendor/lib/librilutils.so 71351-71352
+/vendor/lib/librpc.so 71353-71359
+/vendor/lib/libscltm.so 71360
+/vendor/lib/libsensorndkbridge.so 71361-71369
+/vendor/lib/libspeech_enh_lib.so 71370-71515
+/vendor/lib/libspeechparser_vendor.so 71516-71524
+/vendor/lib/libstagefright_amrnb_common.so 71525-71539
+/vendor/lib/libstagefrighthw.so 72358-72359
+/vendor/lib/libstagefright_enc_common.so 71541
+/vendor/lib/libstagefright_flacdec.so 71542-71562
+/vendor/lib/libstagefright_soft_aacdec.so 71563-71718
+/vendor/lib/libstagefright_soft_aacenc.so 71719-71827
+/vendor/lib/libstagefright_soft_amrdec.so 71828-71857
+/vendor/lib/libstagefright_soft_amrnbenc.so 71858-71878
+/vendor/lib/libstagefright_soft_amrwbenc.so 71879-71913
+/vendor/lib/libstagefright_soft_avcdec.so 71914-71993
+/vendor/lib/libstagefright_soft_avcenc.so 71994-72067
+/vendor/lib/libstagefright_soft_flacdec.so 72068-72071
+/vendor/lib/libstagefright_soft_flacenc.so 72072-72095
+/vendor/lib/libstagefright_soft_g711dec.so 72096-72099
+/vendor/lib/libstagefright_soft_gsmdec.so 72100-72105
+/vendor/lib/libstagefright_soft_hevcdec.so 72106-72212
+/vendor/lib/libstagefright_soft_mp3dec.so 72213-72229
+/vendor/lib/libstagefright_soft_mpeg2dec.so 72230-72255
+/vendor/lib/libstagefright_soft_mpeg4dec.so 72256-72282
+/vendor/lib/libstagefright_soft_mpeg4enc.so 72283-72317
+/vendor/lib/libstagefright_soft_opusdec.so 72318-72322
+/vendor/lib/libstagefright_soft_rawdec.so 72323-72325
+/vendor/lib/libstagefright_soft_vorbisdec.so 72326-72330
+/vendor/lib/libstagefright_soft_vpxdec.so 72331-72335
+/vendor/lib/libstagefright_soft_vpxenc.so 72336-72341
+/vendor/lib/libstagefright_softomx.so 72342-72354
+/vendor/lib/libstagefright_softomx_plugin.so 72355-72357
+/vendor/lib/libstereoinfoaccessor_vsdof.so 72360-72480
+/vendor/lib/libstorage_otp.so 72481-72486
+/vendor/lib/libsysenv.so 72487-72519
+/vendor/lib/libtextclassifier_hash.so 72520-72523
+/vendor/lib/libtflite_mtk.so 72524-72541 32464 72542-73050
+/vendor/lib/libtflite_mtk_static_R.so 73051-73070 32464 73071-73663
+/vendor/lib/libthermalalgo.so 73664-73666
+/vendor/lib/libthha.so 73667-73670
+/vendor/lib/libtinycompress.so 73671-73673
+/vendor/lib/libtinyxml.so 73674-73684
+/vendor/lib/libtlcWidevineModularDrm.so 73685-73702
+/vendor/lib/libudf.so 73703-73713
+/vendor/lib/liburee_meta_drmkeyinstall.so 73714-73722
+/vendor/lib/libvc1dec_sa.ca7.so 73723-73914
+/vendor/lib/libvcodec_oal.so 73915-73922
+/vendor/lib/libvcodec_utility.so 73923-73951
+/vendor/lib/libvcodecdrv.so 73952-74150 0 0 0 74151-74155 0 0 0 74156-74160 0 0 0 0 74161-74165 0 0 0 74166 74168-74171 0 0 0 74172-74176 0 0 0 74177-74181 0 0 0 74182-74186 0 0 0 74187-74190 0 0 0 0 74191-74194 0 0 0 0 74195-74200 0 0 74201-74205 0 0 0 74206-74210 0 0 0 74211-74214 0 0 0 0 74215-74219 0 0 0 74220-74224 0 0 0 74225-74228 0 0 0 0 74229
+/vendor/lib/libviagpsrpc.so 74230-74261
+/vendor/lib/libvorbisidec.so 74262-74293
+/vendor/lib/libvow_ap_testing.vendor.so 74294-74299
+/vendor/lib/libvowp23_sid_testing.vendor.so 74300-74318
+/vendor/lib/libvowp23_sid_training.vendor.so 74319-74410
+/vendor/lib/libvowp25testing.vendor.so 74411-74446
+/vendor/lib/libvowp2training.vendor.so 74447-74537
+/vendor/lib/libvp8dec_sa.ca7.so 74538-74611
+/vendor/lib/libvp8enc_sa.ca7.so 74612-74666
+/vendor/lib/libvp9dec_sa.ca7.so 74667-74752
+/vendor/lib/libvpu.so 74753-74763
+/vendor/lib/libvpud_vcodec.so 74764-74783 0 0 74784 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 74785-74787 0 0 0 0 74788-74789
+/vendor/lib/libvpx.so 74790-75237
+/vendor/lib/libvt_custom.so 75238-75239
+/vendor/lib/libwapi.so 75240-75268
+/vendor/lib/libwebrtc_audio_preprocessing.so 75269-75458
+/vendor/lib/libwpa_client.so 75459-75462
+/vendor/lib/libwvhidl.so 75463-75969
+/vendor/lib/mediacas/libclearkeycasplugin.so 75970-75985
+/vendor/lib/mediadrm/libdrmclearkeyplugin.so 75986-75995
+/vendor/lib/mediadrm/libmockdrmcryptoplugin.so 75996-76004
+/vendor/lib/mediadrm/libwvdrmengine.so 76005-76018 32464 76019-76486
+/vendor/lib/modules/bt_drv.ko 76487-76597
+/vendor/lib/modules/conninfra.ko 76598-76731
+/vendor/lib/modules/fmradio_drv.ko 76732-76894
+/vendor/lib/modules/fpsgo.ko 76895-76906
+/vendor/lib/modules/gps_drv.ko 76907-77027
+/vendor/lib/modules/kheaders.ko 77028-77858
+/vendor/lib/modules/met.ko 77859-77942 0 77943-78202
+/vendor/lib/modules/modules.alias 78203
+/vendor/lib/modules/modules.dep 78204
+/vendor/lib/modules/modules.load 78205
+/vendor/lib/modules/modules.softdep 78206
+/vendor/lib/modules/wlan_drv_gen4m.ko 78207-78220 0 78221-79624
+/vendor/lib/modules/wmt_chrdev_wifi.ko 79625-79648
+/vendor/lib/ov02b10_mipi_raw_IdxMgr.so 79649-79673
+/vendor/lib/ov02b10_mipi_raw_tuning.so 79674-79682 34484-34485 79683-79769 0 79770-79773 0 0 0 0 0 0 79774 79776-79812 0 79813-79816 0 0 0 0 0 0 79817-79831 0 79832-79835 0 0 0 0 0 0 79836-79841 0 79842-79894 0 79895-79898 0 0 0 0 0 0 79899-79904 0 79905-79928 0 0 79929-79932 0 0 0 0 0 0 79933-79938 0 79939-79959 0 0 79960-79963 0 0 0 0 0 0 79964-79979 0 79980-80009 0 0 0 0 0 80010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 80011-80107
+/vendor/lib/ov64b_mipi_raw_IdxMgr.so 80108-80209
+/vendor/lib/ov64b_mipi_raw_tuning.so 80210-80243 0 0 80244-80247 0 0 0 0 0 0 80248-80314 0 80315-80318 0 0 0 0 0 0 80319 80321-80326 0 80327-80343 0 80344-80348 0 0 0 0 0 80349-80396 0 80397-80400 0 0 0 0 0 0 80401-80478 0 80479-80483 0 0 0 0 0 80484-80515 34129-34130 80516-80568 0 80569-80572 0 0 0 0 0 0 80573-80616 0 80617-80620 0 0 0 0 0 0 80621-80731 0 80732-80736 0 0 0 0 0 0 80737-80743 0 80744-80748 0 0 0 0 0 80484 80749 80486-80487 80750-80752 0 80753-80756 0 80757-80760 0 0 0 0 0 0 80761-80781 0 80782-80785 0 0 0 0 0 0 80786-81010 0 81011-81014 0 0 0 0 0 0 81015-81028 0 81029-81032 0 0 0 0 0 0 81033-81055 0 81056-81059 0 0 0 0 0 0 81060-81065 0 81066-81094 33681 81095-81118 0 81119-81122 0 0 0 0 0 0 81123-81140 0 81141-81144 0 0 0 0 0 0 81145-81159 0 0 81160-81163 0 0 0 0 0 0 81164-81169 0 81170-81277 0 0 81278-81281 0 0 0 0 0 0 81282-81324 0 81325-81328 0 0 0 0 0 0 81329-81378 80556 81379-81387 0 81388-81391 0 0 0 0 0 0 81392-81398 0 81399-81441 0 81442-81454 0 81455-81458 0 0 0 0 0 0 81459-81504 0 81505-81594 0 81595-81598 0 0 0 0 0 0 81599-81619 80639 81620-81626 0 0 81627-81630 0 0 0 0 0 0 81631-81636 0 81637-81713 0 81714-81718 0 0 0 0 0 81719-81763 0 81764-81767 0 0 0 0 0 0 81768-81860 0 81861-81864 0 0 0 0 0 0 81865-81903 0 81904-81907 0 0 0 0 0 0 81908-81927 0 81928-81931 0 0 0 0 0 0 81932-81983 0 0 0 0 0 81984 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 81985-82061 0 82062-82065 0 0 0 0 0 0 82066-82098 0 82099-82102 0 0 0 0 0 0 82103-82109 81916 82110-82279 0 82280-82379
+/vendor/lib/soter_attk_provision.so 82380-82381
+/vendor/lib/soundfx/libaudiopreprocessing.so 82382-82386
+/vendor/lib/soundfx/libaudiopreprocessing_mtk.so 82387-82391
+/vendor/lib/soundfx/libbundlewrapper.so 82392-82408
+/vendor/lib/soundfx/libdownmix.so 82409-82411
+/vendor/lib/soundfx/libdynproc.so 82412-82421
+/vendor/lib/soundfx/libeffectproxy.so 82422-82423
+/vendor/lib/soundfx/libldnhncr.so 82424-82425
+/vendor/lib/soundfx/libreverbwrapper.so 82426-82433
+/vendor/lib/soundfx/libvisualizer.so 82434-82435
+/vendor/lib/vendor.mediatek.hardware.apuware.utils@1.0.so 82436-82450
+/vendor/lib/vendor.mediatek.hardware.audio@6.1.so 82451-82492
+/vendor/lib/vendor.mediatek.hardware.bluetooth.audio@2.1.so 82493-82533
+/vendor/lib/vendor.mediatek.hardware.camera.atms@1.0.so 82534-82547
+/vendor/lib/vendor.mediatek.hardware.camera.camdump@1.0.so 82548-82568
+/vendor/lib/vendor.mediatek.hardware.camera.isphal@1.0.so 82569-82602
+/vendor/lib/vendor.mediatek.hardware.gpu@1.0.so 82603-82631
+/vendor/lib/vendor.mediatek.hardware.keyinstall@1.0.so 82632-82645
+/vendor/lib/vendor.mediatek.hardware.keymaster_attestation@1.0.so 82646-82659
+/vendor/lib/vendor.mediatek.hardware.keymaster_attestation@1.1.so 82660-82674
+/vendor/lib/vendor.mediatek.hardware.mms@1.0.so 82675-82690
+/vendor/lib/vendor.mediatek.hardware.mms@1.1.so 82691-82705
+/vendor/lib/vendor.mediatek.hardware.mms@1.2.so 82706-82721
+/vendor/lib/vendor.mediatek.hardware.mms@1.3.so 82722-82739
+/vendor/lib/vendor.mediatek.hardware.mms@1.4.so 82740-82758
+/vendor/lib/vendor.mediatek.hardware.mms@1.5.so 82759-82778
+/vendor/lib/vendor.mediatek.hardware.mtkcodecservice@1.1.so 82779-82803
+/vendor/lib/vendor.mediatek.hardware.mtkpower@1.0.so 82804-82826
+/vendor/lib/vendor.mediatek.hardware.mtkpower@1.1.so 82827-82857
+/vendor/lib/vendor.mediatek.hardware.netdagent@1.0.so 82858-82870
+/vendor/lib/vendor.mediatek.hardware.nvram@1.0.so 82871-82884
+/vendor/lib/vendor.mediatek.hardware.nvram@1.1.so 82885-82904
+/vendor/lib/vendor.mediatek.hardware.nwk_opt@1.0.so 82905-82918
+/vendor/lib/vendor.mediatek.hardware.power@1.1.so 82919-82937
+/vendor/lib/vendor.mediatek.hardware.power@2.0.so 82938-82959
+/vendor/lib/vendor.mediatek.hardware.pq@2.0.so 82960-82996
+/vendor/lib/vendor.mediatek.hardware.pq@2.1.so 82997-83022
+/vendor/lib/vendor.mediatek.hardware.pq@2.2.so 83023-83049
+/vendor/lib/vendor.mediatek.hardware.pq@2.3.so 83050-83083
+/vendor/lib/vendor.mediatek.hardware.pq@2.4.so 83084-83115
+/vendor/lib/vendor.mediatek.hardware.pq@2.5.so 83116-83148
+/vendor/lib/vendor.mediatek.hardware.pq@2.6.so 83149-83182
+/vendor/lib/vendor.mediatek.hardware.videotelephony@1.0.so 83183-83197
+/vendor/lib/vendor.oplus.hardware.stability.oplus_project@1.0.so 83198-83213
+/vendor/lib64/APUWareApusysServer.so 83264-83272
+/vendor/lib64/APUWareUtilsServer.so 83273-83282
+/vendor/lib64/APUWareXrpServer.so 83283-83294
+/vendor/lib64/AVCSecureVdecCA.so 83295-83301 54060
+/vendor/lib64/AVCSecureVencCA.so 83302-83305
+/vendor/lib64/HEVCSecureVdecCA.so 83306-83311
+/vendor/lib64/VP9SecureVdecCA.so 83312-83318 54060
+/vendor/lib64/android.hardware.audio.common-util.so 83319-83322
+/vendor/lib64/android.hardware.audio.common@6.0-util.so 83323-83327
+/vendor/lib64/android.hardware.graphics.composer@2.1-resources.so 83328-83338
+/vendor/lib64/android.hardware.power-service-mediatek.so 83339-83342
+/vendor/lib64/android.hardware.sensors@2.0-ScopedWakelock.so 83343-83345
+/vendor/lib64/arm.graphics-V1-ndk_platform.so 83346-83348
+/vendor/lib64/egl/libGLES_mali.so 83349-92614
+/vendor/lib64/egl/libGLES_meow.so 92615-93158
+/vendor/lib64/egl/libMEOW_qt.so 93159-93180
+/vendor/lib64/egl/libMEOW_trace.so 93181-93289 0 93290-93292
+/vendor/lib64/hw/android.hardware.audio.effect@6.0-impl.so 93293-93364
+/vendor/lib64/hw/android.hardware.audio@6.0-impl-mediatek.so 93365-93419
+/vendor/lib64/hw/android.hardware.bluetooth.audio@2.0-impl.so 93420-93440
+/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-mediatek.so 93441-93459
+/vendor/lib64/hw/android.hardware.camera.provider@2.6-impl-mediatek.so 93460-93500
+/vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl.so 93501-93505
+/vendor/lib64/hw/android.hardware.gnss@2.1-impl-mediatek.so 93506-93554
+/vendor/lib64/hw/android.hardware.graphics.allocator@4.0-impl-mediatek.so 93555-93573
+/vendor/lib64/hw/android.hardware.graphics.composer@2.1-impl.so 93574-93593
+/vendor/lib64/hw/android.hardware.graphics.mapper@4.0-impl-mediatek.so 93594-93629
+/vendor/lib64/hw/android.hardware.health@2.0-impl-2.1.so 93630-93649
+/vendor/lib64/hw/android.hardware.memtrack@1.0-impl.so 93650-93654
+/vendor/lib64/hw/android.hardware.renderscript@1.0-impl.so 93655-93670
+/vendor/lib64/hw/android.hardware.sensors@2.X-subhal-mediatek.so 93671-93683
+/vendor/lib64/hw/android.hardware.soundtrigger@2.3-impl.so 93684-93698
+/vendor/lib64/hw/android.hardware.thermal@1.0-impl.so 93699-93705
+/vendor/lib64/hw/android.hardware.thermal@2.0-impl.so 93706-93728
+/vendor/lib64/hw/audio.bluetooth.default.so 93729-93753
+/vendor/lib64/hw/audio.primary.default.so 93754-93756
+/vendor/lib64/hw/audio.primary.mt6877.so 93757-93785 32464 93786-94393 94393 94393 94395-94401
+/vendor/lib64/hw/audio.r_submix.default.so 94402-94409
+/vendor/lib64/hw/audio.r_submix.mt6877.so 94410-94419
+/vendor/lib64/hw/audio.usb.default.so 94420-94426
+/vendor/lib64/hw/audio.usb.mt6877.so 94427-94444
+/vendor/lib64/hw/audio_policy.stub.so 94445-94447
+/vendor/lib64/hw/gps.default.so 94448-94462
+/vendor/lib64/hw/gralloc.default.so 94463-94468
+/vendor/lib64/hw/hwcomposer.mt6877.so 94469-94692 94692-94697
+/vendor/lib64/hw/kmsetkey.trustonic.so 94698-94702
+/vendor/lib64/hw/libMcGatekeeper.so 94703-94707
+/vendor/lib64/hw/libSoftGatekeeper.so 94708-94715
+/vendor/lib64/hw/lights.mt6877.so 94716 83347 94717
+/vendor/lib64/hw/local_time.default.so 94718-94720
+/vendor/lib64/hw/memtrack.mt6877.so 94721-94723
+/vendor/lib64/hw/power.default.so 94724-94726
+/vendor/lib64/hw/power.mt6877.so 94727-94729
+/vendor/lib64/hw/sensors.mt6877.so 94730-94764
+/vendor/lib64/hw/sound_trigger.primary.mt6877.so 94765-94779
+/vendor/lib64/hw/thermal.mt6877.so 94780-94782
+/vendor/lib64/hw/vendor.mediatek.hardware.bluetooth.audio@2.1-impl.so 94783-94804
+/vendor/lib64/hw/vendor.mediatek.hardware.camera.atms@1.0-impl.so 94805-94810
+/vendor/lib64/hw/vendor.mediatek.hardware.camera.ccap@1.0-impl.so 94811-94815
+/vendor/lib64/hw/vendor.mediatek.hardware.camera.isphal@1.0-impl.so 94816-94876
+/vendor/lib64/hw/vendor.mediatek.hardware.camera.lomoeffect@1.0-impl.so 94877-94882
+/vendor/lib64/hw/vendor.mediatek.hardware.keyinstall@1.0-impl.so 94883-94887
+/vendor/lib64/hw/vendor.mediatek.hardware.keymaster_attestation@1.1-impl.so 94888-94893
+/vendor/lib64/hw/vendor.mediatek.hardware.mms@1.5-impl.so 94894-94905
+/vendor/lib64/hw/vendor.mediatek.hardware.mtkcodecservice@1.1-impl.so 94906-94925
+/vendor/lib64/hw/vendor.mediatek.hardware.mtkpower@1.1-impl.so 94926-94934
+/vendor/lib64/hw/vendor.mediatek.hardware.nvram@1.1-impl.so 94935-94942
+/vendor/lib64/hw/vendor.mediatek.hardware.pq@2.6-impl.so 94943-94996
+/vendor/lib64/hw/vendor.mediatek.hardware.videotelephony@1.0-impl.so 94997-95005
+/vendor/lib64/hw/vibrator.default.so 95006-95008
+/vendor/lib64/imx355_mipi_raw_IdxMgr.so 95009-95051
+/vendor/lib64/imx355_mipi_raw_tuning.so 95052-95071 0 95072-95075 0 0 0 0 0 0 95076-95095 0 95096-95099 0 0 0 0 0 0 95100 95102-95118 0 95119-95123 0 0 0 0 0 95124-95141 0 0 95142-95145 0 0 0 0 0 0 95146-95254 33982 95255-95318 33681 33681 33681 95319-95342 82110 95343-95360 0 95361-95364 0 0 0 0 0 0 95365-95378 0 95379-95382 0 0 0 0 0 0 95383-95388 0 95389-95397 34841 95398-95402 79853 95403-95415 33681 33681 95416-95432 0 95433-95436 0 0 0 0 0 0 95437-95455 0 0 95456-95459 0 0 0 0 0 0 95460-95465 0 95466-95538 0 95539-95542 0 0 0 0 0 0 95543-95585 0 95586-95590 0 0 0 0 0 95591-95605 79735-79736 95606 79801 95607-95664 0 95665-95668 0 0 0 0 0 0 95669-95713 0 95714-95717 0 0 0 0 0 0 95718-95723 0 95724-95727 82048 95728-95734 0 95735-95738 0 0 0 0 0 0 95739-95789 0 0 0 0 0 95790 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 95791-95865 0 95866-95869 0 0 0 0 0 0 95870-95876 33616 95877-95901 0 0 95902-95905 0 0 0 0 0 0 95906-95915 79694 95916-95929 33614 95930-96106
+/vendor/lib64/imx615_mipi_raw_IdxMgr.so 96107-96158
+/vendor/lib64/imx615_mipi_raw_tuning.so 96159-96184 0 96185-96188 0 0 0 0 0 0 96189-96239 0 0 96240-96243 0 0 0 0 0 0 96244 96246-96281 34285 96282-96290 0 0 96291-96294 0 0 0 0 0 0 96295-96316 33681 96317-96323 0 96324-96327 0 0 0 0 0 0 96328-96367 0 0 96368-96371 0 0 0 0 0 0 96372-96417 0 96418-96421 0 0 0 0 0 0 96422-96501 0 96502-96506 0 0 0 0 0 96507-96546 0 96547-96551 0 0 0 0 0 96552-96555 0 96556-96559 33966 96560-96601 0 96602-96605 0 0 0 0 0 0 96606-96644 33681 33681 96645-96654 0 96655-96659 0 0 0 0 0 96660-96666 0 96667-96676 95605 96677-96695 33681 33681 96696-96699 34764-34766 96700-96773 0 96774-96777 0 0 0 0 0 0 96778-96808 80275 96809-96815 0 96816-96819 0 0 0 0 0 0 96820-96859 0 0 96860-96863 0 0 0 0 0 0 96864-96903 0 96904-96907 0 0 0 0 0 0 96908-96948 0 96949-96952 0 0 0 0 0 0 96953-96992 0 0 96993-96996 0 0 0 0 0 0 96997-97039 0 97040-97043 0 0 0 0 0 0 97044-97117 0 0 0 0 0 97118-97119 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 97120-97337 0 97338-97385
+/vendor/lib64/lbs_hidl_service-impl.so 97386-97407
+/vendor/lib64/lib3a.ae.core.so 97408-97530
+/vendor/lib64/lib3a.ae.so 97531-97745 0 97746-97750 0 0 0 0 0 97751-97758 0 97759-97763 0 0 0 0 0 97764 97766-97772 0 97773-97776 0 0 0 0 0 0 97777-97784 0 97785-97788 0 0 0 0 0 0 97789-97795
+/vendor/lib64/lib3a.ae.stat.so 97796-97809
+/vendor/lib64/lib3a.af.assist.models.so 97810-98303 98338-103040 40220-40259 103041-107723
+/vendor/lib64/lib3a.af.assist.so 107724-107891
+/vendor/lib64/lib3a.af.core.so 107892-108033
+/vendor/lib64/lib3a.af.so 108034-108035
+/vendor/lib64/lib3a.aishutter.models.so 108036-108038
+/vendor/lib64/lib3a.alsflicker.so 108039-108095
+/vendor/lib64/lib3a.awb.core.so 108096-108195
+/vendor/lib64/lib3a.ccudrv.so 108196-108212
+/vendor/lib64/lib3a.ccuif.so 108213-108232
+/vendor/lib64/lib3a.custom.ae.so 108233-108236
+/vendor/lib64/lib3a.dce.so 108237-108247
+/vendor/lib64/lib3a.flash.so 108248-108282
+/vendor/lib64/lib3a.flicker.so 108283-108309
+/vendor/lib64/lib3a.gma.so 108310-108320
+/vendor/lib64/lib3a.lce.so 108321-108359
+/vendor/lib64/lib3a.log.so 108360-108362
+/vendor/lib64/lib3a.n3d3a.so 108363-108390
+/vendor/lib64/lib3a.sensors.color.so 108391-108392
+/vendor/lib64/lib3a.sensors.flicker.so 108393-108396
+/vendor/lib64/libCamera_imx355mipiraw_3rd_Capture_720P.so 108397-108399
+/vendor/lib64/libCamera_imx355mipiraw_3rd_Preview_1080P.so 108400 108398 108401
+/vendor/lib64/libCamera_imx355mipiraw_3rd_Preview_480P.so 108402 108398 108403
+/vendor/lib64/libCamera_imx355mipiraw_3rd_Preview_720P.so 108404 108398 108405
+/vendor/lib64/libCamera_imx355mipiraw_Capture_Preview.so 108406 108398 108407
+/vendor/lib64/libCamera_imx355mipiraw_Capture_Preview_Zoom_2x.so 108408 108398 108409
+/vendor/lib64/libCamera_imx355mipiraw_FaceBeauty_Capture.so 108410 108398 108411
+/vendor/lib64/libCamera_imx355mipiraw_FaceBeauty_Capture_Scene.so 108412 108398 108413
+/vendor/lib64/libCamera_imx355mipiraw_Face_Capture.so 108414 108398 108415
+/vendor/lib64/libCamera_imx355mipiraw_Face_SuperNight_Hand_Capture.so 108416 108398 108417
+/vendor/lib64/libCamera_imx355mipiraw_Face_SuperNight_Hand_Capture_Zoom.so 108418 108398 108419
+/vendor/lib64/libCamera_imx355mipiraw_Face_Zoom_Capture.so 108420 108398 108421
+/vendor/lib64/libCamera_imx355mipiraw_LHDR_Face_Capture.so 108422 108398 108423
+/vendor/lib64/libCamera_imx355mipiraw_LHDR_Scene_Capture.so 108424 108398 108425
+/vendor/lib64/libCamera_imx355mipiraw_P1_YUV.so 108426 108398 108427
+/vendor/lib64/libCamera_imx355mipiraw_Production_Capture.so 108428 108398 108429
+/vendor/lib64/libCamera_imx355mipiraw_RHDR_Face_Capture.so 108430 108398 108431
+/vendor/lib64/libCamera_imx355mipiraw_RHDR_Scene_Capture.so 108432 108398 108433
+/vendor/lib64/libCamera_imx355mipiraw_Scene_Capture.so 108434 108398 108435
+/vendor/lib64/libCamera_imx355mipiraw_SuperNight_Hand_Capture.so 108436 108398 108437
+/vendor/lib64/libCamera_imx355mipiraw_SuperNight_Hand_Capture_Zoom.so 108438 108398 108439
+/vendor/lib64/libCamera_imx355mipiraw_SuperNight_Hand_Preview.so 108440 108398 108441
+/vendor/lib64/libCamera_imx355mipiraw_SuperNight_Tripod_Capture.so 108442 108398 108443
+/vendor/lib64/libCamera_imx355mipiraw_SuperNight_Tripod_Capture_Zoom.so 108444 108398 108445
+/vendor/lib64/libCamera_imx355mipiraw_Video_1080p_30fps.so 108446 108398 108447
+/vendor/lib64/libCamera_imx355mipiraw_Video_1080p_30fps_zoom_2x.so 108448 108398 108449
+/vendor/lib64/libCamera_imx355mipiraw_Video_1080p_60fps.so 108450 108398 108451
+/vendor/lib64/libCamera_imx355mipiraw_Video_720p_30fps.so 108452 108398 108453
+/vendor/lib64/libCamera_imx355mipiraw_Video_720p_30fps_zoom_2x.so 108454 108398 108455
+/vendor/lib64/libCamera_imx355mipiraw_Video_Capture.so 108456 108398 108457
+/vendor/lib64/libCamera_imx355mipiraw_Video_movie.so 108458 108398 108459
+/vendor/lib64/libCamera_imx355mipiraw_Zoom_Capture.so 108460 108398 108461
+/vendor/lib64/libCamera_imx355mipiraw_portrait_capture_full.so 108462 108398 108463
+/vendor/lib64/libCamera_imx355mipiraw_portrait_capture_hdr.so 108464 108398 108465
+/vendor/lib64/libCamera_imx355mipiraw_portrait_preview_full.so 108466 108398 108467
+/vendor/lib64/libCamera_imx355mipiraw_zHDR_Face_Capture.so 108468 108398 108469
+/vendor/lib64/libCamera_imx355mipiraw_zHDR_Scene_Capture.so 108470 108398 108471
+/vendor/lib64/libCamera_imx615mipiraw_3HDR_Preivew.so 108472 108398 108473
+/vendor/lib64/libCamera_imx615mipiraw_3rd_Capture_1080P.so 108474 108398 108475
+/vendor/lib64/libCamera_imx615mipiraw_3rd_Capture_480P.so 108476 108398 108477
+/vendor/lib64/libCamera_imx615mipiraw_3rd_Capture_720P.so 108478 108398 108479
+/vendor/lib64/libCamera_imx615mipiraw_3rd_Preview_1080P.so 108480 108398 108481
+/vendor/lib64/libCamera_imx615mipiraw_3rd_Preview_480P.so 108482 108398 108483
+/vendor/lib64/libCamera_imx615mipiraw_3rd_Preview_720P.so 108484 108398 108485
+/vendor/lib64/libCamera_imx615mipiraw_3rd_Preview_Other.so 108486 108398 108487
+/vendor/lib64/libCamera_imx615mipiraw_AIShutter.so 108488 108398 108489
+/vendor/lib64/libCamera_imx615mipiraw_AI_Video_Enhance_1080P.so 108490 108398 108491
+/vendor/lib64/libCamera_imx615mipiraw_AI_Video_Enhance_1080P_reconfig.so 108492 108398 108493
+/vendor/lib64/libCamera_imx615mipiraw_Default_Capture.so 108494 108398 108495
+/vendor/lib64/libCamera_imx615mipiraw_FaceBeauty_Capture.so 108496 108398 108497
+/vendor/lib64/libCamera_imx615mipiraw_FaceBeauty_Capture_Bining.so 108498 108398 108499
+/vendor/lib64/libCamera_imx615mipiraw_FaceBeauty_Capture_NoFace.so 108500 108398 108501
+/vendor/lib64/libCamera_imx615mipiraw_FaceBeauty_Scene_Preview.so 108502 108398 108503
+/vendor/lib64/libCamera_imx615mipiraw_FaceUnlock.so 108504 108398 108505
+/vendor/lib64/libCamera_imx615mipiraw_Face_Capture.so 108506 108398 108507
+/vendor/lib64/libCamera_imx615mipiraw_Face_Capture_Binning.so 108508 108398 108509
+/vendor/lib64/libCamera_imx615mipiraw_Flash_Capture.so 108510 108398 108511
+/vendor/lib64/libCamera_imx615mipiraw_ITS.so 108512 108398 108513
+/vendor/lib64/libCamera_imx615mipiraw_Panorama.so 108514 108398 108515
+/vendor/lib64/libCamera_imx615mipiraw_Production_Capture.so 108516 108398 108517
+/vendor/lib64/libCamera_imx615mipiraw_Scene_Capture.so 108518 108398 108519
+/vendor/lib64/libCamera_imx615mipiraw_Scene_Capture_Bining.so 108520 108398 108521
+/vendor/lib64/libCamera_imx615mipiraw_Scene_Preview.so 108522 108398 108523
+/vendor/lib64/libCamera_imx615mipiraw_SlowMotion_1080P.so 108524 108398 108525
+/vendor/lib64/libCamera_imx615mipiraw_SlowMotion_720P.so 108526 108398 108527
+/vendor/lib64/libCamera_imx615mipiraw_SuperEis_1080P.so 108528 108398 108529
+/vendor/lib64/libCamera_imx615mipiraw_SuperEis_720P.so 108530 108398 108531
+/vendor/lib64/libCamera_imx615mipiraw_SuperNight_Hand_Capture.so 108532 108398 108533
+/vendor/lib64/libCamera_imx615mipiraw_SuperNight_Hand_Capture_Flash.so 108534 108398 108535
+/vendor/lib64/libCamera_imx615mipiraw_Video_Enhance_1080P.so 108536 108398 108537
+/vendor/lib64/libCamera_imx615mipiraw_Video_Enhance_1080P_reconfig.so 108538 108398 108539
+/vendor/lib64/libCamera_imx615mipiraw_Video_Enhance_720P.so 108540 108398 108541
+/vendor/lib64/libCamera_imx615mipiraw_Video_Enhance_720P_reconfig.so 108542 108398 108543
+/vendor/lib64/libCamera_imx615mipiraw_Video_Recording_1080P.so 108544 108398 108545
+/vendor/lib64/libCamera_imx615mipiraw_Video_Recording_720P.so 108546 108398 108547
+/vendor/lib64/libCamera_imx615mipiraw_WeChatQQ_Capture_1080P.so 108548 108398 108549
+/vendor/lib64/libCamera_imx615mipiraw_WeChatQQ_Capture_480P.so 108550 108398 108551
+/vendor/lib64/libCamera_imx615mipiraw_WeChatQQ_Capture_720P.so 108552 108398 108553
+/vendor/lib64/libCamera_imx615mipiraw_WeChatQQ_Preview_1080P.so 108554 108398 108555
+/vendor/lib64/libCamera_imx615mipiraw_WeChatQQ_Preview_480P.so 108556 108398 108557
+/vendor/lib64/libCamera_imx615mipiraw_WeChatQQ_Preview_720P.so 108558 108398 108559
+/vendor/lib64/libCamera_imx615mipiraw_YUVHDR_Capture_Binning.so 108560 108398 108561
+/vendor/lib64/libCamera_imx615mipiraw_YUVHDR_FaceBeauty_Capture_Binning_NoFace.so 108562 108398 108563
+/vendor/lib64/libCamera_imx615mipiraw_zHDR_Capture_Binning.so 108564 108398 108565
+/vendor/lib64/libCamera_ov02b10mipiraw_E2EHDR_Preview.so 108566 108398 108567
+/vendor/lib64/libCamera_ov02b10mipiraw_E2EHDR_Video.so 108568 108398 108569
+/vendor/lib64/libCamera_ov02b10mipiraw_Face_Capture.so 108570 108398 108571
+/vendor/lib64/libCamera_ov02b10mipiraw_Flash_Capture.so 108572 108398 108573
+/vendor/lib64/libCamera_ov02b10mipiraw_HDR_Capture.so 108574 108398 108575
+/vendor/lib64/libCamera_ov02b10mipiraw_HDR_Preview.so 108576 108398 108577
+/vendor/lib64/libCamera_ov02b10mipiraw_HDR_Video.so 108578 108398 108579
+/vendor/lib64/libCamera_ov02b10mipiraw_N3D_Capture.so 108580 108398 108581
+/vendor/lib64/libCamera_ov02b10mipiraw_N3D_Preview.so 108582 108398 108583
+/vendor/lib64/libCamera_ov02b10mipiraw_N3D_Video.so 108584 108398 108585
+/vendor/lib64/libCamera_ov02b10mipiraw_P1_YUV.so 108586 108398 108587
+/vendor/lib64/libCamera_ov02b10mipiraw_Scene_Capture.so 108588 108398 108589
+/vendor/lib64/libCamera_ov02b10mipiraw_Scene_Capture_4cell.so 108590 108398 108591
+/vendor/lib64/libCamera_ov02b10mipiraw_Scene_Preview.so 108592 108398 108593
+/vendor/lib64/libCamera_ov02b10mipiraw_Scene_Preview_4k.so 108594 108398 108595
+/vendor/lib64/libCamera_ov02b10mipiraw_Scene_Preview_ZSD_Flash.so 108596 108398 108597
+/vendor/lib64/libCamera_ov02b10mipiraw_Video_1080.so 108598 108398 108599
+/vendor/lib64/libCamera_ov02b10mipiraw_Video_4k.so 108600 108398 108601
+/vendor/lib64/libCamera_ov64bmipiraw_3rd_Capture_1080P.so 108602 108398 108603
+/vendor/lib64/libCamera_ov64bmipiraw_3rd_Capture_480P.so 108604 108398 108605
+/vendor/lib64/libCamera_ov64bmipiraw_3rd_Capture_720P.so 108606 108398 108607
+/vendor/lib64/libCamera_ov64bmipiraw_3rd_Preview_1080P.so 108608 108398 108609
+/vendor/lib64/libCamera_ov64bmipiraw_3rd_Preview_480P.so 108610 108398 108611
+/vendor/lib64/libCamera_ov64bmipiraw_3rd_Preview_720P.so 108612 108398 108613
+/vendor/lib64/libCamera_ov64bmipiraw_3rd_Video_1080P.so 108614 108398 108615
+/vendor/lib64/libCamera_ov64bmipiraw_AIHDR.so 108616 108398 108617
+/vendor/lib64/libCamera_ov64bmipiraw_AIHDR_Face.so 108618 108398 108619
+/vendor/lib64/libCamera_ov64bmipiraw_AIHDR_Face_Zoom.so 108620 108398 108621
+/vendor/lib64/libCamera_ov64bmipiraw_AIHDR_Zoom.so 108622 108398 108623
+/vendor/lib64/libCamera_ov64bmipiraw_AINR_Main_LLS.so 108624 108398 108625
+/vendor/lib64/libCamera_ov64bmipiraw_AINR_Main_LLS_Face.so 108626 108398 108627
+/vendor/lib64/libCamera_ov64bmipiraw_AIShutter.so 108628 108398 108629
+/vendor/lib64/libCamera_ov64bmipiraw_AIShutter_Face.so 108630 108398 108631
+/vendor/lib64/libCamera_ov64bmipiraw_Capture_Preview.so 108632 108398 108633
+/vendor/lib64/libCamera_ov64bmipiraw_Capture_Preview_64M.so 108634 108398 108635
+/vendor/lib64/libCamera_ov64bmipiraw_Capture_Preview_64M_2x.so 108636 108398 108637
+/vendor/lib64/libCamera_ov64bmipiraw_Capture_Preview_64M_4x.so 108638 108398 108639
+/vendor/lib64/libCamera_ov64bmipiraw_Capture_Preview_MF.so 108640 108398 108641
+/vendor/lib64/libCamera_ov64bmipiraw_Capture_Preview_PF.so 108642 108398 108643
+/vendor/lib64/libCamera_ov64bmipiraw_Capture_Preview_Zoom_2x.so 108644 108398 108645
+/vendor/lib64/libCamera_ov64bmipiraw_Capture_Preview_Zoom_4x.so 108646 108398 108647
+/vendor/lib64/libCamera_ov64bmipiraw_FaceBeauty_Capture.so 108648 108398 108649
+/vendor/lib64/libCamera_ov64bmipiraw_Face_Capture.so 108650 108398 108651
+/vendor/lib64/libCamera_ov64bmipiraw_Face_Capture_64M_MFNR.so 108652 108398 108653
+/vendor/lib64/libJpgEncPipe.so 108782-108792
+/vendor/lib64/libCamera_ov64bmipiraw_Face_Capture_64M_Single.so 108654 108398 108655
+/vendor/lib64/libCamera_ov64bmipiraw_Face_SuperNight_Hand_Capture.so 108656 108398 108657
+/vendor/lib64/libCamera_ov64bmipiraw_Face_SuperNight_Hand_Capture_Zoom.so 108658 108398 108659
+/vendor/lib64/libCamera_ov64bmipiraw_Flash_Capture.so 108660 108398 108661
+/vendor/lib64/libCamera_ov64bmipiraw_HDR_Capture.so 108662 108398 108663
+/vendor/lib64/libCamera_ov64bmipiraw_ITS.so 108664 108398 108665
+/vendor/lib64/libCamera_ov64bmipiraw_LHDR_Face_Capture.so 108666 108398 108667
+/vendor/lib64/libCamera_ov64bmipiraw_LHDR_Scene_Capture.so 108668 108398 108669
+/vendor/lib64/libCamera_ov64bmipiraw_P1_YUV.so 108670 108398 108671
+/vendor/lib64/libCamera_ov64bmipiraw_Panorama_Capture.so 108672 108398 108673
+/vendor/lib64/libCamera_ov64bmipiraw_Production_Capture.so 108674 108398 108675
+/vendor/lib64/libCamera_ov64bmipiraw_Professional_Capture.so 108676 108398 108677
+/vendor/lib64/libCamera_ov64bmipiraw_Professional_Preview.so 108678 108398 108679
+/vendor/lib64/libCamera_ov64bmipiraw_RHDR_Face_Capture.so 108680 108398 108681
+/vendor/lib64/libCamera_ov64bmipiraw_RHDR_Scene_Capture.so 108682 108398 108683
+/vendor/lib64/libCamera_ov64bmipiraw_Scene_Capture.so 108684 108398 108685
+/vendor/lib64/libCamera_ov64bmipiraw_Scene_Capture_64M_MFNR.so 108686 108398 108687
+/vendor/lib64/libCamera_ov64bmipiraw_Scene_Capture_64M_Single.so 108688 108398 108689
+/vendor/lib64/libCamera_ov64bmipiraw_SuperNight_Hand_Capture.so 108690 108398 108691
+/vendor/lib64/libCamera_ov64bmipiraw_SuperNight_Hand_Capture_Zoom.so 108692 108398 108693
+/vendor/lib64/libCamera_ov64bmipiraw_SuperNight_Hand_Preview.so 108694 108398 108695
+/vendor/lib64/libCamera_ov64bmipiraw_SuperNight_Tripod_Capture.so 108696 108398 108697
+/vendor/lib64/libCamera_ov64bmipiraw_SuperNight_Tripod_Capture_Zoom.so 108698 108398 108699
+/vendor/lib64/libCamera_ov64bmipiraw_Ultra_High_Resolution_Capture.so 108700 108398 108701
+/vendor/lib64/libCamera_ov64bmipiraw_Ultra_High_Resolution_Face_Capture.so 108702 108398 108703
+/vendor/lib64/libCamera_ov64bmipiraw_Video_1080p_120fps.so 108704 108398 108705
+/vendor/lib64/libCamera_ov64bmipiraw_Video_1080p_30fps.so 108706 108398 108707
+/vendor/lib64/libCamera_ov64bmipiraw_Video_1080p_30fps_zoom_2x.so 108708 108398 108709
+/vendor/lib64/libCamera_ov64bmipiraw_Video_1080p_30fps_zoom_4x.so 108710 108398 108711
+/vendor/lib64/libCamera_ov64bmipiraw_Video_1080p_60fps.so 108712 108398 108713
+/vendor/lib64/libCamera_ov64bmipiraw_Video_1080p_60fps_pro.so 108714 108398 108715
+/vendor/lib64/libCamera_ov64bmipiraw_Video_1080p_60fps_zoom_2x.so 108716 108398 108717
+/vendor/lib64/libCamera_ov64bmipiraw_Video_1080p_60fps_zoom_4x.so 108718 108398 108719
+/vendor/lib64/libCamera_ov64bmipiraw_Video_480p.so 108720 108398 108721
+/vendor/lib64/libCamera_ov64bmipiraw_Video_4k_30fps.so 108722 108398 108723
+/vendor/lib64/libCamera_ov64bmipiraw_Video_4k_30fps_zoom_2x.so 108724 108398 108725
+/vendor/lib64/libCamera_ov64bmipiraw_Video_4k_30fps_zoom_4x.so 108726 108398 108727
+/vendor/lib64/libCamera_ov64bmipiraw_Video_720p_240fps.so 108728 108398 108729
+/vendor/lib64/libCamera_ov64bmipiraw_Video_720p_30fps.so 108730 108398 108731
+/vendor/lib64/libCamera_ov64bmipiraw_Video_720p_30fps_zoom_2x.so 108732 108398 108733
+/vendor/lib64/libCamera_ov64bmipiraw_Video_720p_30fps_zoom_4x.so 108734 108398 108735
+/vendor/lib64/libCamera_ov64bmipiraw_Video_720p_60fps.so 108736 108398 108737
+/vendor/lib64/libCamera_ov64bmipiraw_Video_720p_60fps_zoom_2x.so 108738 108398 108739
+/vendor/lib64/libCamera_ov64bmipiraw_Video_720p_60fps_zoom_4x.so 108740 108398 108741
+/vendor/lib64/libCamera_ov64bmipiraw_Video_Capture.so 108742 108398 108743
+/vendor/lib64/libCamera_ov64bmipiraw_Video_Enhance_1080P.so 108744 108398 108745
+/vendor/lib64/libCamera_ov64bmipiraw_Video_Enhance_1080P_Face.so 108746 108398 108747
+/vendor/lib64/libCamera_ov64bmipiraw_Video_Enhance_1080P_Face_Reconfig.so 108748 108398 108749
+/vendor/lib64/libCamera_ov64bmipiraw_Video_Enhance_1080P_Reconfig.so 108750 108398 108751
+/vendor/lib64/libCamera_ov64bmipiraw_Video_Movie.so 108752 108398 108753
+/vendor/lib64/libCamera_ov64bmipiraw_WeChatQQ_Capture.so 108754 108398 108755
+/vendor/lib64/libCamera_ov64bmipiraw_WeChatQQ_Preview.so 108756 108398 108757
+/vendor/lib64/libCamera_ov64bmipiraw_WeChatQQ_Preview_zoom.so 108758 108398 108759
+/vendor/lib64/libCamera_ov64bmipiraw_WeChatQQ_Video.so 108760 108398 108761
+/vendor/lib64/libCamera_ov64bmipiraw_WeChatQQ_VideoCall.so 108762 108398 108763
+/vendor/lib64/libCamera_ov64bmipiraw_Zoom_Capture.so 108764 108398 108765
+/vendor/lib64/libCamera_ov64bmipiraw_Zoom_Capture_4x.so 108766 108398 108767
+/vendor/lib64/libCamera_ov64bmipiraw_portrait_capture_Blurless.so 108768 108398 108769
+/vendor/lib64/libCamera_ov64bmipiraw_portrait_capture_Blurless_After.so 108770 108398 108771
+/vendor/lib64/libCamera_ov64bmipiraw_portrait_capture_full.so 108772 108398 108773
+/vendor/lib64/libCamera_ov64bmipiraw_portrait_capture_hdr.so 108774 108398 108775
+/vendor/lib64/libCamera_ov64bmipiraw_portrait_preview_full.so 108776 108398 108777
+/vendor/lib64/libCamera_ov64bmipiraw_zHDR_Face_Capture.so 108778 108398 108779
+/vendor/lib64/libCamera_ov64bmipiraw_zHDR_Scene_Capture.so 108780 108398 108781
+/vendor/lib64/libMcClient.so 108793-108807
+/vendor/lib64/libMcTeeSoter.so 108808-108825
+/vendor/lib64/libMtkOmxCore.so 108826-108830
+/vendor/lib64/libMtkSpeechEnh.so 108831-109035
+/vendor/lib64/libOpenCL.so 109036-109054
+/vendor/lib64/libSensorSave.so 109055-109065
+/vendor/lib64/libSonyIMX230PdafLibrary.so 109066-109068
+/vendor/lib64/libSonyIMX230PdafLibraryWrapper.so 109069-109076
+/vendor/lib64/libSonyIMX338PdafLibrary.so 109077 109067 109078
+/vendor/lib64/libSonyIMX338PdafLibraryWrapper.so 109079-109086
+/vendor/lib64/libSonyIMX386PdafLibrary.so 109087-109089
+/vendor/lib64/libSonyIMX386PdafLibraryWrapper.so 109090-109097
+/vendor/lib64/libSonyIMX519PdafLibrary.so 109098 109067 109099
+/vendor/lib64/libSonyIMX519PdafLibraryWrapper.so 109100-109108
+/vendor/lib64/libSoterProvision.so 109109 108809 109110-109122 108823 109123 109125
+/vendor/lib64/libTEECommon.so 109126 108794-108805 109127-109128
+/vendor/lib64/lib_bsscore.so 109134-109210
+/vendor/lib64/lib_aurisys_lvimfs.so 109129-109133
+/vendor/lib64/lib_eara_io_scndet.so 109211-109215
+/vendor/lib64/lib_eara_io_service.so 109216-109221
+/vendor/lib64/lib_eara_io_systracer.so 109222-109227
+/vendor/lib64/lib_eara_io_timer.so 109228-109232
+/vendor/lib64/lib_eara_io_util.so 109233-109236
+/vendor/lib64/lib_iir.so 109237-109248
+/vendor/lib64/lib_speech_enh.so 109249-109257
+/vendor/lib64/libaaa_ltm.so 109258-109348 0 0 0 109349
+/vendor/lib64/libaaa_ltmx.so 109350-109353
+/vendor/lib64/libaal_cust.so 109354-109356
+/vendor/lib64/libaal_key.so 109357 0 0 0 0 0 0 0 0 0 0 0 0 0 0 109358-109359
+/vendor/lib64/libaal_mtk.so 109360-109425
+/vendor/lib64/libaalservice.so 109426-109446
+/vendor/lib64/libacdk.so 109447-109494
+/vendor/lib64/libaedv.so 109495-109518
+/vendor/lib64/libaiawb_moon.so 109519-109526
+/vendor/lib64/libaiawb_moon_model.so 109527-110555
+/vendor/lib64/libaiawb_p1ggm.so 110556-110559
+/vendor/lib64/libaiawb_sun.so 110560-110569
+/vendor/lib64/libaiawb_sun_model.so 110570-112959
+/vendor/lib64/libaibc_tuning.so 112960-114782 114451-114454 114783-118338
+/vendor/lib64/libaibc_tuning_p2.so 118339-120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120071 120073-120074
+/vendor/lib64/libaibc_tuning_p3.so 120075-120076 0 120077-123239
+/vendor/lib64/libainrcore.so 123240-123321
+/vendor/lib64/libalsautils.so 123322-123326
+/vendor/lib64/libapusys.so 123327-123346
+/vendor/lib64/libapusys_edma.so 123347-123358
+/vendor/lib64/libapuwareutils.mtk.so 123359-123361
+/vendor/lib64/libarmnn.so 123362-123410 32464 32464 32464 123411 123413-123796 52808-52812 123797-123848 53264-53268 123849-124312 124266-124270 124313-124330 53263-53268 124331-124365 124105-124109 124366-124447 52158-52162 124448-124471 53670-53675 124472-124612 53353-53358 124613-124750 52604-52608 124751-124873 123649-123653 124874-124906 53542-53546 124907-125149 124909-124913 125150-125281 125143-125147 125282-126358 0 0 126359-126360 126360 126360 126360-126378
+/vendor/lib64/libarmnn_ndk.mtk.so 126379-126668 32464 32464 32464 32464 126670-127804 127683-127687 127805-127850 124729-124733 127851-128195 123752-123756 128196-128492 52323-52327 128493-128651 127926-127930 128652-128724 53247-53251 128725-128756 53437-53441 128757-128949 125007-125011 128950 53652-53656 128951-128969 125077-125081 128970-129344 124614-124617 129345-129592 0 0 0 0 0 0 0 0 0 0 129593-129599 0 0 129600-129604 0 129605-129607 129607 129607 129607 129607-129608 0 0 129609
+/vendor/lib64/libaudio_engineer_test.so 129610-129620
+/vendor/lib64/libaudio_param_parser-vnd.so 129621-129678
+/vendor/lib64/libaudiocompensationfilter_vendor.so 129679-129682
+/vendor/lib64/libaudiocompensationfilterc.so 129683-129687
+/vendor/lib64/libaudiocomponentengine_vendor.so 129688-129693
+/vendor/lib64/libaudiocomponentenginec.so 129694-129696
+/vendor/lib64/libaudiocustparam_vendor.so 129697-129703
+/vendor/lib64/libaudiodcrflt_vendor.so 129704-129709
+/vendor/lib64/libaudiofmtconv.so 129710-129712
+/vendor/lib64/libaudiofoundation.so 129713-129735
+/vendor/lib64/libaudioloudc.so 129736-129742
+/vendor/lib64/libaudioprimarydevicehalifclient.so 129743-129752
+/vendor/lib64/libaudiotoolkit_vendor.so 129753-129756
+/vendor/lib64/libaurisysdemo.so 129757-129761
+/vendor/lib64/libbessound_hd_mtk_vendor.so 129762-129780
+/vendor/lib64/libblisrc32_vendor.so 129781-129803
+/vendor/lib64/libbluetooth_audio_session.so 129804-129823
+/vendor/lib64/libbluetooth_audio_session_mediatek.so 129824-129845
+/vendor/lib64/libbluetooth_hw_test.so 129846-129853
+/vendor/lib64/libbluetooth_mtk.so 129854-129865
+/vendor/lib64/libbluetooth_mtk_pure.so 129866-129875
+/vendor/lib64/libbluetooth_relayer.so 129876-129879
+/vendor/lib64/libbluetoothem_mtk.so 129880-129884
+/vendor/lib64/libbt-vendor.so 129885-129887
+/vendor/lib64/libbwc.so 129888-129895
+/vendor/lib64/libcam.afhal.so 129896-129970
+/vendor/lib64/libcam.chdr.so 129971-129975
+/vendor/lib64/libcam.feature_utils.so 129976-130058
+/vendor/lib64/libcam.hal3a.cctsvr.so 130059-130093
+/vendor/lib64/libcam.hal3a.log.so 130094-130096
+/vendor/lib64/libcam.hal3a.v3.ae.so 130097-130228
+/vendor/lib64/libcam.hal3a.v3.ai3a.so 130229-130244
+/vendor/lib64/libcam.hal3a.v3.awb.so 130245-130303
+/vendor/lib64/libcam.hal3a.v3.dng.so 130304-130312
+/vendor/lib64/libcam.hal3a.v3.fsmgr.so 130313-130315
+/vendor/lib64/libcam.hal3a.v3.lscMgr.so 130316-130376
+/vendor/lib64/libcam.hal3a.v3.lsctbl.50.so 130377-130391
+/vendor/lib64/libcam.hal3a.v3.nvram.50.so 130392-130408
+/vendor/lib64/libcam.hal3a.v3.platform.so 130409-130637
+/vendor/lib64/libcam.hal3a.v3.resultpool.so 130638-130662
+/vendor/lib64/libcam.hal3a.v3.so 130663-130726
+/vendor/lib64/libcam.halisp.buf.so 130727-130731
+/vendor/lib64/libcam.halisp.common.so 130732-130765
+/vendor/lib64/libcam.halisp.so 130766-130804
+/vendor/lib64/libcam.halsensor.hwintegration.so 130805-130807
+/vendor/lib64/libcam.halsensor.so 130808-131049
+/vendor/lib64/libcam.iopipe.so 131050-131071 131115-131306
+/vendor/lib64/libcam.isptuning.so 131307-131631
+/vendor/lib64/libcam.p1mt6853.inc_headers.so 131632 108398 131633
+/vendor/lib64/libcam.pdtblgen.so 131634-131642
+/vendor/lib64/libcam.tuning.cache.so 131643-131647
+/vendor/lib64/libcam.utils.sensorprovider.so 131648-131672
+/vendor/lib64/libcam.vhdr.so 131673-131685
+/vendor/lib64/libcam3a_imem.so 131686-131690
+/vendor/lib64/libcamalgo.3dnr.so 131691-131706
+/vendor/lib64/libcamalgo.aibc.so 131707-131771
+/vendor/lib64/libcamalgo.aihdr.so 131772-131957
+/vendor/lib64/libcamalgo.ainr.so 131958-132011
+/vendor/lib64/libcamalgo.asd.so 132012-132085
+/vendor/lib64/libcamalgo.dngop.so 132086-132094
+/vendor/lib64/libcamalgo.eis.so 132095-132173
+/vendor/lib64/libcamalgo.fdft.so 132174-134384 0 0 0 134385-134386 0 134387-134406 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 134407-134466 0 0 0 134467 134469 0 134470-134492 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 134493-134610
+/vendor/lib64/libcamalgo.fsc.so 134611-134617
+/vendor/lib64/libcamalgo.gyro.so 134618-134639
+/vendor/lib64/libcamalgo.ispfeature.so 134640-134645
+/vendor/lib64/libcamalgo.lmv.so 134646-134657
+/vendor/lib64/libcamalgo.lsc.so 134658-134720
+/vendor/lib64/libcamalgo.mfnr.so 134721-134759
+/vendor/lib64/libcamalgo.n3d.so 134760-134848
+/vendor/lib64/libcamalgo.nr.so 134849-134925
+/vendor/lib64/libcamalgo.utility.so 134926-134947
+/vendor/lib64/libcamalgo.vsf.so 134948-135045
+/vendor/lib64/libcamalgo.warp.so 135046-135050 0 135051-135058
+/vendor/lib64/libcamdrv_imem.so 135059-135071
+/vendor/lib64/libcamdrv_isp.so 135072-135119
+/vendor/lib64/libcamdrv_tuning_mgr.so 135120-135132
+/vendor/lib64/libcamdrv_twin.so 135133-135313
+/vendor/lib64/libcamera.custom.pd_buf_mgr.so 135314-135343
+/vendor/lib64/libcamera.customae.so 135344-135349
+/vendor/lib64/libcamera.customaf.so 135350-135352
+/vendor/lib64/libcamera.customawb.so 135353-135359 0 135360-135369 0 135370-135371
+/vendor/lib64/libcamera.customflk.so 135372-135374
+/vendor/lib64/libcameracustom.camera.3a.so 135375-135380
+/vendor/lib64/libcameracustom.camera.isp.so 135381-135401
+/vendor/lib64/libcameracustom.camera.sensors.so 135402-135404
+/vendor/lib64/libcameracustom.camera_exif.so 135405-135407
+/vendor/lib64/libcameracustom.eis.so 135408-135411
+/vendor/lib64/libcameracustom.flashlight.so 135412-135417
+/vendor/lib64/libcameracustom.lens.so 135418-135421
+/vendor/lib64/libcameracustom.so 135422-135470
+/vendor/lib64/libcapctrl.so 135471-135477
+/vendor/lib64/libcares_naptr.so 135478-135494
+/vendor/lib64/libcarrierconfig.so 135495-135511
+/vendor/lib64/libccci_util.so 135512-135523
+/vendor/lib64/libcmdl.so 135524-135611 0 135612-135714
+/vendor/lib64/libcmdl_ndk.mtk.so 135715-135835 32464 32464 135836-136162 0 136163
+/vendor/lib64/libcustom_nvram.so 136165-136188
+/vendor/lib64/libcvsd_mtk.so 136189-136200
+/vendor/lib64/libdip_drv.so 136201-136222
+/vendor/lib64/libdip_imem.so 136223-136233
+/vendor/lib64/libdip_postproc.so 136234-136374
+/vendor/lib64/libdpframework.so 136375-136766
+/vendor/lib64/libdrm.so 136767-136787
+/vendor/lib64/libeffecthal.base.so 136788-136803
+/vendor/lib64/libeffects.so 136804-136812
+/vendor/lib64/libeffectsconfig.so 136813-136821
+/vendor/lib64/libfeature.face.so 136823-136841
+/vendor/lib64/libfeature.stereo.provider.so 136842-137070
+/vendor/lib64/libfeature.vsdof.hal.so 137071-137163
+/vendor/lib64/libfeature_3dnr.so 137164-137185
+/vendor/lib64/libfeature_eis.so 137186-137254
+/vendor/lib64/libfeature_fsc.so 137255-137264
+/vendor/lib64/libfeature_lmv.so 137265-137295
+/vendor/lib64/libfeature_rss.so 137296-137299
+/vendor/lib64/libfeatureiodrv_mem.so 137300-137306
+/vendor/lib64/libfft_vendor.so 137307-137313
+/vendor/lib64/libfile_op.so 137314-137336
+/vendor/lib64/libforkexecwrap.so 137337-137340
+/vendor/lib64/libged.so 137341-137355
+/vendor/lib64/libgpu_aux.so 137356-137382
+/vendor/lib64/libgpud.so 137383-137405
+/vendor/lib64/libgralloc_extra.so 137406-137412
+/vendor/lib64/libgralloc_metadata.so 137413-137415
+/vendor/lib64/libgralloctypes_mtk.so 137416-137420
+/vendor/lib64/libgwsdv2-ril.so 137421-137432
+/vendor/lib64/libgz_gp_client.so 137433-137435
+/vendor/lib64/libgz_uree.so 137436-137441
+/vendor/lib64/libhdrvideo.so 137442-137444
+/vendor/lib64/libhevce_sb.ca7.android.so 137445-137519
+/vendor/lib64/libhfmanager.so 137520-137526
+/vendor/lib64/libhfmanagerwrapper.so 137527-137530
+/vendor/lib64/libhidltransport.so 137531 108398 137532
+/vendor/lib64/libhwbinder.so 137533 108398 137534
+/vendor/lib64/libhwc2on1adapter.so 137535-137572
+/vendor/lib64/libhwc2onfbadapter.so 137573-137580
+/vendor/lib64/libhwm-oplus.so 137581-137600
+/vendor/lib64/libhwm.so 137601-137620
+/vendor/lib64/libifcutils_mtk.so 137621-137623
+/vendor/lib64/libimageio.so 137624-137626
+/vendor/lib64/libimageio_plat_drv.so 137627-138066
+/vendor/lib64/libimageio_plat_pipe.so 138067-138175
+/vendor/lib64/libimgsensorca.so 138176-138178
+/vendor/lib64/libion_mtk.so 138179-138182
+/vendor/lib64/libion_ulit.so 138183-138185
+/vendor/lib64/libipsec_ims_shr.so 138186-138193
+/vendor/lib64/libispcameraca.so 138194-138203
+/vendor/lib64/libjpeg-alpha-oal_vendor.so 138204-138210
+/vendor/lib64/libjpeg-alpha_vendor.so 138211-138304
+/vendor/lib64/libkeymaster4.so 138305-138326
+/vendor/lib64/libkeymaster4support.so 138327-138351
+/vendor/lib64/libkeymaster_messages.so 138352-138375
+/vendor/lib64/libkeymaster_portable.so 138376-138458
+/vendor/lib64/libkeystore-engine-wifi-hidl.so 138459-138464
+/vendor/lib64/libkeystore-wifi-hidl.so 138465-138468
+/vendor/lib64/libkmsetkey.so 138469-138471
+/vendor/lib64/libksensor.so 138472-138476
+/vendor/lib64/libktvdrc.so 138477-138479
+/vendor/lib64/libktveffect.so 138480-138482 61259-61275 138483-138484
+/vendor/lib64/libktveffect_rec.so 138485-138574
+/vendor/lib64/libktveq.so 138575-138578
+/vendor/lib64/libktvns.so 138579-138587
+/vendor/lib64/libktvreverb.so 138588-138591
+/vendor/lib64/libktvsoundtouch.so 138592-138650
+/vendor/lib64/libktvvolume.so 138651-138652
+/vendor/lib64/libladder.so 138653-138658
+/vendor/lib64/liblpcnr.so 138659-138661
+/vendor/lib64/liblvimfs.so 138662-138827
+/vendor/lib64/liblvimfs_wrapper.so 138828-138830 0 138831
+/vendor/lib64/libm4u.so 138832-138835
+/vendor/lib64/libmfllcore.so 138836-139007
+/vendor/lib64/libmidasserviceintf.so 139008-139013
+/vendor/lib64/libminiui.so 139014-139165
+/vendor/lib64/libmmprofile.so 139166-139168
+/vendor/lib64/libmnetlink_v104.so 139169-139174
+/vendor/lib64/libmsbc_mtk.so 139175-139181
+/vendor/lib64/libmsnr.so 139182-139232
+/vendor/lib64/libmtcloader.so 139233-139238
+/vendor/lib64/libmtk-ril.so 139239-139298 32464 32464 32464 32464 139300-140285 0 0 140286-140287 140287 140287 140287 140287 140287-140303
+/vendor/lib64/libmtk_drvb.so 140304-140308
+/vendor/lib64/libmtkares.so 140309-140311
+/vendor/lib64/libmtkcam.atmseventmgr.so 140312-140315
+/vendor/lib64/libmtkcam.eventcallback.so 140316-140319
+/vendor/lib64/libmtkcam.featurepipe.capture.so 140320-140697
+/vendor/lib64/libmtkcam.featurepipe.depthmap.so 140698-141026
+/vendor/lib64/libmtkcam.featurepipe.streaming.so 141027-141055 32464 141056-141597 141597 141597 141597 141599-141606
+/vendor/lib64/libmtkcam.featurepipe.vsdof_util.so 141607-141628
+/vendor/lib64/libmtkcam.logicalmodule.so 141629-141873
+/vendor/lib64/libmtkcam_3rdparty.core.so 141874-141971
+/vendor/lib64/libmtkcam_3rdparty.customer.so 141972-142122
+/vendor/lib64/libmtkcam_3rdparty.mtk.so 142123-142300
+/vendor/lib64/libmtkcam_3rdparty.so 142301-142304
+/vendor/lib64/libmtkcam_calibration_convertor.so 142305-142310
+/vendor/lib64/libmtkcam_calibration_provider.so 142311-142349
+/vendor/lib64/libmtkcam_debugutils.so 142350-142366
+/vendor/lib64/libmtkcam_device3_app.so 142367-142447
+/vendor/lib64/libmtkcam_device3_hal.so 142448-142511
+/vendor/lib64/libmtkcam_device3_hidl.so 142512-142556
+/vendor/lib64/libmtkcam_device3_hidlutils.so 142557-142570
+/vendor/lib64/libmtkcam_device3_utils.so 142571-142649
+/vendor/lib64/libmtkcam_devicesessionpolicy.so 142650-142659
+/vendor/lib64/libmtkcam_diputils.so 142660-142662
+/vendor/lib64/libmtkcam_exif.so 142663-142681
+/vendor/lib64/libmtkcam_fdvt.so 142682-142722 0 0 0 0 142723-142757 0 0 0 0 142758-142792 0 0 0 0 142793-142871
+/vendor/lib64/libmtkcam_featurepolicy.so 142872-142986
+/vendor/lib64/libmtkcam_featureutils.so 142987-142996
+/vendor/lib64/libmtkcam_fwkutils.so 142997-143017
+/vendor/lib64/libmtkcam_grallocutils.so 143018-143034
+/vendor/lib64/libmtkcam_hwnode.so 143035-143679 143679-143685
+/vendor/lib64/libmtkcam_hwutils.so 143686-143780
+/vendor/lib64/libmtkcam_imgbuf.so 143781-143857
+/vendor/lib64/libmtkcam_mapping_mgr.so 143858-143880
+/vendor/lib64/libmtkcam_metadata.so 143881-143934
+/vendor/lib64/libmtkcam_metastore.so 143935-143970 0 143971-144097
+/vendor/lib64/libmtkcam_mfb.so 144098-144129
+/vendor/lib64/libmtkcam_modulefactory_aaa.so 144130-144133
+/vendor/lib64/libmtkcam_modulefactory_custom.so 144134-144136
+/vendor/lib64/libmtkcam_modulefactory_drv.so 144137-144139
+/vendor/lib64/libmtkcam_modulefactory_utils.so 144140-144142
+/vendor/lib64/libmtkcam_modulehelper.so 144143-144147
+/vendor/lib64/libmtkcam_owe.so 144148-144160
+/vendor/lib64/libmtkcam_pipeline.so 144161-144299
+/vendor/lib64/libmtkcam_pipeline_fbm.so 144300-144339
+/vendor/lib64/libmtkcam_pipelinemodel.so 144340-144359
+/vendor/lib64/libmtkcam_pipelinemodel_adapter.so 144360-144370
+/vendor/lib64/libmtkcam_pipelinemodel_capture.so 144371-144387
+/vendor/lib64/libmtkcam_pipelinemodel_isp.so 144388-144471
+/vendor/lib64/libmtkcam_pipelinemodel_session.so 144472-144589
+/vendor/lib64/libmtkcam_pipelinemodel_utils.so 144590-144665
+/vendor/lib64/libmtkcam_pipelinemodel_zsl.so 144666-144710
+/vendor/lib64/libmtkcam_pipelinepolicy-security.so 144711-144716
+/vendor/lib64/libmtkcam_pipelinepolicy-smvr.so 144717-144739
+/vendor/lib64/libmtkcam_pipelinepolicy.so 144740-144925
+/vendor/lib64/libmtkcam_pipelinepolicy_factory.so 144926-144936
+/vendor/lib64/libmtkcam_prerelease.so 144937-144954
+/vendor/lib64/libmtkcam_rsc.so 144955-144968
+/vendor/lib64/libmtkcam_scenariorecorder.so 144969-144992
+/vendor/lib64/libmtkcam_stdutils.so 144993-145031
+/vendor/lib64/libmtkcam_streamutils.so 145032-145097
+/vendor/lib64/libmtkcam_ulog.so 145181-145241
+/vendor/lib64/libmtkcam_synchelper.so 145099-145128
+/vendor/lib64/libmtkcam_sysutils.so 145129-145151
+/vendor/lib64/libmtkcam_tuning_utils.so 145152-145180
+/vendor/lib64/libmtkconfig.so 145242-145244
+/vendor/lib64/libmtkconfigutils.so 145245 140310 145246
+/vendor/lib64/libmtkcutils.so 145247-145251
+/vendor/lib64/libmtkhardware_legacy.so 145252-145254
+/vendor/lib64/libmtkisp_metadata.so 145255-145257
+/vendor/lib64/libmtklimiter_vendor.so 145258-145264
+/vendor/lib64/libmtknetcap.so 145265-145267
+/vendor/lib64/libmtknetutils.so 145268-145272
+/vendor/lib64/libmtkperf_client_vendor.so 145273-145276
+/vendor/lib64/libmtkproperty.so 145277-145279
+/vendor/lib64/libmtkrillog.so 145280-145282
+/vendor/lib64/libmtkrilutils.so 145283-145299
+/vendor/lib64/libmtkshifter_vendor.so 145300-145303
+/vendor/lib64/libmtkspparser.so 145304-145308
+/vendor/lib64/libmtksysutils.so 145309-145320
+/vendor/lib64/libmtktinyxml.so 145321-145336
+/vendor/lib64/libmtkutils.so 145337-145382
+/vendor/lib64/libnbaio_mono.so 145383-145388
+/vendor/lib64/libneuroeara.so 145389-145402
+/vendor/lib64/libneuron_adapter.so 145403-146149
+/vendor/lib64/libneuron_platform.so 146150-146198
+/vendor/lib64/libneuron_runtime.so 146199-146925
+/vendor/lib64/libneuropilot_hal_utils.so 146926-146928
+/vendor/lib64/libneuropilot_jni_R.so 146929-146958 32464 146959-147761 147761 147761 147763-147779
+/vendor/lib64/libnir_neon_driver.so 147780-147844 32464 32464 32464 32464 147846-149872 0 0 149873-149874 149874 149874 149874 149874-149902
+/vendor/lib64/libnir_neon_driver_ndk.mtk.so 149903-150367 32464 32464 32464 32464 32464 32464 32464 150369-152554 0 0 0 0 152555-152556 0 152557-152559 0 0 0 0 152560-152561 0 0 0 152562-152567 0 152568-152583 152583 152583 152583 152583 152583 152583-152584 0 0 0 152585
+/vendor/lib64/libnvram.so 152586-152647
+/vendor/lib64/libnvram_daemon_callback.so 152648-152655
+/vendor/lib64/libnvram_platform.so 152656-152658
+/vendor/lib64/libnvram_sec.so 152659-152661
+/vendor/lib64/libnwk_opt_halwrap_vendor.so 152662-152665
+/vendor/lib64/libnxp_extamp_intf.so 152666-152668
+/vendor/lib64/libnxprecord.so 152669-152671
+/vendor/lib64/libnxpsmartpaparser.so 152672-152674
+/vendor/lib64/libnxpspeech.so 152675-152678
+/vendor/lib64/liboplus_audio_config.so 152679-152681
+/vendor/lib64/liboplus_mtkcam_configutils.so 152682-152713
+/vendor/lib64/liboplusbtnvutils.so 152714-152717
+/vendor/lib64/libperfctl_vendor.so 152718-152721
+/vendor/lib64/libpixelflinger.so 152722-152770
+/vendor/lib64/libpowerhal.so 152771-152817
+/vendor/lib64/libpowerhalwrap_vendor.so 152818-152824
+/vendor/lib64/libpq_cust_base.so 152825-152842 152842-152844 152839 152845-152859 152856 152861-152862 152853 152863-152872
+/vendor/lib64/libpq_prot.so 152873-153079
+/vendor/lib64/libprotobuf-cpp-full-3.9.1.so 153080-153109 32464 153110-153618 153618 153618 153620-153628
+/vendor/lib64/libprotobuf-cpp-lite-3.9.1.so 153629-153747
+/vendor/lib64/libpuresoftkeymasterdevice.so 153748-153759
+/vendor/lib64/libratconfig.so 153760-153762
+/vendor/lib64/libreference-ril.so 153763-153788
+/vendor/lib64/librgbwlightsensor.so 153789-153791
+/vendor/lib64/libril.so 153792-153867
+/vendor/lib64/librilfusion.so 153868-154080
+/vendor/lib64/librilutils.so 154081-154084
+/vendor/lib64/libscltm.so 154085-154087
+/vendor/lib64/libsensor_custom.so 154088-154091
+/vendor/lib64/libsensorndkbridge.so 154092-154104
+/vendor/lib64/libsoft_attestation_cert.so 154105-154109
+/vendor/lib64/libspeech_enh_lib.so 154110-154265
+/vendor/lib64/libspeechparser_vendor.so 154266-154277
+/vendor/lib64/libstagefrighthw.so 154278-154280
+/vendor/lib64/libstereoinfoaccessor_vsdof.so 154281-154449
+/vendor/lib64/libsysenv.so 154450-154494
+/vendor/lib64/libtextclassifier_hash.so 154495-154498
+/vendor/lib64/libtflite_mtk.so 154499-154525 32464 154526-155242
+/vendor/lib64/libtflite_mtk_static_R.so 155243-155271 32464 32464 155272-156071 156071 156071 156073-156089
+/vendor/lib64/libthha.so 156090-156091
+/vendor/lib64/libtinycompress.so 156092-156096
+/vendor/lib64/libtinyxml.so 156097-156098 145323 156099-156111
+/vendor/lib64/libtlcWidevineModularDrm.so 156112-156135
+/vendor/lib64/libudf.so 156136-156149
+/vendor/lib64/liburee_meta_drmkeyinstall.so 156150-156162
+/vendor/lib64/libvcodec_oal.so 156163-156169
+/vendor/lib64/libvia-ril.so 156170-156174
+/vendor/lib64/libvow_ap_testing.vendor.so 156175-156182
+/vendor/lib64/libvowp23_sid_testing.vendor.so 156183-156204
+/vendor/lib64/libvowp23_sid_training.vendor.so 156205-156319
+/vendor/lib64/libvowp25testing.vendor.so 156320-156365
+/vendor/lib64/libvowp2training.vendor.so 156366-156479
+/vendor/lib64/libvpu.so 156480-156494
+/vendor/lib64/libwapi.so 156495-156536
+/vendor/lib64/libwebrtc_audio_preprocessing.so 156537-156754
+/vendor/lib64/libwifi-hal.so 156755-156774
+/vendor/lib64/libwifitest.so 156775-156784
+/vendor/lib64/libwpa_client.so 156785-156792
+/vendor/lib64/libwpfa.so 156793-156851
+/vendor/lib64/libwvhidl.so 156852-156873 32464 156874-157472
+/vendor/lib64/mediacas/libclearkeycasplugin.so 157473-157494
+/vendor/lib64/mediadrm/libdrmclearkeyplugin.so 157495-157509
+/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so 157510-157522
+/vendor/lib64/mediadrm/libwvdrmengine.so 157523-158112
+/vendor/lib64/mtkcam/libmtkcam_streaminfo_plugin-p1stt.so 158113-158118
+/vendor/lib64/nwk_opt_imp.so 158119-158138
+/vendor/lib64/ov02b10_mipi_raw_IdxMgr.so 158139-158166
+/vendor/lib64/ov02b10_mipi_raw_tuning.so 158167-158176 96203-96204 158177-158187 34562 158188 35091 158190-158206 34001 158207-158245 95602-95603 158246-158259 0 158260-158263 0 0 0 0 0 0 158264-158301 0 158302-158305 0 0 0 0 0 0 158306-158320 0 158321-158324 0 0 0 0 0 0 158325-158330 0 158331-158341 33972-33973 158342-158359 80821 158360-158380 0 158381-158384 0 0 0 0 0 0 158385-158390 0 158391-158414 0 0 158415-158418 0 0 0 0 0 0 158419-158424 0 158425-158445 0 0 158446-158449 0 0 0 0 0 0 158450-158465 0 158466-158470 82047 158471-158494 0 0 0 0 0 158495-158496 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 158497-158608
+/vendor/lib64/ov64b_mipi_raw_IdxMgr.so 158609-158719
+/vendor/lib64/ov64b_mipi_raw_tuning.so 158720-158760 0 158761-158765 0 0 0 0 0 158766-158833 0 158834-158837 0 0 0 0 0 0 158838 158840-158844 0 158845-158862 0 158863-158866 0 0 0 0 0 0 158867-158913 0 0 158914-158917 0 0 0 0 0 0 158918-158995 0 158996-158999 0 0 0 0 0 0 159000-159044 158910 159045-159085 0 159086-159089 0 0 0 0 0 0 159090-159132 0 0 159133-159136 0 0 0 0 0 0 159137-159153 95304 159154-159246 0 159247-159250 0 0 0 0 0 0 159251-159258 0 159259-159262 0 0 0 0 0 0 159263-159264 159002-159003 159265-159267 0 159268-159271 0 159272-159275 0 0 0 0 0 0 159276-159295 0 0 159296-159299 0 0 0 0 0 0 159300-159335 96228 159336-159522 0 0 159523-159526 0 0 0 0 0 0 159527-159540 0 159541-159544 0 0 0 0 0 0 159545-159566 0 0 159567-159570 0 0 0 0 0 0 159571-159576 0 159577-159600 34244 159601-159603 33681 33681 159604-159626 0 159627-159631 0 0 0 0 0 159632-159635 0 159636-159649 0 159650-159653 0 0 0 0 0 0 159654-159668 0 159669-159673 0 0 0 0 0 159674-159680 0 159681-159778 80909 159779-159787 0 159788-159792 0 0 0 0 0 159793-159835 0 0 159836-159839 0 0 0 0 0 0 159840-159881 96587 159882-159888 159073 159889-159897 0 159898-159901 0 0 0 0 0 0 159902-159907 0 159908-159951 0 159952-159964 0 159965-159968 0 0 0 0 0 0 159969-160013 0 160014-160103 0 0 160104-160107 0 0 0 0 0 0 160108-160128 159154 160129-160135 0 160136-160139 0 0 0 0 0 0 160140-160146 0 160147-160223 0 160224-160227 0 0 0 0 0 0 160228-160271 0 0 160272-160275 0 0 0 0 0 0 160276-160368 0 160369-160372 0 0 0 0 0 0 160373-160411 0 160412-160415 0 0 0 0 0 0 160416-160435 0 160436-160439 0 0 0 0 0 0 160440-160491 0 0 0 0 0 160492 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 160493-160569 0 160570-160573 0 0 0 0 0 0 160574-160606 0 160607-160611 0 0 0 0 0 160612-160953 0 0 0 160954-161061
+/vendor/lib64/soter_attk_provision.so 161062-161064
+/vendor/lib64/soundfx/libaudiopreprocessing.so 161065-161073
+/vendor/lib64/soundfx/libaudiopreprocessing_mtk.so 161074-161081
+/vendor/lib64/soundfx/libbundlewrapper.so 161082-161101
+/vendor/lib64/soundfx/libdownmix.so 161102-161106
+/vendor/lib64/soundfx/libdynproc.so 161107-161122
+/vendor/lib64/soundfx/libeffectproxy.so 161123-161126
+/vendor/lib64/soundfx/libldnhncr.so 161127-161130
+/vendor/lib64/soundfx/libreverbwrapper.so 161131-161139
+/vendor/lib64/soundfx/libvisualizer.so 161140-161143
+/vendor/lib64/vendor.mediatek.hardware.aee@1.0.so 161144-161162
+/vendor/lib64/vendor.mediatek.hardware.apuware.apusys@1.0.so 161163-161192
+/vendor/lib64/vendor.mediatek.hardware.apuware.utils@1.0.so 161193-161212
+/vendor/lib64/vendor.mediatek.hardware.apuware.xrp@1.0.so 161213-161246
+/vendor/lib64/vendor.mediatek.hardware.atci@1.0.so 161247-161287
+/vendor/lib64/vendor.mediatek.hardware.audio@6.1.so 161288-161345
+/vendor/lib64/vendor.mediatek.hardware.bluetooth.audio@2.1.so 161346-161401
+/vendor/lib64/vendor.mediatek.hardware.camera.atms@1.0.so 161402-161420
+/vendor/lib64/vendor.mediatek.hardware.camera.camdump@1.0.so 161421-161449
+/vendor/lib64/vendor.mediatek.hardware.camera.ccap@1.0.so 161450-161470
+/vendor/lib64/vendor.mediatek.hardware.camera.frhandler@1.0.so 161471-161506
+/vendor/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so 161507-161553
+/vendor/lib64/vendor.mediatek.hardware.camera.lomoeffect@1.0.so 161554-161577
+/vendor/lib64/vendor.mediatek.hardware.camera.postproc@1.0.so 161578-161595
+/vendor/lib64/vendor.mediatek.hardware.camera.security@1.0.so 161596-161631
+/vendor/lib64/vendor.mediatek.hardware.dplanner@2.0.so 161632-161659
+/vendor/lib64/vendor.mediatek.hardware.engineermode@1.0.so 161660-161717
+/vendor/lib64/vendor.mediatek.hardware.engineermode@1.1.so 161718-161762
+/vendor/lib64/vendor.mediatek.hardware.engineermode@1.2.so 161763-161809
+/vendor/lib64/vendor.mediatek.hardware.engineermode@1.3.so 161810-161872
+/vendor/lib64/vendor.mediatek.hardware.gpu@1.0.so 161873-161912
+/vendor/lib64/vendor.mediatek.hardware.keyinstall@1.0.so 161913-161931
+/vendor/lib64/vendor.mediatek.hardware.keymaster_attestation@1.0.so 161932-161949
+/vendor/lib64/vendor.mediatek.hardware.keymaster_attestation@1.1.so 161952-161971
+/vendor/lib64/vendor.mediatek.hardware.lbs@1.0.so 161972-162000
+/vendor/lib64/vendor.mediatek.hardware.log@1.0.so 162001-162028
+/vendor/lib64/vendor.mediatek.hardware.mdmonitor@1.0.so 162029-162059
+/vendor/lib64/vendor.mediatek.hardware.mms@1.0.so 162060-162082
+/vendor/lib64/vendor.mediatek.hardware.mms@1.1.so 162083-162103
+/vendor/lib64/vendor.mediatek.hardware.mms@1.2.so 162104-162126
+/vendor/lib64/vendor.mediatek.hardware.mms@1.3.so 162127-162150
+/vendor/lib64/vendor.mediatek.hardware.mms@1.4.so 162151-162176
+/vendor/lib64/vendor.mediatek.hardware.mms@1.5.so 162177-162203
+/vendor/lib64/vendor.mediatek.hardware.mtkcodecservice@1.1.so 162204-162237
+/vendor/lib64/vendor.mediatek.hardware.mtkpower@1.0.so 162238-162269
+/vendor/lib64/vendor.mediatek.hardware.mtkpower@1.1.so 162270-162312
+/vendor/lib64/vendor.mediatek.hardware.mtkradioex@2.0.so 162313-162333 32464 162334-162973 162973-162995
+/vendor/lib64/vendor.mediatek.hardware.mtkradioex@2.1.so 162996-163217
+/vendor/lib64/vendor.mediatek.hardware.mtkradioex@2.2.so 163218-163492
+/vendor/lib64/vendor.mediatek.hardware.netdagent@1.0.so 163493-163510
+/vendor/lib64/vendor.mediatek.hardware.nvram@1.0.so 163511-163529
+/vendor/lib64/vendor.mediatek.hardware.nvram@1.1.so 163530-163558
+/vendor/lib64/vendor.mediatek.hardware.nwk_opt@1.0.so 163559-163578
+/vendor/lib64/vendor.mediatek.hardware.power@1.1.so 163579-163605
+/vendor/lib64/vendor.mediatek.hardware.power@2.0.so 163606-163635
+/vendor/lib64/vendor.mediatek.hardware.pplagent@1.0.so 163636-163655
+/vendor/lib64/vendor.mediatek.hardware.pq@2.0.so 163656-163706
+/vendor/lib64/vendor.mediatek.hardware.pq@2.1.so 163707-163741
+/vendor/lib64/vendor.mediatek.hardware.pq@2.2.so 163742-163777
+/vendor/lib64/vendor.mediatek.hardware.pq@2.3.so 163778-163822
+/vendor/lib64/vendor.mediatek.hardware.pq@2.4.so 163823-163839 163878-163903
+/vendor/lib64/vendor.mediatek.hardware.pq@2.5.so 163904-163948
+/vendor/lib64/vendor.mediatek.hardware.pq@2.6.so 163949-163993
+/vendor/lib64/vendor.mediatek.hardware.videotelephony@1.0.so 163994-164014
+/vendor/lib64/vendor.mediatek.hardware.vpu@1.0.so 164015-164060
+/vendor/lib64/vendor.mediatek.hardware.wifi.hostapd@2.0.so 164061-164096
+/vendor/lib64/vendor.mediatek.hardware.wifi.supplicant@2.0.so 164097-164197
+/vendor/lib64/vendor.mediatek.hardware.wifi.supplicant@2.1.so 164198-164235
+/vendor/lib64/vendor.mediatek.hardware.wifi.supplicant@2.2.so 164236-164262
+/vendor/lib64/vendor.oplus.hardware.cammidasservice@1.0.so 164263-164282
+/vendor/lib64/vendor.oplus.hardware.stability.oplus_project@1.0.so 164283-164304
+/vendor/lib64/vendor.oplus.hardware.wifi.supplicant@2.0.so 164305-164395
+/vendor/lib64/vendor.qti.hardware.soter@1.0.so 164396-164424
+/vendor/lib64/vendor.trustonic.tee.tui@1.0.so 164425-164455
+/vendor/lib64/vendor.trustonic.tee@1.0.so 164456-164490
+/vendor/lib64/vendor.trustonic.tee@1.1.so 164491-164531
+/vendor/odm/etc/NOTICE.xml.gz 164534
+/vendor/odm/etc/build.prop 164535
+/vendor/odm/etc/vintf/manifest_dsds.xml 164537
+/vendor/odm/etc/vintf/manifest_qsqs.xml 164538-164539
+/vendor/odm/etc/vintf/manifest_ss.xml 164540
+/vendor/odm/etc/vintf/manifest_tsts.xml 164541-164542
+/vendor/overlay/FrameworkResOverlay/FrameworkResOverlay.apk 164545-164549
+/vendor/overlay/SettingsProviderResOverlay/SettingsProviderResOverlay.apk 164551-164553
+/vendor/overlay/SystemUIResOverlay/SystemUIResOverlay.apk 164555-164557
+/vendor/overlay/WifiResOverlay/WifiResOverlay.apk 164559-164562
+/vendor/recovery-from-boot.p 164563-171799
+/vendor/res/images/lcd_test_00.png 171802-172315
+/vendor/res/images/lcd_test_01.png 172316-173299
+/vendor/res/images/lcd_test_02.png 173300-173750
+/vendor/res/sound/ringtone.wav 173752-174220
+/vendor/res/sound/testpattern1.wav 174221-174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174222 174224
+/vendor/ro.prop 174225
+/vendor/ueventd.rc 174226-174227

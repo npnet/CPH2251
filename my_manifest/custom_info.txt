@@ -1,0 +1,6 @@
+my_heytap,e7a87e23 
+my_stock,456223b0 
+my_region,f65902d7 
+my_carrier,b8e70f4d 
+my_preload,7dd988a1 
+my_company,2c28b51a 
