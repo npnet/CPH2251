@@ -1,0 +1,70 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=RP1A.200720.011
+ro.product.manufacturer=OPPO
+ro.product.brand=OPPO
+ro.product.model=CPH2251
+ro.product.name=CPH2251T2
+ro.product.device=OP4F83L1
+ro.product.first_api_level=30
+ro.build.version.incremental=1626498518162
+ro.build.version.release=11
+ro.build.fingerprint=OPPO/CPH2251T2/OP4F83L1:11/RP1A.200720.011/1626498518162:user/release-keys
+ro.odm.build.fingerprint=OPPO/CPH2251T2/OP4F83L1:11/RP1A.200720.011/1626498518162:user/release-keys
+ro.odm.build.version.incremental=1626498518162
+ro.product.odm.brand=OPPO
+ro.product.odm.manufacturer=OPPO
+ro.product.odm.model=CPH2251
+ro.product.odm.device=OP4F83L1
+ro.product.odm.name=CPH2251T2
+ro.odm.build.date=Sat Jul 17 13:42:01 CST 2021
+ro.odm.build.date.utc=1626500521
+ro.system.build.fingerprint=OPPO/CPH2251T2/OP4F83L1:11/RP1A.200720.011/1626498518162:user/release-keys
+ro.system.build.version.incremental=1626498518162
+ro.product.system.brand=OPPO
+ro.product.system.manufacturer=OPPO
+ro.product.system.model=CPH2251
+ro.product.system.device=OP4F83L1
+ro.product.system.name=CPH2251T2
+ro.system.build.date=Sat Jul 17 13:42:01 CST 2021
+ro.system.build.date.utc=1626500521
+ro.bootimage.build.fingerprint=OPPO/CPH2251T2/OP4F83L1:11/RP1A.200720.011/1626498518162:user/release-keys
+ro.bootimage.build.version.incremental=1626498518162
+ro.product.bootimage.brand=OPPO
+ro.product.bootimage.manufacturer=OPPO
+ro.product.bootimage.model=CPH2251
+ro.product.bootimage.device=OP4F83L1
+ro.product.bootimage.name=CPH2251T2
+ro.bootimage.build.date=Sat Jul 17 13:42:01 CST 2021
+ro.bootimage.build.date.utc=1626500521
+ro.vendor.build.fingerprint=OPPO/CPH2251T2/OP4F83L1:11/RP1A.200720.011/1626498518162:user/release-keys
+ro.vendor.build.version.incremental=1626498518162
+ro.product.vendor.brand=OPPO
+ro.product.vendor.manufacturer=OPPO
+ro.product.vendor.model=CPH2251
+ro.product.vendor.device=OP4F83L1
+ro.product.vendor.name=CPH2251T2
+ro.vendor.build.date=Sat Jul 17 13:42:02 CST 2021
+ro.vendor.build.date.utc=1626500522
+ro.system_ext.build.fingerprint=OPPO/CPH2251T2/OP4F83L1:11/RP1A.200720.011/1626498518162:user/release-keys
+ro.system_ext.build.version.incremental=1626498518162
+ro.product.system_ext.brand=OPPO
+ro.product.system_ext.manufacturer=OPPO
+ro.product.system_ext.model=CPH2251
+ro.product.system_ext.device=OP4F83L1
+ro.product.system_ext.name=CPH2251T2
+ro.system_ext.build.date=Sat Jul 17 13:42:02 CST 2021
+ro.system_ext.build.date.utc=1626500522
+ro.product.build.fingerprint=OPPO/CPH2251T2/OP4F83L1:11/RP1A.200720.011/1626498518162:user/release-keys
+ro.product.build.version.incremental=1626498518162
+ro.product.product.brand=OPPO
+ro.product.product.manufacturer=OPPO
+ro.product.product.model=CPH2251
+ro.product.product.device=OP4F83L1
+ro.product.product.name=CPH2251T2
+ro.product.build.date=Sat Jul 17 13:42:02 CST 2021
+ro.product.build.date.utc=1626500522
+
+# OPPO

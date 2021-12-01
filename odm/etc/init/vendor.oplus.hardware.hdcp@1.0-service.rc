@@ -1,0 +1,18 @@
+service hdcp_1_0_hal_service /odm/bin/hw/vendor.oplus.hardware.hdcp@1.0-service
+    class hal
+    user media
+    group media system mediadrm drmrpc inet
+
+#service vendor.drm-widevine-hal-1-2 /vendor/bin/hw/android.hardware.drm@1.2-service.widevine
+#//    interface android.hardware.drm@1.0::ICryptoFactory widevine
+#//    interface android.hardware.drm@1.0::IDrmFactory widevine
+#//    interface android.hardware.drm@1.1::ICryptoFactory widevine
+#//    interface android.hardware.drm@1.1::IDrmFactory widevine
+#//    interface android.hardware.drm@1.2::ICryptoFactory widevine
+#//    interface android.hardware.drm@1.2::IDrmFactory widevine
+#//    interface android.hidl.base@1.0::IBase widevine
+#//    class hal
+#//    user media
+#//    group media mediadrm drmrpc
+#//    ioprio rt 4
+#//    writepid /dev/cpuset/foreground/tasks

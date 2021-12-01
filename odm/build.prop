@@ -1,0 +1,41 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.oplus.system.camera.name=com.oppo.camera
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=420
+ro.oplus.screenhole.border=9
+ro.oplus.flashlight.rio.switch=persist.sys.oplus.flashlight.rio.switch
+ro.separate.soft=20355
+ro.rom.featrue=allnet
+ro.product.authentication=0
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.market.name=CPH2251
+ro.build.product=CPH2251
+ro.vendor.product.oem=CPH2251
+ro.vendor.product.device.oem=OP4F83
+ro.sys.reserve.integrate=true
+ro.mediatek.version.release=CPH2251_11_A.01_210717
+ro.vendor.mediatek.version.release=CPH2251_11_A.01_210717
+ro.build.display.id_ims=CPH2251_11_A.01_210717
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V11.3
+ro.build.kernel.id=4.14.186
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+############################## Add OPPO Info Common Begin ##############################
+persist.vendor.radio.nr_display_rule=1
+persist.vendor.radio.lte_con_stat_delay_timer=0
+persist.vendor.radio.scg_con_stat_delay_timer=0
+persist.vendor.radio.support_optimized_nr=true
+############################## Add OPPO Info Common End ##############################
+odm.dirac.path=/odm/etc/dirac
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=20355
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
