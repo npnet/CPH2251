@@ -1,0 +1,8 @@
+<oplus-config>
+    <oplus-feature name="oplus.software.wlan.dual_sta.switch_default_off" />
+
+    <!--oplus-feature name="oplus.software.wlan.smart_gear" /-->
+    <oplus-feature name="oplus.software.wlan.smart_gear" />
+    <!-- LiXiong@CONNECTIVITY.WIFI.NETWORK.ROUTERBOOST, 2020/09/27   -->
+    <oplus-feature name="oplus.software.wlan.routerboost" />
+</oplus-config>

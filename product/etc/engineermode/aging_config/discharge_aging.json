@@ -1,0 +1,11 @@
+{
+	"discharge_aging": {
+		"aging_item_id": 10018,
+		"aging_item_enable": false,
+		"aging_item_summary": "discharge",
+		"aging_item_duration_per_round": 0,
+		"aging_item_cycle_times": 1,
+		"aging_item_exclusive_item": true,
+		"discharge_target": 40
+	}
+}

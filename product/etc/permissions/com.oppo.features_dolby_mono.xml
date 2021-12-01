@@ -1,0 +1,6 @@
+<permissions>
+    <!-- OPLUS_FEATURE_DOLBY -->
+    <feature name="oppo.multimedia.dolby.effect.support" />
+    <feature name="oppo.soundeffect.support" />
+    <!-- OPLUS_FEATURE_DOLBY END -->
+</permissions>

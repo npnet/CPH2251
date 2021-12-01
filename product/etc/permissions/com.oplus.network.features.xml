@@ -1,0 +1,24 @@
+<oplus-config>
+    <!-- RF Begin -->
+    <oplus-feature name="oplus.software.radio.sar.earpiece.detect.support" />
+    <oplus-feature name="oplus.software.radio.sar.fcc.detect.support" />
+    <oplus-feature name="oplus.software.radio.eng_salepatest_support"/>
+    <oplus-feature name="oplus.software.radio.support_fcc_sar"/>
+    <!-- add for sar sensor simulation from AP -->
+    <oplus-feature name="oplus.software.radio.sar.sensor.simulation.support"/>
+    <!-- RF End -->
+
+    <!-- Asiga@NETWORK.POWER.26376, 2020/04/27, modify for Feature Toggle -->
+    <oplus-feature name="oplus.software.radio.nwpower_static_netcontroller_enabled" />
+
+    <!-- KangJin@NETWORK.DATA.1207635, 20201/03/09, add foreign sw disalbe nw limit notification-->
+    <oplus-feature name="oplus.software.radio.disable_nw_limit_notify"/>
+
+    <!--Chengyuan.Pan@NW.RF.1399173,2021/04/16 PA aging for B28B paths -->
+    <oplus-feature name="oplus.software.radio.pa_aging_for_lte_b28b" />
+    <oplus-feature name="oplus.software.radio.pa_aging_for_nr_b28b" />
+    <!-- Xun.chen@NETWORK.RF, 2021/04/02, add for sar sensor simulation from AP -->
+    <oplus-feature name="oplus.software.radio.sar.sensor.simulation.support"/>
+    <!-- TulikaSnehil@NETWORK.TEL, 2021/03/31, add user agent customization-->
+    <oplus-feature name="oplus.software.radio.set_useragent_via_carrierconfig"/>
+</oplus-config>

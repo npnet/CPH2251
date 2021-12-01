@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+        bit 6 | bit 5  | bit 4  | bit 3  | bit 2 | bit 1 | bit 0
+        wifi5 | wifi2.4| headset| charger| otg   | usb   | head_body
+-->
+<Root>
+    <Product name="20355">
+        <AllRegions name="CE:MX:IN:EUEX:RU:KZ:SG:AU:NZ:ZA">CE</AllRegions>
+        <Region name="CE:MX:IN" fcc="false" testsim_default="16">
+            <Scenarios>1111001</Scenarios>
+            <Scene mask="1100001">
+                <Sce index="1"  comment="earpiece on">1</Sce>
+                <Sce index="0"  comment="earpiece off">2</Sce>
+                <Sce index="97"  comment="wifi 2.4 + wifi 5 + earpiece on">5</Sce>
+                <Sce index="96"  comment="wifi 2.4 + wifi 5 + earpiece off">6</Sce>
+                <Sce index="33"  comment="wifi 2.4 + earpiece on">3</Sce>
+                <Sce index="32"  comment="wifi 2.4 + earpiece off">4</Sce>
+                <Sce index="65"  comment="wifi 5 + earpiece on">3</Sce>
+                <Sce index="64"  comment="wifi 5 + earpiece off">4</Sce>
+            </Scene>
+            <Scene mask="0011000">
+                <Sce index="0"  comment="headset off">10</Sce>
+                <Sce index="16"  comment="headset on">9</Sce>
+                <Sce index="8"  comment="charger on">9</Sce>
+                <Sce index="24"  comment="charger + headset on">9</Sce>
+            </Scene>
+            <Data>
+                <Id index="0">
+                    <All type="sar" band="">0</All>
+                </Id>
+                <Id index="1">
+                    <Dsi type="sar" >5</Dsi>
+                </Id>
+                <Id index="2">
+                    <Dsi type="sar" >3</Dsi>
+                </Id>
+                <Id index="3">
+                    <Dsi type="sar" >10</Dsi>
+                </Id>
+                <Id index="4">
+                    <Dsi type="sar" >8</Dsi>
+                </Id>
+                <Id index="5">
+                    <Dsi type="sar" >15</Dsi>
+                </Id>
+                <Id index="6">
+                    <Dsi type="sar" >13</Dsi>
+                </Id>
+                <Id index="7">
+                    <Dsi type="sar" >7</Dsi>
+                </Id>
+                <Id index="8">
+                    <Dsi type="sar" >8</Dsi>
+                </Id>
+                <Id index="16">
+                    <Dsi type="sar" >16</Dsi>
+                </Id>
+                <Id index="9">
+                    <Gsm type="force_antenna" band="1" >1</Gsm>
+                    <Gsm type="force_antenna" band="2" >1</Gsm>
+                </Id>
+                <Id index="10">
+                    <Gsm type="force_antenna" band="1" >255</Gsm>
+                    <Gsm type="force_antenna" band="2" >255</Gsm>
+                </Id>
+            </Data>
+        </Region>
+        <Region name="CE:MX:IN" fcc="true" testsim_default="16">
+            <Scenarios>1111001</Scenarios>
+            <Scene mask="1100001">
+                <Sce index="1"  comment="earpiece on">1</Sce>
+                <Sce index="0"  comment="earpiece off">2</Sce>
+                <Sce index="97"  comment="wifi 2.4 + wifi 5 + earpiece on">5</Sce>
+                <Sce index="96"  comment="wifi 2.4 + wifi 5 + earpiece off">6</Sce>
+                <Sce index="33"  comment="wifi 2.4 + earpiece on">3</Sce>
+                <Sce index="32"  comment="wifi 2.4 + earpiece off">4</Sce>
+                <Sce index="65"  comment="wifi 5 + earpiece on">3</Sce>
+                <Sce index="64"  comment="wifi 5 + earpiece off">4</Sce>
+            </Scene>
+            <Scene mask="0011000">
+                <Sce index="0"  comment="headset off">10</Sce>
+                <Sce index="16"  comment="headset on">9</Sce>
+                <Sce index="8"  comment="charger on">9</Sce>
+                <Sce index="24"  comment="charger + headset on">9</Sce>
+            </Scene>
+            <Data>
+                <Id index="0">
+                    <All type="sar" band="">0</All>
+                </Id>
+                <Id index="1">
+                    <Dsi type="sar" >5</Dsi>
+                </Id>
+                <Id index="2">
+                    <Dsi type="sar" >3</Dsi>
+                </Id>
+                <Id index="3">
+                    <Dsi type="sar" >10</Dsi>
+                </Id>
+                <Id index="4">
+                    <Dsi type="sar" >8</Dsi>
+                </Id>
+                <Id index="5">
+                    <Dsi type="sar" >15</Dsi>
+                </Id>
+                <Id index="6">
+                    <Dsi type="sar" >13</Dsi>
+                </Id>
+                <Id index="7">
+                    <Dsi type="sar" >7</Dsi>
+                </Id>
+                <Id index="8">
+                    <Dsi type="sar" >8</Dsi>
+                </Id>
+                <Id index="16">
+                    <Dsi type="sar" >16</Dsi>
+                </Id>
+                <Id index="9">
+                    <Gsm type="force_antenna" band="1" >1</Gsm>
+                    <Gsm type="force_antenna" band="2" >1</Gsm>
+                </Id>
+                <Id index="10">
+                    <Gsm type="force_antenna" band="1" >255</Gsm>
+                    <Gsm type="force_antenna" band="2" >255</Gsm>
+                </Id>
+            </Data>
+        </Region>
+        <Region name="EUEX:RU:KZ:SG:AU:NZ:ZA" fcc="false" testsim_default="16">
+            <Scenarios>1111001</Scenarios>
+            <Scene mask="1100001">
+                <Sce index="1"  comment="earpiece on">1</Sce>
+                <Sce index="0"  comment="earpiece off">2</Sce>
+                <Sce index="97"  comment="wifi 2.4 + wifi 5 + earpiece on">5</Sce>
+                <Sce index="96"  comment="wifi 2.4 + wifi 5 + earpiece off">6</Sce>
+                <Sce index="33"  comment="wifi 2.4 + earpiece on">3</Sce>
+                <Sce index="32"  comment="wifi 2.4 + earpiece off">4</Sce>
+                <Sce index="65"  comment="wifi 5 + earpiece on">3</Sce>
+                <Sce index="64"  comment="wifi 5 + earpiece off">4</Sce>
+            </Scene>
+            <Scene mask="0011000">
+                <Sce index="0"  comment="headset off">10</Sce>
+                <Sce index="16"  comment="headset on">9</Sce>
+                <Sce index="8"  comment="charger on">9</Sce>
+                <Sce index="24"  comment="charger + headset on">9</Sce>
+            </Scene>
+            <Data>
+                <Id index="0">
+                    <All type="sar" band="">0</All>
+                </Id>
+                <Id index="1">
+                    <Dsi type="sar" >5</Dsi>
+                </Id>
+                <Id index="2">
+                    <Dsi type="sar" >3</Dsi>
+                </Id>
+                <Id index="3">
+                    <Dsi type="sar" >10</Dsi>
+                </Id>
+                <Id index="4">
+                    <Dsi type="sar" >8</Dsi>
+                </Id>
+                <Id index="5">
+                    <Dsi type="sar" >15</Dsi>
+                </Id>
+                <Id index="6">
+                    <Dsi type="sar" >13</Dsi>
+                </Id>
+                <Id index="16">
+                    <Dsi type="sar" >16</Dsi>
+                </Id>
+                <Id index="9">
+                    <Gsm type="force_antenna" band="1" >1</Gsm>
+                    <Gsm type="force_antenna" band="2" >1</Gsm>
+                </Id>
+                <Id index="10">
+                    <Gsm type="force_antenna" band="1" >255</Gsm>
+                    <Gsm type="force_antenna" band="2" >255</Gsm>
+                </Id>
+            </Data>
+        </Region>
+        <Region name="EUEX:RU:KZ:SG:AU:NZ:ZA" fcc="true" testsim_default="16">
+            <Scenarios>1111001</Scenarios>
+            <Scene mask="1100001">
+                <Sce index="1"  comment="earpiece on">1</Sce>
+                <Sce index="0"  comment="earpiece off">2</Sce>
+                <Sce index="97"  comment="wifi 2.4 + wifi 5 + earpiece on">1</Sce>
+                <Sce index="96"  comment="wifi 2.4 + wifi 5 + earpiece off">2</Sce>
+                <Sce index="33"  comment="wifi 2.4 + earpiece on">1</Sce>
+                <Sce index="32"  comment="wifi 2.4 + earpiece off">2</Sce>
+                <Sce index="65"  comment="wifi 5 + earpiece on">1</Sce>
+                <Sce index="64"  comment="wifi 5 + earpiece off">2</Sce>
+            </Scene>
+            <Scene mask="0011000">
+                <Sce index="0"  comment="headset off">10</Sce>
+                <Sce index="16"  comment="headset on">9</Sce>
+                <Sce index="8"  comment="charger on">9</Sce>
+                <Sce index="24"  comment="charger + headset on">9</Sce>
+            </Scene>
+            <Data>
+                <Id index="0">
+                    <All type="sar" band="">0</All>
+                </Id>
+                <Id index="1">
+                    <Dsi type="sar" >18</Dsi>
+                </Id>
+                <Id index="2">
+                    <Dsi type="sar" >17</Dsi>
+                </Id>
+                <Id index="16">
+                    <Dsi type="sar" >16</Dsi>
+                </Id>
+                <Id index="9">
+                    <Gsm type="force_antenna" band="1" >1</Gsm>
+                    <Gsm type="force_antenna" band="2" >1</Gsm>
+                </Id>
+                <Id index="10">
+                    <Gsm type="force_antenna" band="1" >255</Gsm>
+                    <Gsm type="force_antenna" band="2" >255</Gsm>
+                </Id>
+            </Data>
+        </Region>
+    </Product>
+</Root>
