@@ -1,0 +1,10 @@
+<oplus-config>
+<!-- Suxiaolong@NETWORK.REG.208067, 2020/07/31, modify for Feature Toggle -->
+<!-- <unavailable-oplus-feature name="oplus.software.radio.support_5g"/> -->
+
+    <!-- PengHao@NETWORK.DATA.8124, 2020/05/08, Add for network quality evaluation.OPLUS_FEATURE_DATA_EVAL -->
+    <oplus-feature name="oplus.software.radio.data_eval" />
+
+    <!-- PengHao@NETWORK.DATA.110873, 2020/06/28, Add for oppo background data limit, OPLUS_FEATURE_DATA_LIMIT. -->
+    <oplus-feature name="oplus.software.radio.data_limit" />
+</oplus-config>

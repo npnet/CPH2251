@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<extend_features>
+
+    <!--zhengli.liang@ANDROID.UPDATABILITY, 2021/01/04, Add for sau -->
+    <app_feature name="com.oplusos.sau.url" args="String:https://sau-server-in.allawnos.com/post/"/>
+
+
+</extend_features>
